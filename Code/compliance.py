@@ -5,8 +5,9 @@ Author:         Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
 Date: 			June 8, 2023
 
 Inputs:			../Data/Longitude Inputs/longitudes_[YYYYMMDD].csv
-				../Data/SNL Archives/[YYYYMMDD]/licenses_[YYYYMMDD].csv	
-Outputs:		../Data/Nearby Shortlists/[YYYYMMDD]/[satcat]_[YYYYMMDD.csv]					../Data/Compliance Grades/grades_[YYYYMMDD].csv
+					../Data/SNL Archives/[YYYYMMDD]/licenses_[YYYYMMDD].csv	
+Outputs:			../Data/Nearby Shortlists/[YYYYMMDD]/[satcat]_[YYYYMMDD.csv]					
+					../Data/Compliance Grades/grades_[YYYYMMDD].csv
 """
 
 ## This script issues a compliance rating for GEO satellites given their NORAD ID and longitudinal position. A shortlist of nearby filings is also produced for each GEO satellite.
@@ -28,11 +29,11 @@ for row in reader:
    countries_dictionary[k] = v
 # Write a dictionary for the full names of filings type
 filings_dictionary = {
-	'A' 			: 'Advance Public Information (A)',
+	'A' 				: 'Advance Public Information (A)',
 	'C'   			: 'Coordination Request (C)',
 	'N'				: 'Notification of Space Station (N)',
 	'U'				: 'Due Diligence (U)',
-	'P'  			: 'Planned (P)',
+	'P'  				: 'Planned (P)',
 	'P/Plan/List' 	: 'Planned (P/Plan/List)'
 	}
 # Import local launch history database as lists
@@ -123,7 +124,7 @@ for i in np.arange(len(satcats)):
 	for j, k in zip(locallaunchdatabase_norad_list, locallaunchdatabase_country_list):
 		if j == satcat:
 			catalog_country = k
-	df_nearbyshortlist = pd.DataFrame(0, columns = ['License', 'ITU Administration', 'Longitude', 'License Type', 'Filing Type', 'Brought into Use', 'Matched Characteristics', 'Link', 'Longitudinal Distance', 'ITUAdm'], index = np.arange(1000))
+	df_nearbyshortlist = pd.DataFrame(0, columns = ['License', 'ITU Administration', 'Longitude', 'License Type', 'Filing Type', 'Brought into Use', 'Match', 'Link', 'Longitudinal Distance', 'ITUAdm'], index = np.arange(1000))
 	licensecount = 0
 	for j in np.arange(len(df_licenses)):
 		longitudinal_distance = abs(df_licenses.at[j,'Longitude']-longitude)
@@ -162,14 +163,19 @@ for i in np.arange(len(satcats)):
 	duediligence_directory = duediligence_directories_names[duediligence_directories_datetimes.index(max(duediligence_directories_datetimes))]
 	df_duediligence = pd.read_csv('../Data/Due Diligence Matches/' + duediligence_directory + '/' + satcat + '.csv')
 	for j in np.arange(len(df_nearbyshortlist)):
-		if df_nearbyshortlist.at[j,'Filing Type'] == 'Due Diligence (U)':
-			df_nearbyshortlist.at[j, 'Matched Characteristics'] = 'No'
-		else:
-			df_nearbyshortlist.at[j, 'Matched Characteristics'] = 'n/a'
+		df_nearbyshortlist.at[j, 'Match'] = 'n/a'
 		license = df_nearbyshortlist.at[j, 'License']
 		for k in np.arange(len(df_duediligence)):
-			if (df_duediligence.at[k, 'Satellite Name'] == license and df_duediligence.at[k, 'Launch Offset (days)'] <= 365 and df_duediligence.at[k, 'Launch Country Match'] == 1 and df_duediligence.at[k, 'Launch Spaceport Match'] + df_duediligence.at[k, 'Launch Vehicle Match'] + df_duediligence.at[k, 'Satellite Manufacturer Match'] >= 2):
-				df_nearbyshortlist.at[j, 'Matched Characteristics'] = 'Yes'
+			if (df_duediligence.at[k, 'Satellite Name'] == license and df_duediligence.at[k, 'Launch Country Match'] == 1):
+				df_nearbyshortlist.at[j, 'Match'] = 'None'
+				launchdatematch = 0
+				if df_duediligence.at[k, 'Launch Offset (days)'] <= 365:
+					launchdatematch = 1
+				matchsum = launchdatematch + df_duediligence.at[k, 'Launch Spaceport Match'] + df_duediligence.at[k, 'Launch Vehicle Match'] + df_duediligence.at[k, 'Satellite Manufacturer Match'] 
+				if matchsum  >= 1:
+					df_nearbyshortlist.at[j, 'Match'] = 'Partial'
+				if matchsum == 4:
+					df_nearbyshortlist.at[j, 'Match'] = 'Full'
 	# Now use the short list to make a letter grade
 	lettergrade = 0
 	for j in np.arange(len(df_nearbyshortlist)):
@@ -177,11 +183,12 @@ for i in np.arange(len(satcats)):
 			ITUAdm = df_nearbyshortlist.at[j, 'ITUAdm']
 			if ITUAdm in SpaceTrackcountries_dict[catalog_country]:
 				lettergrade = max(lettergrade, 1)
-				if (df_nearbyshortlist.at[j, 'Filing Type'] == 'Notification of Space Station (N)' or df_nearbyshortlist.at[j, 'Filing Type'] == 'Due Diligence (U)'):
+				if df_nearbyshortlist.at[j, 'Brought into Use'] == 'Yes':
 					lettergrade = max(lettergrade, 2)
-					if df_nearbyshortlist.at[j, 'Brought into Use'] == 'Yes':
-						lettergrade = max(lettergrade, 3)
-						if df_nearbyshortlist.at[j, 'Matched Characteristics'] == 'Yes':
+					if (df_nearbyshortlist.at[j, 'Match'] != 'n/a' or df_nearbyshortlist.at[j, 'Match'] != 'None'):
+						if df_nearbyshortlist.at[j, 'Match'] == 'Partial':
+							lettergrade = max(lettergrade, 3)
+						if df_nearbyshortlist.at[j, 'Match'] == 'Full':
 							lettergrade = max(lettergrade, 4)
 	# Drop the longitudinal distance column
 	df_nearbyshortlist = df_nearbyshortlist.drop(['Longitudinal Distance', 'ITUAdm'], axis=1)
