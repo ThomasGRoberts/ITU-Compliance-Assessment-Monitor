@@ -121,9 +121,9 @@ operators are considered a match with a space network filing’s administration 
 Letter grades are used to describe GEO satellites's compliance. 
 * An **"A" letter grade** means there there exists a space network license within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use and features matching characteristics.
 * A **"B" letter grade** means that there exists a space network license within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use, but its features do not match those of the satellite.
-* A **"C" letter grade** means that there exists an early-stage space network filing (i.e. 'C', 'P', or 'P/Plan/List', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration with which other ITU administrations must coordinate spectrum use.
-* A **"D" letter grade** means that there exists an early-stage non-planned space network license filing (i.e. 'A', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration.
-* A **"F" letter grade** means that there are no filings of any kind held by a corresponding ITU administration within 0.1 degrees longitude.
+* A **"C" letter grade** means that there exists an early-stage space network filing (i.e. 'A', 'C', 'P', or 'P/Plan/List', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration.
+* A **"D" letter grade** means that there are no filings of any kind held by _any_ ITU administration within 0.1 degrees longitude.
+* A **"F" letter grade** means that there are no filings of any kind held by a corresponding ITU administration within 0.1 degrees longitude, but another ITU administration _does_ have a nearby filing.
 
 This letter grade scheme was modeled after the U.S. collegiate 4.0 scale, such that historical compliance can be measured using a traditional grade-point average.
 
