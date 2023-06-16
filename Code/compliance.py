@@ -1,8 +1,8 @@
 """
-Name: 			compliance.py
+Name: 		compliance.py
 Description: 	Check whether GEO satellites' positions match any filed ITU space network licenses.
 Author:         Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
-Date: 			June 8, 2023
+Date: 		June 8, 2023
 
 Inputs:			../Data/Longitude Inputs/longitudes_[YYYYMMDD].csv
 					../Data/SNL Archives/[YYYYMMDD]/licenses_[YYYYMMDD].csv	
