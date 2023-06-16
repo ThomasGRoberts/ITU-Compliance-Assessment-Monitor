@@ -119,13 +119,13 @@ operators are considered a match with a space network filing’s administration 
 ### Compliance Letter Grades
 
 Letter grades are used to describe GEO satellites's compliance. 
-* An **"A" letter grade** means there there exists a space network license within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use and features matching characteristics.
-* A **"B" letter grade** means that there exists a space network license within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use, but its features do not match those of the satellite.
-* A **"C" letter grade** means that there exists an early-stage space network filing (i.e. 'A', 'C', 'P', or 'P/Plan/List', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration.
-* A **"D" letter grade** means that there are no filings of any kind held by _any_ ITU administration within 0.1 degrees longitude.
-* A **"F" letter grade** means that there are no filings of any kind held by a corresponding ITU administration within 0.1 degrees longitude, but another ITU administration _does_ have a nearby filing.
+* An **'A' letter grade** means that there exists a space network license within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use and features _fully_ matching characteristics.
+* A **'B' letter grade** means that there exists a space network license within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use and features _partially_ matching characteristics.
+* A **'C' letter grade** means that there exists a space network license within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use, but features _no_ matching characteristics.
+* A **'D' letter grade** means that there exists an early-stage space network filing (i.e. 'A', 'C', 'P', or 'P/Plan/List', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration.
+* A **'F' letter grade** means that there are no filings of any kind held by a corresponding ITU administration within 0.1 degrees longitude.
 
-This letter grade scheme was modeled after the U.S. collegiate 4.0 scale, such that historical compliance can be measured using a traditional grade-point average.
+This letter grade scheme was modeled after the U.S. collegiate 4.0 scale. Historical compliance can be measured using a traditional grade-point average (where an 'A' and a C-letter grade can be considered "passing," meaning th
 
 ## Scripts
 
