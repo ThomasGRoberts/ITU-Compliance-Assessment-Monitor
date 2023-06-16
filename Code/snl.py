@@ -1,11 +1,11 @@
 """
-Name: 			snl.py
+Name: 		snl.py
 Description: 	Downloads license information from the ITU's Space Network List.
 Author:         Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
-Date: 			June 8, 2023
+Date: 		June 8, 2023
 
-Input:			n/a
-Output:			../Data/SNL Archives/[YYYYMMDD]/licenses_[YYYYMMDD].csv	
+Input:		n/a
+Output:		../Data/SNL Archives/[YYYYMMDD]/licenses_[YYYYMMDD].csv	
 """
 
 ## The ITU Space Network List includes relevant information about space network filings in three places. One place has filing data associated with unplanned space network licenses, another has filing data planned space network licenses, and a third has information describes whether both the unplanned and planned licenses have been brought into use. This script downloads those three datasets and organizes them into one easy-to-read file. 
