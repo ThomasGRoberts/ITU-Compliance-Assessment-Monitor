@@ -8,7 +8,7 @@ Input:		n/a
 Output:		../Data/SNL Archives/[YYYYMMDD]/licenses_[YYYYMMDD].csv	
 """
 
-## The ITU Space Network List includes relevant information about space network filings in three places. One place has filing data associated with unplanned space network licenses, another has filing data planned space network licenses, and a third has information describes whether both the unplanned and planned licenses have been brought into use. This script downloads those three datasets and organizes them into one easy-to-read file. 
+## The ITU Space Network List includes relevant information about space network filings in four places. One place has filing data associated with unplanned space network licenses, another has filing data planned space network licenses, a third has information describes whether both the unplanned and planned licenses have been brought into use, and a fourth describes periods in which some networks have been suspended and/or resumed service. This script downloads those four datasets and organizes them into one easy-to-read file. 
 
 import os
 from datetime import datetime
@@ -35,6 +35,8 @@ print("The non-planned portion of the SNL has been scraped and saved.")
 os.system('python3 snl_planned_scrape.py')
 print("The planned portion of the SNL has been scraped and saved.")
 os.system('python3 snl_broughtintouse_download.py')
+print("The SNL's brought-into-use data has been downloaded.")
+os.system('python3 snl_suspended_download.py')
 print("The SNL's brought-into-use data has been downloaded.")
 
 ## Now let's organize the data into one easy-to-read file. 
@@ -66,15 +68,16 @@ with open('../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') + '/snl_
 			index = planned_license_names.index(row[2])
 			planned_license_types[index] = planned_types[max(planned_types.index(row[4]), planned_types.index(planned_license_types[index]))]
 # Write a Pandas dataframe house the organized data
-df_licenses = pd.DataFrame(0, columns = ['License Name', 'Longitude', 'ITU Administration', 'Planned or Non-Planned', 'Highest Maturity', 'Brought-into-Use Date', 'Link'], index = np.arange(len(planned_license_names) + len(unplanned_license_names)))
+df_licenses = pd.DataFrame(0, columns = ['License Name', 'Longitude', 'ITU Administration', 'Planned or Non-Planned', 'Highest Maturity', 'Brought-into-Use Date', 'Suspension Type', 'Suspension Date', 'Resumption Date', 'Link'], index = np.arange(len(planned_license_names) + len(unplanned_license_names)))
 # Drop in the lists of unique licenses
 df_licenses['License Name'] = unplanned_license_names + planned_license_names
 df_licenses['Planned or Non-Planned'] = ['Non-Planned']*len(unplanned_license_names) + ['Planned']*len(planned_license_names)
 df_licenses['Highest Maturity'] = unplanned_license_types + planned_license_types 
-# Quickly import the three raw datasets
+# Quickly import the four raw datasets
 df_planned = pd.read_csv('../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') + '/snl_planned_' + datetime.today().strftime('%Y%m%d') + '.csv', header = None)
 df_unplanned = pd.read_csv('../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') + '/snl_unplanned_' + datetime.today().strftime('%Y%m%d') + '.csv', header = None)
 df_broughtintouse = pd.read_csv('../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') + '/snl_broughtintouse_' + datetime.today().strftime('%Y%m%d') + '.csv')
+df_suspended = pd.read_csv('../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') + '/snl_suspended_' + datetime.today().strftime('%Y%m%d') + '.csv')
 # Fill in the rest of the dataframe
 for i in np.arange(len(df_licenses)):
 	print('Fetching license information for', df_licenses.at[i, 'License Name'], '...')
@@ -99,6 +102,17 @@ for i in np.arange(len(df_licenses)):
 	else:
 		date = str(min(dates))[0:10] 
 		df_licenses.at[i, 'Brought-into-Use Date'] = date
+	df_licenses.at[i, 'Suspension Type'] = 'n/a'
+	df_licenses.at[i, 'Suspension Date'] = 'n/a'
+	df_licenses.at[i, 'Resumption Date'] = 'n/a'
+	for j in np.arange(len(df_suspended)):
+		if str(df_suspended.iat[j, 1]) == str(df_licenses.at[i, 'License Name']):
+			df_licenses.at[i, 'Suspension Type'] = str(df_suspended.iat[j, 6]).strip()
+			# Check if the suspension date field is filled
+			if len(str(df_suspended.iat[j, 8])) > 4:
+				df_licenses.at[i, 'Suspension Date'] = str(datetime.strptime(df_suspended.iat[j, 8], '%d.%m.%Y'))[0:10]
+			if len(str(df_suspended.iat[j, 10])) > 4:
+				df_licenses.at[i, 'Resumption Date'] = str(datetime.strptime(df_suspended.iat[j, 10], '%d.%m.%Y'))[0:10]
 # Sort the data by longitude
 df_licenses = df_licenses.sort_values('Longitude', ascending = True)
 # Save the file to a CSV

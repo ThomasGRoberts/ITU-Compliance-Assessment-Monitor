@@ -36,6 +36,9 @@ filings_dictionary = {
 	'P'  				: 'Planned (P)',
 	'P/Plan/List' 	: 'Planned (P/Plan/List)'
 	}
+
+# Write a maturity rank order of the various filings types 
+filings_rankorder = ['Advance Public Information (A)', 'Planned (P/Plan/List)', 'Planned (P)', 'Coordination Request (C)', 'Notification of Space Station (N)', 'Due Diligence (U)']
 # Import local launch history database as lists
 locallaunchdatabase_cospar_list = []
 locallaunchdatabase_norad_list = []
@@ -105,7 +108,7 @@ else:
 # Make a file to house the letter grade results
 with open('../Data/Compliance Grades/grades_' + datetime.today().strftime('%Y%m%d') + '.csv', 'w') as csvfile:
 	writer = csv.writer(csvfile)
-	writer.writerow(['NORAD ID', 'Longitude', 'Compliance Grade'])
+	writer.writerow(['NORAD ID', 'Longitude', 'Compliant', 'Highest-Maturity Filing Type', 'Brought-into-Use', 'Due Diligence Match', 'Suspension Status'])
 # Import the list of GEO satellites and their longitudinal positions
 satcats = []
 longitudes = []
@@ -124,7 +127,7 @@ for i in np.arange(len(satcats)):
 	for j, k in zip(locallaunchdatabase_norad_list, locallaunchdatabase_country_list):
 		if j == satcat:
 			catalog_country = k
-	df_nearbyshortlist = pd.DataFrame(0, columns = ['License', 'ITU Administration', 'Longitude', 'License Type', 'Filing Type', 'Brought into Use', 'Match', 'Link', 'Longitudinal Distance', 'ITUAdm'], index = np.arange(1000))
+	df_nearbyshortlist = pd.DataFrame(0, columns = ['License', 'ITU Administration', 'Longitude', 'License Type', 'Filing Type', 'Brought into Use', 'Due Diligence Match', 'Suspended', 'Link', 'Longitudinal Distance', 'ITUAdm'], index = np.arange(1000))
 	licensecount = 0
 	for j in np.arange(len(df_licenses)):
 		longitudinal_distance = abs(df_licenses.at[j,'Longitude']-longitude)
@@ -142,6 +145,16 @@ for i in np.arange(len(satcats)):
 			df_nearbyshortlist.at[licensecount, 'Longitude'] = longitude_formatted
 			df_nearbyshortlist.at[licensecount, 'License Type'] = df_licenses.at[j,'Planned or Non-Planned']
 			df_nearbyshortlist.at[licensecount, 'Filing Type'] = filings_dictionary[df_licenses.at[j,'Highest Maturity']]
+			df_nearbyshortlist.at[licensecount, 'Suspended'] = 'n/a'
+			if df_licenses.at[j,'Suspension Type'] == 'T':
+				df_nearbyshortlist.at[licensecount, 'Suspended'] = 'Full'
+			if df_licenses.at[j,'Suspension Type'] == 'P':
+				df_nearbyshortlist.at[licensecount, 'Suspended'] = 'Partial'
+			# Check if the suspended license has been resumed
+			if df_nearbyshortlist.at[licensecount, 'Suspended'] != 'n/a':
+				if (df_licenses.at[j, 'Resumption Date'] != 'n/a' and type(df_licenses.at[j, 'Resumption Date']) != float):
+					if datetime.today() > datetime.strptime(str(df_licenses.at[j, 'Resumption Date']), '%Y-%m-%d'):
+						df_nearbyshortlist.at[licensecount, 'Suspended'] = 'Resumed'
 			df_nearbyshortlist.at[licensecount, 'Link'] = df_licenses.at[j,'Link']
 			df_nearbyshortlist.at[licensecount, 'Longitudinal Distance'] = longitudinal_distance
 			if (df_licenses.at[j,'Highest Maturity'] == 'U' or df_licenses.at[j,'Highest Maturity'] == 'N'):
@@ -150,7 +163,7 @@ for i in np.arange(len(satcats)):
 				else:
 					df_nearbyshortlist.at[licensecount, 'Brought into Use'] = 'Yes'
 			else:
-				df_nearbyshortlist.at[licensecount, 'Brought into Use'] = 'n/a'
+				df_nearbyshortlist.at[licensecount, 'Brought into Use'] = 'No'
 			licensecount += 1
 	# Drop blank rows in the dataframe
 	df_nearbyshortlist = df_nearbyshortlist.loc[~(df_nearbyshortlist==0).all(axis=1)]
@@ -163,40 +176,72 @@ for i in np.arange(len(satcats)):
 	duediligence_directory = duediligence_directories_names[duediligence_directories_datetimes.index(max(duediligence_directories_datetimes))]
 	df_duediligence = pd.read_csv('../Data/Due Diligence Matches/' + duediligence_directory + '/' + satcat + '.csv')
 	for j in np.arange(len(df_nearbyshortlist)):
-		df_nearbyshortlist.at[j, 'Match'] = 'n/a'
+		df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'n/a'
 		license = df_nearbyshortlist.at[j, 'License']
+		if df_nearbyshortlist.at[j, 'License Type'] == 'Due Diligence (U)':
+				df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'None'
 		for k in np.arange(len(df_duediligence)):
 			if (df_duediligence.at[k, 'Satellite Name'] == license and df_duediligence.at[k, 'Launch Country Match'] == 1):
-				df_nearbyshortlist.at[j, 'Match'] = 'None'
 				launchdatematch = 0
 				if df_duediligence.at[k, 'Launch Offset (days)'] <= 365:
 					launchdatematch = 1
 				matchsum = launchdatematch + df_duediligence.at[k, 'Launch Spaceport Match'] + df_duediligence.at[k, 'Launch Vehicle Match'] + df_duediligence.at[k, 'Satellite Manufacturer Match'] 
 				if matchsum  >= 1:
-					df_nearbyshortlist.at[j, 'Match'] = 'Partial'
+					df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'Partial'
 				if matchsum == 4:
-					df_nearbyshortlist.at[j, 'Match'] = 'Full'
+					df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'Full'
 	# Now use the short list to make a letter grade
-	lettergrade = 0
+	license_names = []
+	license_scores = []
 	for j in np.arange(len(df_nearbyshortlist)):
+		score = 0
+		license_names.append(df_nearbyshortlist.at[j, 'License'])
 		if df_nearbyshortlist.at[j, 'Longitudinal Distance'] <= 0.1:
 			ITUAdm = df_nearbyshortlist.at[j, 'ITUAdm']
 			if ITUAdm in SpaceTrackcountries_dict[catalog_country]:
-				lettergrade = max(lettergrade, 1)
-				if df_nearbyshortlist.at[j, 'Brought into Use'] == 'Yes':
-					lettergrade = max(lettergrade, 2)
-					if (df_nearbyshortlist.at[j, 'Match'] != 'n/a' or df_nearbyshortlist.at[j, 'Match'] != 'None'):
-						if df_nearbyshortlist.at[j, 'Match'] == 'Partial':
-							lettergrade = max(lettergrade, 3)
-						if df_nearbyshortlist.at[j, 'Match'] == 'Full':
-							lettergrade = max(lettergrade, 4)
+				score += 1
+			if (df_nearbyshortlist.at[j, 'Filing Type'] == 'Notification of Space Station (N)' or df_nearbyshortlist.at[j, 'Filing Type'] == 'Due Diligence (U)'):
+				score += 1
+			if df_nearbyshortlist.at[j, 'Brought into Use'] == 'Yes':
+				score += 1
+				if (df_nearbyshortlist.at[j, 'Due Diligence Match'] != 'n/a' or df_nearbyshortlist.at[j, 'Due Diligence Match'] != 'None'):
+					if df_nearbyshortlist.at[j, 'Due Diligence Match'] == 'Partial':
+						score += 1
+					if df_nearbyshortlist.at[j, 'Due Diligence Match'] == 'Full':
+						score += 2
+			if df_nearbyshortlist.at[j, 'Suspended'] == 'Totally':
+				score = 0
+		license_scores.append(score)
+	bestscore = max(license_scores)
+	license_name = 'n/a'
+	license_maturity = 'n/a'
+	license_broughtintouse = 'n/a'
+	license_match = 'n/a'
+	license_suspended = 'n/a'
+	if bestscore != 0:
+		bestlicense_index = license_scores.index(max(license_scores))
+		license_name = license_names[bestlicense_index]
+		for j in np.arange(len(df_nearbyshortlist)):
+			if df_nearbyshortlist.at[j, 'License'] == license_name:
+					license_maturity = df_nearbyshortlist.at[j, 'Filing Type']
+					license_broughtintouse = df_nearbyshortlist.at[j, 'Brought into Use']
+					license_match = df_nearbyshortlist.at[j, 'Due Diligence Match']
+					license_suspended = df_nearbyshortlist.at[j, 'Suspended']
+	# Evaluate compliance
+	if license_broughtintouse == 'Yes':
+		compliance = 'Yes \U0001F7E2'
+	else:
+		if license_name == 'n/a':
+			compliance = 'No \U0001F534'
+		else:
+			compliance = 'No \U0001F7E1'
 	# Drop the longitudinal distance column
 	df_nearbyshortlist = df_nearbyshortlist.drop(['Longitudinal Distance', 'ITUAdm'], axis=1)
 	# Save the short list to a CSV 
 	df_nearbyshortlist.to_csv('../Data/Nearby Shortlists/' + datetime.today().strftime('%Y%m%d') + '/' + satcat + '_' + datetime.today().strftime('%Y%m%d') + '.csv', index = None)
 	with open('../Data/Compliance Grades/grades_' + datetime.today().strftime('%Y%m%d') + '.csv', 'a') as csvfile:
 		writer = csv.writer(csvfile)
-		writer.writerow([satcat, round(longitude, 2), grades_dictionary[lettergrade]])
+		writer.writerow([satcat, round(longitude, 2), compliance, license_maturity, license_broughtintouse, license_match, license_suspended])
 
 
 

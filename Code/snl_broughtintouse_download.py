@@ -8,7 +8,7 @@ Inputs:         n/a
 Outputs:        ../Data/SNL Archives/[Today's Date]/snl_broughtintouse_[Today's Date].csv
 """
 
-# The ITU publishes information about when both planned and non-planend space network licenses are brought into use. The brought-into-use list is available online (https://www.itu.int/net/ITU-R/space/snl/listinuse/index.asp) and updated approximately every two weeks.
+# The ITU publishes information about when both planned and non-planned space network licenses are brought into use. The brought-into-use list is available online (https://www.itu.int/net/ITU-R/space/snl/listinuse/index.asp) and updated approximately every two weeks.
 
 # The abbreviations in the "Status" column have the following meanings:
 """
