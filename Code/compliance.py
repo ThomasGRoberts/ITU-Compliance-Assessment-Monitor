@@ -1,11 +1,11 @@
 """
-Name: 		compliance.py
-Description: 	Check whether GEO satellites' positions match any filed ITU space network licenses.
-Author:         Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
-Date: 		June 8, 2023
+Name: 			compliance.py
+Description: 	Check whether GEO satellites' positions match any filed ITU space networks.
+Author:        Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
+Date: 			June 20, 2023
 
 Inputs:			../Data/Longitude Inputs/longitudes_[YYYYMMDD].csv
-					../Data/SNL Archives/[YYYYMMDD]/licenses_[YYYYMMDD].csv	
+					../Data/SNL Archives/[YYYYMMDD]/networks_[YYYYMMDD].csv	
 Outputs:			../Data/Nearby Shortlists/[YYYYMMDD]/[satcat]_[YYYYMMDD.csv]					
 					../Data/Compliance Grades/grades_[YYYYMMDD].csv
 """
@@ -20,7 +20,7 @@ import os
 
 ## Import relevant data
 # Import the list of licenses created using snl.py
-df_licenses = pd.read_csv('../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') + '/licenses_' + datetime.today().strftime('%Y%m%d') + '.csv')
+df_licenses = pd.read_csv('../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') + '/networks_' + datetime.today().strftime('%Y%m%d') + '.csv')
 # Import a dictionary to convert ITU country symbols to designations
 reader = csv.reader(open('../Data/Reference Files/ITUcountries.csv', 'r'))
 countries_dictionary = {}
@@ -108,7 +108,7 @@ else:
 # Make a file to house the letter grade results
 with open('../Data/Compliance Grades/grades_' + datetime.today().strftime('%Y%m%d') + '.csv', 'w') as csvfile:
 	writer = csv.writer(csvfile)
-	writer.writerow(['NORAD ID', 'Longitude', 'Compliant', 'Highest-Maturity Filing Type', 'Brought-into-Use', 'Due Diligence Match', 'Suspension Status'])
+	writer.writerow(['NORAD ID', 'Longitude', 'Compliant', 'Note'])
 # Import the list of GEO satellites and their longitudinal positions
 satcats = []
 longitudes = []
@@ -127,14 +127,14 @@ for i in np.arange(len(satcats)):
 	for j, k in zip(locallaunchdatabase_norad_list, locallaunchdatabase_country_list):
 		if j == satcat:
 			catalog_country = k
-	df_nearbyshortlist = pd.DataFrame(0, columns = ['License', 'ITU Administration', 'Longitude', 'License Type', 'Filing Type', 'Brought into Use', 'Due Diligence Match', 'Suspended', 'Link', 'Longitudinal Distance', 'ITUAdm'], index = np.arange(1000))
+	df_nearbyshortlist = pd.DataFrame(0, columns = ['Network', 'ITU Administration', 'Longitude', 'Network Type', 'Filing Type', 'Brought into Use', 'Due Diligence Match', 'Suspended', 'Link', 'Longitudinal Distance', 'ITUAdm'], index = np.arange(1000))
 	licensecount = 0
 	for j in np.arange(len(df_licenses)):
 		longitudinal_distance = abs(df_licenses.at[j,'Longitude']-longitude)
 		if longitudinal_distance > 180:
 			longitudinal_distance = 360 - longitudinal_distance
 		if longitudinal_distance <= 1.0:
-			df_nearbyshortlist.at[licensecount, 'License'] = df_licenses.at[j,'License Name']
+			df_nearbyshortlist.at[licensecount, 'Network'] = df_licenses.at[j,'Network Name']
 			df_nearbyshortlist.at[licensecount, 'ITU Administration'] = countries_dictionary[df_licenses.at[j,'ITU Administration'].strip()]
 			ITUAdm = df_licenses.at[j,'ITU Administration'].strip()
 			df_nearbyshortlist.at[licensecount, 'ITUAdm'] = ITUAdm
@@ -143,7 +143,7 @@ for i in np.arange(len(satcats)):
 			else:
 				longitude_formatted = str(df_licenses.at[j,'Longitude']) + u'\N{DEGREE SIGN}' + 'E'
 			df_nearbyshortlist.at[licensecount, 'Longitude'] = longitude_formatted
-			df_nearbyshortlist.at[licensecount, 'License Type'] = df_licenses.at[j,'Planned or Non-Planned']
+			df_nearbyshortlist.at[licensecount, 'Network Type'] = df_licenses.at[j,'Planned or Non-Planned']
 			df_nearbyshortlist.at[licensecount, 'Filing Type'] = filings_dictionary[df_licenses.at[j,'Highest Maturity']]
 			df_nearbyshortlist.at[licensecount, 'Suspended'] = 'n/a'
 			if df_licenses.at[j,'Suspension Type'] == 'T':
@@ -177,8 +177,8 @@ for i in np.arange(len(satcats)):
 	df_duediligence = pd.read_csv('../Data/Due Diligence Matches/' + duediligence_directory + '/' + satcat + '.csv')
 	for j in np.arange(len(df_nearbyshortlist)):
 		df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'n/a'
-		license = df_nearbyshortlist.at[j, 'License']
-		if df_nearbyshortlist.at[j, 'License Type'] == 'Due Diligence (U)':
+		license = df_nearbyshortlist.at[j, 'Network']
+		if df_nearbyshortlist.at[j, 'Network Type'] == 'Due Diligence (U)':
 				df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'None'
 		for k in np.arange(len(df_duediligence)):
 			if (df_duediligence.at[k, 'Satellite Name'] == license and df_duediligence.at[k, 'Launch Country Match'] == 1):
@@ -195,7 +195,7 @@ for i in np.arange(len(satcats)):
 	license_scores = []
 	for j in np.arange(len(df_nearbyshortlist)):
 		score = 0
-		license_names.append(df_nearbyshortlist.at[j, 'License'])
+		license_names.append(df_nearbyshortlist.at[j, 'Network'])
 		if df_nearbyshortlist.at[j, 'Longitudinal Distance'] <= 0.1:
 			ITUAdm = df_nearbyshortlist.at[j, 'ITUAdm']
 			if ITUAdm in SpaceTrackcountries_dict[catalog_country]:
@@ -222,26 +222,37 @@ for i in np.arange(len(satcats)):
 		bestlicense_index = license_scores.index(max(license_scores))
 		license_name = license_names[bestlicense_index]
 		for j in np.arange(len(df_nearbyshortlist)):
-			if df_nearbyshortlist.at[j, 'License'] == license_name:
+			if df_nearbyshortlist.at[j, 'Network'] == license_name:
 					license_maturity = df_nearbyshortlist.at[j, 'Filing Type']
 					license_broughtintouse = df_nearbyshortlist.at[j, 'Brought into Use']
 					license_match = df_nearbyshortlist.at[j, 'Due Diligence Match']
 					license_suspended = df_nearbyshortlist.at[j, 'Suspended']
 	# Evaluate compliance
+	note = 'n/a'
 	if license_broughtintouse == 'Yes':
-		compliance = 'Yes \U0001F7E2'
-	else:
-		if license_name == 'n/a':
-			compliance = 'No \U0001F534'
+		compliance = 'Yes'
+		if license_suspended == 'n/a':
+			note = 'There exists a space network within 0.1 degrees that has been brought into use by a corresponding ITU administration.'
 		else:
-			compliance = 'No \U0001F7E1'
+			if license_suspended == 'Partial':
+				note = 'There exists a space network within 0.1 degrees that has been brought into use by a corresponding ITU administration. The identified network is currently partially suspended.'
+			else:
+				note = 'There exists a space network within 0.1 degrees that has been brought into use by a corresponding ITU administration. The identified network was previous suspended, but has since resumed operation.'
+	else:
+		compliance = 'No'
+		if (license_maturity == 'Notification of Space Station (N)' or license_maturity == 'Due Diligence (U)'):
+			note = 'There exists a space network within 0.1 degrees filed by a corresponding ITU administration that is eligible for bringing into use, but the corresponding ITU administration has not yet done so.'
+		if license_name == 'n/a':
+			note = 'There are no space networks within 0.1 degrees for which any filings ahve been submitted by a corresponding ITU administration.'
+		else:
+			note = 'There exists a space network within 0.1 degrees held by a corresponding ITU administration, but its filings are in their early stages: there is not right to be protected from harmful interference.'
 	# Drop the longitudinal distance column
 	df_nearbyshortlist = df_nearbyshortlist.drop(['Longitudinal Distance', 'ITUAdm'], axis=1)
 	# Save the short list to a CSV 
 	df_nearbyshortlist.to_csv('../Data/Nearby Shortlists/' + datetime.today().strftime('%Y%m%d') + '/' + satcat + '_' + datetime.today().strftime('%Y%m%d') + '.csv', index = None)
 	with open('../Data/Compliance Grades/grades_' + datetime.today().strftime('%Y%m%d') + '.csv', 'a') as csvfile:
 		writer = csv.writer(csvfile)
-		writer.writerow([satcat, round(longitude, 2), compliance, license_maturity, license_broughtintouse, license_match, license_suspended])
+		writer.writerow([satcat, round(longitude, 2), compliance, note])
 
 
 

@@ -2,7 +2,7 @@
 Name:           snl_unplanned_scrape.py
 Description:    Scrapes and saves just the non-planned portion of the ITU's Space Network List. Run using snl.py.
 Author:         Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
-Date:           June 8, 2023
+Date:           June 20, 2023
 
 Inputs:         n/a
 Outputs:        ../Data/SNL Archives/[Today's Date]/snl_unplanned_[Today's Date].csv

@@ -6,7 +6,7 @@
 
 This tool can be used to assess geosynchronous (GEO) satellite operators' compliance with orbital slotting guidelines from the International Telecommunications Union (ITU), a specialized agency of the United Nations.
 
-GEO satellite positions can be measured in longitudinal degrees along the geostationary belt. Member states of the ITU can receive space network assignments that describe an individual physical position within the geostationary belt and a number of frequency bands at which satellites can operate such that they are free from harmful interference in the radio-frequency spectrum with other nearby space systems. Altough this system of GEO satellite spectrum allocation has been in place for decades, many operators choose to [largely ignore](https://amostech.com/TechnicalPapers/2022/SSA-SDA/Roberts.pdf) their orbital slotting guidelines.
+GEO satellite positions can be measured in longitudinal degrees along the geostationary belt. After a process of submitting filings and coordinating with other space networks, member states of the ITU can receive space network assignments that describe an individual physical position within the geostationary belt and a number of frequency bands at which satellites can operate such that they are free from harmful interference in the radio-frequency spectrum with other nearby space systems. Altough this system of GEO satellite spectrum allocation has been in place for decades, many operators choose to [largely ignore](https://amostech.com/TechnicalPapers/2022/SSA-SDA/Roberts.pdf) their orbital slotting guidelines.
 
 This work represents a component of the author's PhD dissertation at MIT's Department of Aeronautics and Astronautics, "Measuring Adherence to the International Telecommunication Union’s Geosynchronous Orbital Slotting Guidelines," which offers a historical assessment of adherence to the physical component of ITU space network licences for more than decade of recent GEO satellite operations.
 
@@ -23,21 +23,23 @@ The two columns, 'NORAD ID' and 'Longitude', should describe longitudinal positi
 1. Run the `snl.py` script.
 	* This script downloads the latest space network data from the ITU's Space Network List (SNL) and nicely organizes it.
 2. Run the `compliance.py` script.
-	* This script takes the prepared input file and offers a satellite-by-satellite letter-grade assessment of ITU orbital slotting compliance.
-	* Letter-grade assessments are saved as `./Data/Compliance Grades/grades_[Today's Date].csv`.
+	* This script takes the prepared input file and offers a satellite-by-satellite assessment of ITU orbital slotting compliance.
+	* Assessments are saved as `./Data/Compliance Grades/grades_[Today's Date].csv`.
 	* A shortlist of nearby space networks are saved as `./Data/Nearby Shortlists/[Today's Date]/[NORAD ID]_[Today's Date].csv`.
 
 ### A Note on Automation
 
-This tool could be paired with a actively updating satellite catalog dataset to automatically assess adherence to ITU orbital slots on a daily cadence. One formulation might could be to perform the following steps each day at the same time:
+This tool could be paired with an actively updating satellite catalog dataset to automatically assess compliance to ITU orbital slots on a daily cadence. One formulation might could be to perform the following steps each day at the same time:
 1. Append information about new GEO satellites to the local satellite catalog (`./Data/Reference Files/satellitlecatalog.csv`).
-2. Create a new longitudes file with the longitudinal position of each active GEO satellite in the catalog. 
+	* Relevant information includes COSPAR ID, NORAD ID, the satellite's name, operator (country or organization), launch date, launch site, and satellite manufacturer.
+	* The operator and launch site should match the abbreviations used on Space-Track.org.  
+2. Create a new longitudes file with the longitudinal position of each active GEO satellite in the catalog (`./Data/Longitude Inputs/longitudes_[Today's Date].csv`). 
 3. Run the `snl.py` script.
 4. Run the `compliance.py` script.
 5. For each satellite:
-	* Display the list of nearby network (`./Data/Nearby Shortlists/[Today's Date]/[NORAD ID]_[Today's Date].csv`).
-	* Display the current letter grade. 
-	* Display the rolling average of past letter grades.
+	* Display the shortlist of nearby networks (`./Data/Nearby Shortlists/[Today's Date]/[NORAD ID]_[Today's Date].csv`).
+	* Display the current compliance assessment.
+	* Display the current compliance note.
 
 ## Definitions
 
@@ -116,16 +118,18 @@ Match information is prepared by the author.
 Since the many space object catalogs, including the one used for this tool (`./Data/Reference Files/satellitlecatalog.csv`), allows countries, groups of countries, and non-state organizations to be listed as satellite operators while the ITU considers only ITU member states as space network administrations, a crossreference scheme must be established to match satellite operators to space network administrators. GEO satellite
 operators are considered a match with a space network filing’s administration if the administration’s ITU country symbol appears alongside the operator’s abbreviation in Table A2.1 [here](https://amostech.com/TechnicalPapers/2022/SSA-SDA/Roberts.pdf).
  
-### Compliance Letter Grades
+### Compliance Assessments
 
-Symbols are used to describe GEO satellites's compliance. 
-* A **Yes 🟢** symbol means that there exists a space network within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use.
+GEO satellites's compliance is described as both a simple "yes" or "no," plus an additional note with more information.
+* A **Yes** assessment means that there exists a space network within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use.
 	* This network may be partially, but not fully suspended.
 	* The due diligence data of the nearby license may not match that of the satellite.
-* A **No 🟡** symbol means that there exists an early-stage space network filing (i.e. 'A', 'C', 'P', or 'P/Plan/List', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration.
-	* The space networks associated with these early-stage filings will not appear on the Master International Frequency Register (MIFR).
-	* The satellite operator is not ensured protected use of this orbital slot. 
-* A **No 🔴** symbol means means that there are no filings of any kind held by a corresponding ITU administration within 0.1 degrees longitude.
+* A **No** symbol means that there are no space network within 0.1 degrees longitude held by a corresponding ITU administration that have been brought into use.
+	* There may exist an early-stage space network filing (i.e. 'A', 'C', 'P', or 'P/Plan/List', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration.
+		* The space networks associated with these early-stage filings will not appear on the Master International Frequency Register (MIFR).
+		* The satellite operator is not ensured protected use of this orbital slot. 
+ 
+The notes section of the `./Data/Compliance Grades/grades_[Today's Date].csv` file offers more information about the compliance status.
 
 ## Scripts
 

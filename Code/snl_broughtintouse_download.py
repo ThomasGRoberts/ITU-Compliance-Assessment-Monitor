@@ -1,14 +1,14 @@
 """
 Name:           snl_broughtintouse_download.py
-Description:    Downloads the ITU space network licenses that have been brought into use. Run using snl.py.
+Description:    Downloads the ITU space networks that have been brought into use. Run using snl.py.
 Author:         Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
-Date:           June 8, 2023
+Date:           June 20, 2023
 
 Inputs:         n/a
 Outputs:        ../Data/SNL Archives/[Today's Date]/snl_broughtintouse_[Today's Date].csv
 """
 
-# The ITU publishes information about when both planned and non-planned space network licenses are brought into use. The brought-into-use list is available online (https://www.itu.int/net/ITU-R/space/snl/listinuse/index.asp) and updated approximately every two weeks.
+# The ITU publishes information about when both planned and non-planned space networks are brought into use. The brought-into-use list is available online (https://www.itu.int/net/ITU-R/space/snl/listinuse/index.asp) and updated approximately every two weeks.
 
 # The abbreviations in the "Status" column have the following meanings:
 """

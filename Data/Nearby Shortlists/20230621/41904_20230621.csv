@@ -1,0 +1,19 @@
+Network,ITU Administration,Longitude,Network Type,Filing Type,Brought into Use,Due Diligence Match,Suspended,Link
+F-SAT-30B-84W,France 🇫🇷,84.0°W,Planned,Planned (P),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-84W&sel_satname=F-SAT-30B-84W&plan_id=plan
+F-SAT-N10-84W,France 🇫🇷,84.0°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N10-84W&sel_satname=F-SAT-N10-84W&plan_id=
+B-SAT P,Brazil 🇧🇷,84.0°W,Non-Planned,Due Diligence (U),Yes,Partial,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT+P&sel_satname=B-SAT+P&plan_id=
+B-SAT-2N-1,Brazil 🇧🇷,84.0°W,Non-Planned,Due Diligence (U),Yes,Full,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-2N-1&sel_satname=B-SAT-2N-1&plan_id=
+B-SAT-1N-1,Brazil 🇧🇷,84.0°W,Non-Planned,Due Diligence (U),Yes,Full,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-1N-1&sel_satname=B-SAT-1N-1&plan_id=
+B-SAT-2N,Brazil 🇧🇷,84.0°W,Non-Planned,Due Diligence (U),Yes,Partial,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-2N&sel_satname=B-SAT-2N&plan_id=
+B-SAT-1N-2,Brazil 🇧🇷,84.0°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=B-SAT-1N-2&sel_satname=B-SAT-1N-2&plan_id=
+F-SAT-N7-84W,France 🇫🇷,84.0°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-84W&sel_satname=F-SAT-N7-84W&plan_id=
+NCG00000,Nicaragua 🇳🇮,84.4°W,Planned,Planned (P/Plan/List),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NCG00000&sel_satname=NCG00000&plan_id=plan
+NICASAT-1B,Nicaragua 🇳🇮,84.4°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NICASAT-1B&sel_satname=NICASAT-1B&plan_id=
+NICASAT-1L,Nicaragua 🇳🇮,84.4°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NICASAT-1L&sel_satname=NICASAT-1L&plan_id=
+KYPROS-83.5W,Cyprus 🇨🇾,83.5°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-83.5W&sel_satname=KYPROS-83.5W&plan_id=
+NSS-FSS 83W,Netherlands 🇳🇱,83.0°W,Planned,Planned (P),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS+83W&sel_satname=NSS-FSS+83W&plan_id=plan
+ARRAKIS-1,United Kingdom 🇬🇧,83.0°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ARRAKIS-1&sel_satname=ARRAKIS-1&plan_id=
+LUX-G8-44,Luxembourg 🇱🇺,83.0°W,Non-Planned,Due Diligence (U),Yes,n/a,Full,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=LUX-G8-44&sel_satname=LUX-G8-44&plan_id=
+NSS-G7-83W,Netherlands 🇳🇱,83.0°W,Non-Planned,Coordination Request (C),No,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-G7-83W&sel_satname=NSS-G7-83W&plan_id=
+USASAT-35R,United States 🇺🇸,83.0°W,Non-Planned,Due Diligence (U),Yes,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-35R&sel_satname=USASAT-35R&plan_id=
+USASAT-24V,United States 🇺🇸,83.0°W,Non-Planned,Due Diligence (U),Yes,n/a,n/a,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-24V&sel_satname=USASAT-24V&plan_id=
