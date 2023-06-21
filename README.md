@@ -164,7 +164,7 @@ Interesting products within the `./Data/` directory are described in more detail
 
 For each GEO satellite included in the input file, a shortlist of space networks within 1.0 degrees is produced. As an example, a short list of nearby networks for the _Luch (Olymp)_ satellite (NORAD ID: 40258) on June 14, 2023, is reproduced below. On this date, _Luch_ was located at approximately -18.07 degrees, or 18.07°W.
 
-| License          | ITU Administration            | Longitude | License Type | Filing Type                       | Brought into Use | Matched Characteristics |
+| Network          | ITU Administration            | Longitude | License Type | Filing Type                       | Brought into Use | Matched Characteristics |
 |------------------|-------------------------------|-----------|--------------|-----------------------------------|------------------|-------------------------|
 | YAHSAT-FSS-18W   | United Arab Emirates 🇦🇪 | 18.0°W   | Planned      | Planned (P)                       | n/a              | n/a                     |
 | INTELSAT7 342E   | United States 🇺🇸        | 18.0°W   | Non-Planned  | Due Diligence (U)                 | Yes              | No                      |
