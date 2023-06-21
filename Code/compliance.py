@@ -119,6 +119,8 @@ with open('../Data/Longitude Inputs/longitudes_' + datetime.today().strftime('%Y
 		longitudes.append(row[1])
 satcats = satcats[1:]
 longitudes = longitudes[1:]
+# satcats = ['40258']
+# longitudes = [-18.07]
 # For each satellite, find all ITU filings within 1.0 degrees longitude
 for i in np.arange(len(satcats)):
 	satcat = satcats[i]
@@ -200,17 +202,17 @@ for i in np.arange(len(satcats)):
 			ITUAdm = df_nearbyshortlist.at[j, 'ITUAdm']
 			if ITUAdm in SpaceTrackcountries_dict[catalog_country]:
 				score += 1
-			if (df_nearbyshortlist.at[j, 'Filing Type'] == 'Notification of Space Station (N)' or df_nearbyshortlist.at[j, 'Filing Type'] == 'Due Diligence (U)'):
-				score += 1
-			if df_nearbyshortlist.at[j, 'Brought into Use'] == 'Yes':
-				score += 1
-				if (df_nearbyshortlist.at[j, 'Due Diligence Match'] != 'n/a' or df_nearbyshortlist.at[j, 'Due Diligence Match'] != 'None'):
-					if df_nearbyshortlist.at[j, 'Due Diligence Match'] == 'Partial':
-						score += 1
-					if df_nearbyshortlist.at[j, 'Due Diligence Match'] == 'Full':
-						score += 2
-			if df_nearbyshortlist.at[j, 'Suspended'] == 'Totally':
-				score = 0
+				if (df_nearbyshortlist.at[j, 'Filing Type'] == 'Notification of Space Station (N)' or df_nearbyshortlist.at[j, 'Filing Type'] == 'Due Diligence (U)'):
+					score += 1
+				if df_nearbyshortlist.at[j, 'Brought into Use'] == 'Yes':
+					score += 1
+					if (df_nearbyshortlist.at[j, 'Due Diligence Match'] != 'n/a' or df_nearbyshortlist.at[j, 'Due Diligence Match'] != 'None'):
+						if df_nearbyshortlist.at[j, 'Due Diligence Match'] == 'Partial':
+							score += 1
+						if df_nearbyshortlist.at[j, 'Due Diligence Match'] == 'Full':
+							score += 2
+				if df_nearbyshortlist.at[j, 'Suspended'] == 'Totally':
+					score = 0
 		license_scores.append(score)
 	bestscore = max(license_scores)
 	license_name = 'n/a'
@@ -243,7 +245,7 @@ for i in np.arange(len(satcats)):
 		if (license_maturity == 'Notification of Space Station (N)' or license_maturity == 'Due Diligence (U)'):
 			note = 'There exists a space network within 0.1 degrees filed by a corresponding ITU administration that is eligible for bringing into use, but the corresponding ITU administration has not yet done so.'
 		if license_name == 'n/a':
-			note = 'There are no space networks within 0.1 degrees for which any filings ahve been submitted by a corresponding ITU administration.'
+			note = 'There are no space networks within 0.1 degrees for which any filings have been submitted by a corresponding ITU administration.'
 		else:
 			note = 'There exists a space network within 0.1 degrees held by a corresponding ITU administration, but its filings are in their early stages: there is not right to be protected from harmful interference.'
 	# Drop the longitudinal distance column
