@@ -30,7 +30,7 @@ The two columns, 'NORAD ID' and 'Longitude', should describe longitudinal positi
 ### A Note on Automation
 
 This tool could be paired with an actively updating satellite catalog dataset to automatically assess compliance to ITU orbital slots on a daily cadence. One formulation might could be to perform the following steps each day at the same time:
-1. Append information about new GEO satellites to the local satellite catalog (`./Data/Reference Files/satellitlecatalog.csv`).
+1. Append information about new GEO satellites to the local satellite catalog (`./Data/Reference Files/satellitecatalog.csv`).
 	* Relevant information includes COSPAR ID, NORAD ID, the satellite's name, operator (country or organization), launch date, launch site, and satellite manufacturer.
 	* The operator and launch site should match the abbreviations used on Space-Track.org.  
 2. Create a new longitudes file with the longitudinal position of each active GEO satellite in the catalog (`./Data/Longitude Inputs/longitudes_[Today's Date].csv`). 

@@ -2,10 +2,10 @@
 Name:           snl_broughtintouse_download.py
 Description:    Downloads the ITU space networks that have been brought into use. Run using snl.py.
 Author:         Thomas G. Roberts (thomasgr@mit.edu / thomasgroberts.com)
-Date:           June 20, 2023
+Date:           August 4, 2023
 
 Inputs:         n/a
-Outputs:        ../Data/SNL Archives/[Today's Date]/snl_broughtintouse_[Today's Date].csv
+Outputs:        ../Data/SNL Downloads/[YYYYMMDD]/snl_broughtintouse_[YYYYMMDD].csv
 """
 
 # The ITU publishes information about when both planned and non-planned space networks are brought into use. The brought-into-use list is available online (https://www.itu.int/net/ITU-R/space/snl/listinuse/index.asp) and updated approximately every two weeks.
@@ -21,5 +21,8 @@ Outputs:        ../Data/SNL Archives/[Today's Date]/snl_broughtintouse_[Today's 
 from datetime import datetime
 import urllib.request
 
-# The brought-into-use list should be saved in ../Data/SNL Archives/[Today's Date]/snl_broughtintouse_[Today's Date].csv.
-urllib.request.urlretrieve('https://www.itu.int/net/ITU-R/space/snl/listinuse/index-txt.asp?sel_satname=&sel_orbit_from=&sel_orbit_to=&sel_adm=&sel_org=&sel_date_from=&sel_date_to=&sel_sns_id=&sel_prov=&sel_rec=&order=&mod=', '../Data/SNL Archives/' + datetime.today().strftime('%Y%m%d') +'/snl_broughtintouse_' + datetime.today().strftime('%Y%m%d') + '.csv')
+# Choose a date to run the assessment
+assessmentdate = datetime.today().strftime('%Y%m%d')
+
+# Download and save the brought into use list
+urllib.request.urlretrieve('https://www.itu.int/net/ITU-R/space/snl/listinuse/index-txt.asp?sel_satname=&sel_orbit_from=&sel_orbit_to=&sel_adm=&sel_org=&sel_date_from=&sel_date_to=&sel_sns_id=&sel_prov=&sel_rec=&order=&mod=', '../Data/SNL Downloads/' + assessmentdate + '/snl_broughtintouse_' + assessmentdate + '.csv')
