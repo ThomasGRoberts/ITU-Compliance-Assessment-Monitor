@@ -105,11 +105,6 @@ locallaunchdatabase_norad_list = []
 locallaunchdatabase_satname_list = []
 locallaunchdatabase_country_list = []
 locallaunchdatabase_launchdate_list = []
-locallaunchdatabase_site_list = []
-locallaunchdatabase_spaceport_list = []
-locallaunchdatabase_decay_list = []
-locallaunchdatabase_vehiclefamily_list = []
-locallaunchdatabase_satellitemanufacturer_list = []
 with open("../Data/Reference Files/satellitecatalog.csv") as f:
 	reader = csv.reader(f, delimiter=",")
 	for row in reader:
@@ -124,11 +119,6 @@ with open("../Data/Reference Files/satellitecatalog.csv") as f:
 			else:
 				launchdate_datetime2 = launchdate_datetime
 			locallaunchdatabase_launchdate_list.append(launchdate_datetime2)
-			locallaunchdatabase_site_list.append(row[5])
-			locallaunchdatabase_spaceport_list.append(row[6])
-			locallaunchdatabase_decay_list.append(row[7])
-			locallaunchdatabase_vehiclefamily_list.append(row[8])
-			locallaunchdatabase_satellitemanufacturer_list.append(row[9])
 # Create a dictionary for mapping SpaceTrack country names to ITU symbols
 SpaceTrackcountries_list = []
 ITUcountrycodes_list = []

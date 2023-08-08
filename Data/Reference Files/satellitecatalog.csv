@@ -1,1203 +1,1203 @@
-COSPAR,NORAD,SATNAME,COUNTRY,LAUNCH,SITE,SPACEPORT,DECAY,VEHICLE_FAMILY,SATELLITE_MANUFACTURER,SATELLITE_MANUFACTURER_SOURCE
-1963-004A,553,SYNCOM 1,US,2/14/63,AFETR,Cape Canaveral / Kennedy Space Center,,Delta B,Hughes,Gunter
-1963-031A,634,SYNCOM 2 (A 26),US,7/26/63,AFETR,Cape Canaveral / Kennedy Space Center,,Delta B,Hughes,Seradata
-1964-047A,858,SYNCOM 3,US,8/19/64,AFETR,Cape Canaveral / Kennedy Space Center,,Delta D,Hughes,Seradata
-1965-028A,1317,INTELSAT 1-F1,ITSO,4/6/65,AFETR,Cape Canaveral / Kennedy Space Center,,Delta D,Hughes,Seradata
-1966-110A,2608,ATS 1,US,12/7/66,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Agena,Hughes,Seradata
-1967-001A,2639,INTELSAT 2-F2,ITSO,1/11/67,AFETR,Cape Canaveral / Kennedy Space Center,,Delta E,Hughes,Seradata
-1967-026A,2717,INTELSAT 2-F3,ITSO,3/23/67,AFETR,Cape Canaveral / Kennedy Space Center,,Delta E,Hughes,Seradata
-1967-094A,2969,INTELSAT 2-F4,ITSO,9/28/67,AFETR,Cape Canaveral / Kennedy Space Center,,Delta E,Hughes,Seradata
-1967-111A,3029,ATS 3,US,11/5/67,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Agena,Hughes,Seradata
-1968-081A,3428,OV2-5,US,9/26/68,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,Northrop,Seradata
-1969-013A,3691,OPS 0757 (TACSAT),US,2/9/69,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,Hughes,Seradata
-1969-069A,4068,ATS 5,US,8/12/69,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1969-101A,4250,SKYNET 1,UK,11/22/69,AFETR,Cape Canaveral / Kennedy Space Center,,Delta M,Ford,Seradata
-1970-003A,4297,INTELSAT 3-F6,ITSO,1/15/70,AFETR,Cape Canaveral / Kennedy Space Center,,Delta M,TRW,Seradata
-1970-021A,4353,NATO 2A,NATO,3/20/70,AFETR,Cape Canaveral / Kennedy Space Center,,Delta M,Ford,Seradata
-1970-032A,4376,INTELSAT 3-F7,ITSO,4/23/70,AFETR,Cape Canaveral / Kennedy Space Center,,Delta M,TRW,Seradata
-1970-055A,4478,INTELSAT 3-F8,ITSO,7/23/70,AFETR,Cape Canaveral / Kennedy Space Center,,Delta M,TRW,Seradata
-1971-006A,4881,INTELSAT 4-F2,ITSO,1/26/71,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1971-009A,4902,NATO 2B,NATO,2/3/71,AFETR,Cape Canaveral / Kennedy Space Center,,Delta M,Ford,Seradata
-1971-095A,5587,OPS 9431 (DSCS 2-1),US,11/3/71,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1971-095B,5588,OPS 9432 (DSCS 2-2),US,11/3/71,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1971-116A,5709,INTELSAT 4-F3,ITSO,12/20/71,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1972-003A,5775,INTELSAT 4-F4,ITSO,1/23/72,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1972-010A,5851,OPS 1570,US,3/1/72,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1972-041A,6052,INTELSAT 4-F5,ITSO,6/13/72,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1972-090A,6278,ANIK A1 (TELESAT 1),CA,11/10/72,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 1000-Series,Hughes,Seradata
-1973-013A,6380,OPS 6063,US,3/6/73,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Agena,TRW,Seradata
-1973-023A,6437,ANIK A2 (TELESAT 2),CA,4/20/73,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 1000-Series,Hughes,Seradata
-1973-040A,6691,OPS 6157,US,6/12/73,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1973-058A,6796,INTELSAT 4-F7,ITSO,8/23/73,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1973-100A,6973,OPS 9433 (DSCS 2-3),US,12/13/73,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1974-017A,7229,COSMOS 637,CIS,3/26/74,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1974-022A,7250,WESTAR 1,US,4/13/74,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1974-033A,7298,SMS 1,US,5/17/74,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1974-039A,7318,ATS 6,US,5/30/74,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,Fairchild,Seradata
-1974-060A,7392,MOLNIYA 1-S,CIS,7/29/74,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1974-075A,7466,WESTAR 2,US,10/10/74,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1974-093A,7544,INTELSAT 4-F8,ITSO,11/21/74,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1974-094A,7547,SKYNET 2B,UK,11/23/74,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Matra Marconi,Seradata
-1974-101A,7578,SYMPHONIE 1,FGER,12/19/74,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,CIFAS,Seradata
-1975-011A,7648,SMS 2,US,2/6/75,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1975-038A,7790,ANIK A3 (TELESAT-3),CA,5/7/75,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1975-042A,7815,INTELSAT 4-F1,ITSO,5/22/75,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1975-077A,8132,SYMPHONIE 2,FGER,8/27/75,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,CIFAS,Seradata
-1975-091A,8330,INTELSAT 4A-F1,ITSO,9/26/75,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1975-097A,8357,COSMOS 775,CIS,10/8/75,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1975-100A,8366,GOES 1 (SMS-C),US,10/16/75,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1975-117A,8476,SATCOM 1,US,12/13/75,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Lockheed,Seradata
-1975-118A,8482,OPS 3165,US,12/14/75,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1975-123A,8513,RADUGA 1,CIS,12/22/75,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1976-004A,8585,CTS,CA,1/17/76,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,CRC,Gunter
-1976-010A,8620,INTELSAT 4A-F2,ITSO,1/29/76,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1976-017A,8697,MARISAT 1,US,2/19/76,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1976-023A,8746,LES 8,US,3/15/76,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,MIT Lincoln,Seradata
-1976-023B,8747,LES 9,US,3/15/76,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,MIT Lincoln,Seradata
-1976-029A,8774,SATCOM 2,US,3/26/76,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Lockheed,Seradata
-1976-035A,8808,NATO 3A,NATO,4/22/76,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1976-042A,8838,COMSTAR 1,US,5/13/76,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1976-053A,8882,MARISAT 3,US,6/10/76,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1976-066A,9009,PALAPA 1,INDO,7/8/76,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1976-073A,9047,COMSTAR 2,US,7/22/76,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1976-092A,9416,RADUGA 2,CIS,9/11/76,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1976-101A,9478,MARISAT 2,US,10/14/76,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1976-107A,9503,EKRAN 1,CIS,10/26/76,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1977-005A,9785,NATO 3B,NATO,1/28/77,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1977-014A,9852,KIKU 2 (ETS 2),JPN,2/23/77,TNSTA,Tanegashima Space Center,,Thor N-Class,Ford,Seradata
-1977-018A,9862,PALAPA 2,INDO,3/10/77,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1977-034A,10000,OPS 9437 (DSCS 2-7),US,5/12/77,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1977-041A,10024,INTELSAT 4A-F4,ITSO,5/26/77,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1977-048A,10061,GOES 2,US,6/16/77,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1977-065A,10143,HIMAWARI 1 (GMS 1),JPN,7/14/77,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,NEC,Seradata
-1977-071A,10159,RADUGA 3,CIS,7/23/77,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1977-080A,10294,SIRIO,IT,8/25/77,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,CIASP,Seradata
-1977-092A,10365,EKRAN 2,CIS,9/20/77,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1977-108A,10489,METEOSAT 1,ESA,11/23/77,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Aerospatiale,Seradata
-1977-118A,10516,SAKURA 1A (CS-1A),JPN,12/15/77,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Mitsubishi and Ford,Seradata
-1978-002A,10557,INTELSAT 4A-F3,ITSO,1/7/78,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1978-035A,10778,INTELSAT 4A-F6,ITSO,3/31/78,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1978-039A,10792,YURI (BSE),JPN,4/7/78,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Lockheed,Seradata
-1978-038A,10787,OPS 8790,US,4/7/78,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Agena,TRW,Seradata
-1978-044A,10855,OTS 2,ESA,5/11/78,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,British Aerospace,Seradata
-1978-062A,10953,GOES 3,US,6/16/78,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1978-068A,10975,COMSTAR 3,US,6/29/78,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1978-071A,10981,GEOS 2,ESA,7/14/78,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,British Aerospace,Seradata
-1978-073A,10987,RADUGA 4,CIS,7/18/78,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1978-106A,11115,NATO 3C,NATO,11/19/78,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Ford,Seradata
-1978-113A,11144,OPS 9441 (DSCS 2-11),US,12/14/78,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1978-116A,11153,ANIK B1 (TELESAT-4),CA,12/16/78,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Lockheed,Seradata
-1979-015A,11273,EKRAN 3,CIS,2/21/79,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1979-035A,11343,RADUGA 5,CIS,4/25/79,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1979-038A,11353,OPS 6392 (FLTSATCOM 2),US,5/4/79,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,TRW,Seradata
-1979-062A,11440,GORIZONT 2,CIS,7/5/79,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1979-072A,11484,WESTAR 3,US,8/10/79,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 2000-Series,Hughes,Seradata
-1979-087A,11561,EKRAN 4,CIS,10/3/79,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1979-098A,11621,OPS 9443 (DSCS 2-13),US,11/21/79,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1979-105A,11648,GORIZONT 3,CIS,12/28/79,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1980-004A,11669,OPS 6393 (FLTSATCOM 3),US,1/18/80,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,TRW,Seradata
-1980-016A,11708,RADUGA 6,CIS,2/20/80,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1980-049A,11841,GORIZONT 4,CIS,6/14/80,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1980-060A,11890,EKRAN 5,CIS,7/15/80,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1980-074A,11964,GOES 4,US,9/9/80,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1980-081A,12003,RADUGA 7,CIS,10/5/80,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1980-091A,12065,SBS 1,US,11/15/80,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3910,Hughes,Seradata
-1980-098A,12089,INTELSAT 502,ITSO,12/6/80,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1980-104A,12120,EKRAN 6,CIS,12/26/80,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1981-018A,12309,ESIAFI 1 (COMSTAR 4),US,2/21/81,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Hughes,Seradata
-1981-027A,12351,RADUGA 8,CIS,3/18/81,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1981-049A,12472,GOES 5,US,5/22/81,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1981-050A,12474,INTELSAT 501,ITSO,5/23/81,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1981-057A,12544,METEOSAT 2,ESA,6/19/81,FRGUI,Guiana Space Centre,,Ariane 1,Aerospatiale,Seradata
-1981-057B,12545,APPLE,IND,6/19/81,FRGUI,Guiana Space Centre,,Ariane 1,ISRO,Seradata
-1981-061A,12564,EKRAN 7,CIS,6/26/81,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1981-069A,12618,RADUGA 9,CIS,7/30/81,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1981-073A,12635,FLTSATCOM 5,US,8/6/81,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,TRW,Seradata
-1981-076A,12677,HIMAWARI 2 (GMS 2),JPN,8/10/81,TNSTA,Tanegashima Space Center,,Thor N-Class,Hughes,Seradata
-1981-096A,12855,SBS 2,US,9/24/81,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3910,Hughes,Seradata
-1981-102A,12897,RADUGA 10,CIS,10/9/81,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1981-114A,12967,SATCOM 3R,US,11/20/81,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3910,Lockheed,Seradata
-1981-119A,12994,INTELSAT 503,ITSO,12/15/81,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1982-004A,13035,SATCOM 4,US,1/16/82,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3910,Lockheed,Seradata
-1982-009A,13056,EKRAN 8,CIS,2/5/82,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1982-014A,13069,WESTAR 4,US,2/26/82,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3910,Hughes,Seradata
-1982-017A,13083,INTELSAT 504,ITSO,3/5/82,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1982-020A,13092,GORIZONT 5,CIS,3/15/82,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1982-031A,13129,INSAT 1A,IND,4/10/82,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3910,Ford,Seradata
-1982-044A,13177,COSMOS 1366,CIS,5/17/82,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1982-058A,13269,WESTAR 5,US,6/9/82,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3910,Hughes,Seradata
-1982-082A,13431,ANIK D1 (TELESAT 6),CA,8/26/82,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Spar,Seradata
-1982-093A,13554,EKRAN 9,CIS,9/16/82,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1982-097A,13595,INTELSAT 505,ITSO,9/28/82,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1982-103A,13624,GORIZONT 6,CIS,10/20/82,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1982-105A,13631,SATCOM C5,US,10/28/82,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Lockheed,Seradata
-1982-106A,13636,DSCS 2-15,US,10/30/82,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,TRW,Seradata
-1982-110B,13651,SBS 3,US,11/11/82,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Hughes,Seradata
-1982-110C,13652,ANIK C3 (TELESAT-5),CA,11/11/82,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Hughes,Seradata
-1982-113A,13669,RADUGA 11,CIS,11/26/82,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1983-006A,13782,SAKURA 2A (CS-2A),JPN,2/4/83,TNSTA,Tanegashima Space Center,,Thor N-Class,Mitsubishi and Ford,Seradata
-1983-016A,13878,EKRAN 10,CIS,3/12/83,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1983-026B,13969,TDRS 1,US,4/4/83,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,TRW,Seradata
-1983-028A,13974,RADUGA 12,CIS,4/8/83,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1983-030A,13984,SATCOM 1R,US,4/11/83,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Lockheed,Seradata
-1983-041A,14050,GOES 6,US,4/28/83,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1983-047A,14077,INTELSAT 506,ITSO,5/19/83,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1983-058A,14128,EUTELSAT 1-F1 (ECS 1),EUTE,6/16/83,FRGUI,Guiana Space Centre,,Ariane 1,British Aerospace,Seradata
-1983-059C,14134,PALAPA B1,INDO,6/18/83,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Hughes,Seradata
-1983-065A,14158,GALAXY 1,US,6/28/83,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1983-066A,14160,GORIZONT 7,CIS,6/30/83,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1983-077A,14234,ARABSAT 1DR (TELSTAR 3A),AB,7/28/83,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1983-081A,14248,SAKURA 2B (CS-2B),JPN,8/5/83,TNSTA,Tanegashima Space Center,,Thor N-Class,Mitsubishi and Ford,Seradata
-1983-088A,14307,RADUGA 13,CIS,8/25/83,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1983-089B,14318,INSAT 1B,IND,8/30/83,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Ford,Seradata
-1983-094A,14328,SATCOM 2R,US,9/8/83,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Lockheed,Seradata
-1983-098A,14365,GALAXY 2,US,9/22/83,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1983-100A,14377,EKRAN 11,CIS,9/29/83,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1983-105A,14421,INTELSAT 507,ITSO,10/19/83,FRGUI,Guiana Space Centre,,Ariane 1,Ford,Seradata
-1983-118A,14532,GORIZONT 8,CIS,11/30/83,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1984-005A,14659,YURI 2A (BS-2A),JPN,1/23/84,TNSTA,Tanegashima Space Center,,Thor N-Class,Toshiba,Seradata
-1984-016A,14725,RADUGA 14,CIS,2/15/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1984-022A,14783,COSMOS 1540,CIS,3/2/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1984-023A,14786,INTELSAT 508,ITSO,3/5/84,FRGUI,Guiana Space Centre,,Ariane 1,Ford,Seradata
-1984-028A,14821,EKRAN 12,CIS,3/16/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1984-031A,14867,COSMOS 1546,CIS,3/29/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1984-035A,14899,STTW-T2,PRC,4/8/84,XSC,Xichang Satellite Launch Center,,Long March 3,CAST,Seradata
-1984-041A,14940,GORIZONT 9,CIS,4/22/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1984-049A,14985,CHINASAT 5 (SPACENET 1),PRC,5/23/84,FRGUI,Guiana Space Centre,,Ariane 1,Lockheed,Seradata
-1984-063A,15057,RADUGA 15,CIS,6/22/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1984-078A,15144,GORIZONT 10,CIS,8/1/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1984-080A,15152,HIMAWARI 3 (GMS 3),JPN,8/2/84,TNSTA,Tanegashima Space Center,,Thor N-Class,Hughes,Seradata
-1984-081A,15158,EUTELSAT 1-F2 (ECS 2),EUTE,8/4/84,FRGUI,Guiana Space Centre,,Ariane 2,British Aerospace,Seradata
-1984-090A,15219,EKRAN 13,CIS,8/24/84,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1984-093D,15237,TELSTAR 302,US,8/30/84,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Hughes,Seradata
-1984-101A,15308,GALAXY 3,US,9/21/84,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1984-114A,15385,SPACENET 2,US,11/10/84,FRGUI,Guiana Space Centre,,Ariane 2,Lockheed,Seradata
-1984-115A,15391,NATO 3D,NATO,11/14/84,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Ford,Seradata
-1985-007A,15484,GORIZONT 11,CIS,1/18/85,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1985-015A,15560,ARABSAT 1A,AB,2/8/85,FRGUI,Guiana Space Centre,,Ariane 2,Aerospatiale,Seradata
-1985-016A,15574,COSMOS 1629,CIS,2/21/85,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1985-024A,15626,EKRAN 14,CIS,3/22/85,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1985-025A,15629,INTELSAT 510,ITSO,3/22/85,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1985-035A,15677,GSTAR 1,US,5/8/85,FRGUI,Guiana Space Centre,,Ariane 2,Lockheed,Seradata
-1985-035B,15678,TELECOM 1B,FR,5/8/85,FRGUI,Guiana Space Centre,,Ariane 2,Matra Marconi,Seradata
-1985-048C,15825,ARABSAT 1B,AB,6/17/85,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Aerospatiale,Seradata
-1985-048D,15826,TELSTAR 303,US,6/17/85,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Hughes,Seradata
-1985-055A,15873,INTELSAT 511,ITSO,6/30/85,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1985-070A,15946,RADUGA 16,CIS,8/8/85,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1985-076B,15993,OPTUS A1 (AUSSAT 1),AUS,8/27/85,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Hughes,Seradata
-1985-076C,15994,ASC 1,US,8/27/85,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Lockheed,Seradata
-1985-087A,16101,INTELSAT 512,ITSO,9/28/85,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,Ford,Seradata
-1985-102A,16199,COSMOS 1700,CIS,10/25/85,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1985-107A,16250,RADUGA 17,CIS,11/15/85,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1985-109C,16275,OPTUS A2 (AUSSAT 2),AUS,11/27/85,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Hughes,Seradata
-1986-007A,16497,RADUGA 18,CIS,1/17/86,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1986-010A,16526,STTW-1,PRC,2/1/86,XSC,Xichang Satellite Launch Center,,Long March 3,CAST,Seradata
-1986-016A,16597,BS-2B (YURI 2B),JPN,2/12/86,TNSTA,Tanegashima Space Center,,Thor N-Class,Toshiba,Seradata
-1986-026A,16649,GSTAR 2,US,3/28/86,FRGUI,Guiana Space Centre,,Ariane 2,Lockheed,Seradata
-1986-026B,16650,BRAZILSAT 2,BRAZ,3/28/86,FRGUI,Guiana Space Centre,,Ariane 2,Spar,Seradata
-1986-027A,16667,COSMOS 1738,CIS,4/4/86,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1986-038A,16729,EKRAN 15,CIS,5/24/86,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1986-044A,16769,GORIZONT 12,CIS,6/10/86,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1986-082A,17046,RADUGA 19,CIS,10/25/86,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1986-090A,17083,GORIZONT 13,CIS,11/18/86,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1986-096A,17181,FLTSATCOM 7 (USA 20),US,12/5/86,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,TRW,Seradata
-1987-022A,17561,GOES 7,US,2/26/87,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1987-028A,17611,RADUGA 20,CIS,3/19/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1987-029A,17706,AGILA 1 (PALAPA B2P),RP,3/20/87,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1987-040A,17969,GORIZONT 14,CIS,5/11/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1987-070A,18316,KIKU 5 (ETS 5),JPN,8/27/87,TNSTA,Tanegashima Space Center,,H-I,Mitsubishi,Seradata
-1987-073A,18328,EKRAN 16,CIS,9/3/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1987-078A,18350,OPTUS A3 (AUSSAT 3),AUS,9/16/87,FRGUI,Guiana Space Centre,,Ariane 2,Hughes,Seradata
-1987-084A,18384,COSMOS 1888,CIS,10/1/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1987-091A,18443,COSMOS 1894,CIS,10/28/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1987-095A,18570,TVSAT 1,GER,11/21/87,FRGUI,Guiana Space Centre,,Ariane 3,Eurosatellite GmbH,Seradata
-1987-096A,18575,COSMOS 1897,CIS,11/26/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1987-100A,18631,RADUGA 21,CIS,12/10/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1987-109A,18715,EKRAN 17,CIS,12/27/87,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1988-012A,18877,CS 3A,JPN,2/19/88,TNSTA,Tanegashima Space Center,,H-I,Mitsubishi,Seradata
-1988-014A,18922,STTW-2,PRC,3/7/88,XSC,Xichang Satellite Launch Center,,Long March 3,CAST,Seradata
-1988-018A,18951,SPACENET 3R,US,3/11/88,FRGUI,Guiana Space Centre,,Ariane 2,Lockheed,Seradata
-1988-028A,19017,GORIZONT 15,CIS,3/31/88,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1988-034A,19073,COSMOS 1940,CIS,4/26/88,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1988-036A,19090,EKRAN 18,CIS,5/6/88,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Gunter
-1988-040A,19121,NSS 513 (INTELSAT 513),NETH,5/17/88,FRGUI,Guiana Space Centre,,Ariane 3,Ford,Seradata
-1988-051A,19215,METEOSAT 3,ESA,6/15/88,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1988-063A,19330,INSAT 1C,IND,7/21/88,FRGUI,Guiana Space Centre,,Ariane 2,Ford,Seradata
-1988-066A,19344,COSMOS 1961,CIS,8/1/88,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1988-071A,19397,GORIZONT 16,CIS,8/18/88,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1988-081A,19483,GSTAR 3,US,9/8/88,FRGUI,Guiana Space Centre,,Ariane 2,Lockheed,Seradata
-1988-081B,19484,SBS 5,US,9/8/88,FRGUI,Guiana Space Centre,,Ariane 2,Hughes,Seradata
-1988-086A,19508,CS 3B,JPN,9/16/88,TNSTA,Tanegashima Space Center,,H-I,Mitsubishi,Seradata
-1988-091B,19548,TDRS 3,US,9/29/88,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,TRW,Seradata
-1988-095A,19596,RADUGA 22,CIS,10/20/88,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1988-098A,19621,TDF 1,FR,10/28/88,FRGUI,Guiana Space Centre,,Ariane 3,Eurosatellite GmbH,Seradata
-1988-108A,19683,EKRAN 19,CIS,12/10/88,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1988-109A,19687,SKYNET 4B,UK,12/11/88,FRGUI,Guiana Space Centre,,Ariane 44,British Aerospace,Seradata
-1988-111A,19710,STTW-3,PRC,12/22/88,XSC,Xichang Satellite Launch Center,,Long March 3,CAST,Seradata
-1989-004A,19765,GORIZONT 17,CIS,1/26/89,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1989-006A,19772,INTELSAT 515,ITSO,1/27/89,FRGUI,Guiana Space Centre,,Ariane 3,Ford,Seradata
-1989-020A,19874,JCSAT 1,JPN,3/6/89,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1989-021B,19883,TDRS 4,US,3/13/89,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,TRW,Seradata
-1989-027A,19919,TELE-X,SWED,4/2/89,FRGUI,Guiana Space Centre,,Ariane 3,Aerospatiale,Seradata
-1989-030A,19928,RADUGA 23,CIS,4/14/89,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1989-041A,20040,SUPERBIRD A,JPN,6/5/89,FRGUI,Guiana Space Centre,,Ariane 44,Ford,Seradata
-1989-041B,20041,DFS 1,GER,6/5/89,FRGUI,Guiana Space Centre,,Ariane 44,MBB-ERNO,Seradata
-1989-048A,20083,RADUGA 1-1,CIS,6/21/89,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1989-052A,20107,GORIZONT 18,CIS,7/5/89,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1989-053A,20122,OLYMPUS 1,ESA,7/12/89,FRGUI,Guiana Space Centre,,Ariane 2,British Aerospace,Seradata
-1989-062A,20168,TVSAT 2,GER,8/8/89,FRGUI,Guiana Space Centre,,Ariane 44,Eurosatellite GmbH,Seradata
-1989-067A,20193,SIRIUS W (MARCOPOLO 1),SWED,8/27/89,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 4000-Series,Hughes,Seradata
-1989-070A,20217,HIMAWARI 4 (GMS 4),JPN,9/5/89,TNSTA,Tanegashima Space Center,,H-I,Hughes,Seradata
-1989-077A,20253,FLTSATCOM 8 (USA 46),US,9/25/89,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas Centaur,TRW,Seradata
-1989-081A,20263,GORIZONT 19,CIS,9/28/89,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1989-087A,20315,INTELSAT 602,ITSO,10/27/89,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1989-098A,20367,RADUGA 24,CIS,12/15/89,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1989-101A,20391,COSMOS 2054,CIS,12/27/89,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1990-001A,20401,SKYNET 4A,UK,1/1/90,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,British Aerospace,Seradata
-1990-002B,20410,LEASAT 5,US,1/9/90,AFETR,Cape Canaveral / Kennedy Space Center,,Shuttle,Hughes,Seradata
-1990-011A,20473,STTW-4,PRC,2/4/90,XSC,Xichang Satellite Launch Center,,Long March 3,CAST,Seradata
-1990-016A,20499,RADUGA 25,CIS,2/15/90,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1990-021A,20523,INTELSAT 603,ITSO,3/14/90,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,Hughes,Seradata
-1990-030A,20558,ASIASAT 1,AC,4/7/90,XSC,Xichang Satellite Launch Center,,Long March 3,Hughes,Seradata
-1990-034A,20570,NEWSAT-1 (PALAPA B2R),US,4/13/90,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Hughes,Seradata
-1990-051A,20643,INSAT 1D,IND,6/12/90,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 4000-Series,Ford,Seradata
-1990-054A,20659,GORIZONT 20,CIS,6/20/90,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1990-056A,20667,INTELSAT 604,ITSO,6/23/90,AFETR,Cape Canaveral / Kennedy Space Center,,Titan III+,Hughes,Seradata
-1990-061A,20693,COSMOS 2085,CIS,7/18/90,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1990-063A,20705,TDF 2,FR,7/24/90,FRGUI,Guiana Space Centre,,Ariane 44,Eurosatellite GmbH,Seradata
-1990-074A,20762,THOR 1 (MARCOPOLO 2),NOR,8/18/90,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,Hughes,Seradata
-1990-077A,20771,BS-3A (YURI 3A),JPN,8/28/90,TNSTA,Tanegashima Space Center,,H-I,Lockheed,Seradata
-1990-079A,20776,SKYNET 4C,UK,8/30/90,FRGUI,Guiana Space Centre,,Ariane 44,British Aerospace,Seradata
-1990-091A,20872,SBS 6,US,10/12/90,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1990-091B,20873,GALAXY 6,US,10/12/90,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1990-093A,20918,INMARSAT 2-F1,IM,10/30/90,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,British Aerospace,Seradata
-1990-094A,20923,GORIZONT 21,CIS,11/3/90,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1990-100A,20945,SATCOM C1,US,11/20/90,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1990-102A,20953,GORIZONT 22,CIS,11/23/90,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1990-112A,21016,RADUGA 26,CIS,12/20/90,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1990-116A,21038,RADUGA 1-2,CIS,12/27/90,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1991-001A,21047,NATO 4A,NATO,1/8/91,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,British Aerospace,Seradata
-1991-003A,21055,ITALSAT 1,IT,1/15/91,FRGUI,Guiana Space Centre,,Ariane 44,Alenia,Seradata
-1991-010A,21111,COSMOS 2133,CIS,2/14/91,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1991-014A,21132,RADUGA 27,CIS,2/28/91,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1991-015A,21139,ASTRA 1B,SES,3/2/91,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1991-018A,21149,INMARSAT 2-F2,IM,3/8/91,AFETR,Cape Canaveral / Kennedy Space Center,,Delta 3000-Series,British Aerospace,Seradata
-1991-026A,21222,ANIK E2,CA,4/4/91,FRGUI,Guiana Space Centre,,Ariane 42,Spar,Seradata
-1991-028A,21227,SPACENET 4 (ASC 2),US,4/13/91,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Lockheed,Seradata
-1991-037A,21392,AURORA 2,US,5/29/91,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Lockheed,Seradata
-1991-046A,21533,GORIZONT 23,CIS,7/1/91,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1991-054B,21639,TDRS 5,US,8/2/91,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,TRW,Seradata
-1991-055A,21653,INTELSAT 605,ITSO,8/14/91,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1991-060A,21668,BS-3B (YURI 3B),JPN,8/25/91,TNSTA,Tanegashima Space Center,,H-I,Lockheed,Seradata
-1991-064A,21702,COSMOS 2155,CIS,9/13/91,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1991-067A,21726,ANIK E1,CA,9/26/91,FRGUI,Guiana Space Centre,,Ariane 42,Spar,Seradata
-1991-074A,21759,GORIZONT 24,CIS,10/23/91,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1991-075A,21765,INTELSAT 601,ITSO,10/29/91,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1991-079A,21789,COSMOS 2172,CIS,11/22/91,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1991-083A,21803,EUTELSAT 2-F3,EUTE,12/7/91,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas II,Aerospatiale,Seradata
-1991-084A,21813,TELECOM 2A,FR,12/16/91,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1991-087A,21821,RADUGA 28,CIS,12/19/91,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1992-010A,21893,SUPERBIRD B1,JPN,2/26/92,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1992-013A,21906,GALAXY 5,US,3/14/92,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas I,Hughes,Seradata
-1992-017A,21922,GORIZONT 25,CIS,4/2/92,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1992-021A,21939,TELECOM 2B,FR,4/15/92,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1992-021B,21940,INMARSAT 2-F4,IM,4/15/92,FRGUI,Guiana Space Centre,,Ariane 44,British Aerospace,Seradata
-1992-027A,21964,PALAPA B4,INDO,5/14/92,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Hughes,Seradata
-1992-032A,21989,NSS K (INTELSAT K),NETH,6/10/92,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-1992-041A,22027,INSAT 2A,IND,7/9/92,FRGUI,Guiana Space Centre,,Ariane 44,ISRO,Seradata
-1992-043A,22041,GORIZONT 26,CIS,7/14/92,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1992-054A,22087,OPTUS B1 (AUSSAT B1),AUS,8/13/92,XSC,Xichang Satellite Launch Center,,Long March 2E,Hughes,Seradata
-1992-057A,22096,SATCOM C4,US,8/31/92,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Lockheed,Seradata
-1992-059A,22112,COSMOS 2209,CIS,9/10/92,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1992-060A,22116,HISPASAT 1A,SPN,9/10/92,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1992-060B,22117,SATCOM C3,US,9/10/92,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1992-066A,22175,HELLAS SAT 1 (DFS 3),GREC,10/12/92,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,MBB-ERNO,Seradata
-1992-072A,22205,GALAXY 7,US,10/28/92,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1992-074A,22210,EKRAN 20,CIS,10/30/92,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1992-082A,22245,GORIZONT 27,CIS,11/27/92,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1992-084A,22253,SUPERBIRD A1,JPN,12/1/92,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1992-088A,22269,COSMOS 2224,CIS,12/17/92,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1993-003B,22314,TDRS 6,US,1/13/93,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,TRW,Seradata
-1993-013A,22557,RADUGA 29,CIS,3/25/93,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1993-015A,22563,UFO 1 (USA 98),US,3/25/93,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas I,Hughes,Seradata
-1993-031A,22653,ASTRA 1C,SES,5/12/93,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-1993-039A,22694,HGS 4 (GALAXY 4),US,6/25/93,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1993-048A,22723,HISPASAT 1B,SPN,7/22/93,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1993-048B,22724,INSAT 2B,IND,7/22/93,FRGUI,Guiana Space Centre,,Ariane 44,ISRO,Seradata
-1993-056A,22787,UFO 2 (USA 95),US,9/3/93,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas I,Hughes,Seradata
-1993-058B,22796,ACTS,US,9/12/93,AFETR,Cape Canaveral / Kennedy Space Center,,Space Shuttle,Lockheed,Seradata
-1993-062A,22836,RADUGA 30,CIS,9/30/93,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1993-066A,22871,INTELSAT 701,ITSO,10/22/93,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1993-069A,22880,GORIZONT 28,CIS,10/28/93,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1993-072A,22907,GORIZONT 29,CIS,11/18/93,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1993-073A,22911,SOLIDARIDAD 1,MEX,11/20/93,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1993-073B,22912,METEOSAT 6,EUME,11/20/93,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1993-076A,22921,NATO 4B,NATO,12/8/93,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,British Aerospace,Seradata
-1993-077A,22927,TELSTAR 401,US,12/16/93,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Lockheed,Seradata
-1993-078A,22930,DIRECTV 1 (DBS 1),US,12/18/93,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1993-078B,22931,THAICOM 1,THAI,12/18/93,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1994-002A,22963,GALS 1,CIS,1/20/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1994-008A,22981,RADUGA 1-3,CIS,2/5/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1994-009A,22988,USA 99,US,2/7/94,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,Lockheed,Seradata
-1994-012A,23010,RADUGA 31,CIS,2/18/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1994-013A,23016,GALAXY 1R,US,2/19/94,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Hughes,Seradata
-1994-022A,23051,GOES 8,US,4/13/94,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas I,SSL,Seradata
-1994-030A,23108,GORIZONT 30,CIS,5/20/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1994-034A,23124,INTELSAT 702,ITSO,6/17/94,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1994-035A,23132,UFO 3 (USA 104),US,6/24/94,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas I,Hughes,Seradata
-1994-038A,23168,COSMOS 2282,CIS,7/6/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1994-040A,23175,INTELSAT 2 (PAS 2),US,7/8/94,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1994-040B,23176,BS-3N,JPN,7/8/94,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1994-043A,23185,APSTAR 1,PRC,7/21/94,XSC,Xichang Satellite Launch Center,,Long March 3,Hughes,Seradata
-1994-047A,23192,DIRECTV 2 (DBS 2),US,8/3/94,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Hughes,Seradata
-1994-049A,23199,BRAZILSAT B1,BRAZ,8/10/94,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1994-055A,23227,OPTUS B3,AUS,8/27/94,XSC,Xichang Satellite Launch Center,,Long March 2E,Hughes,Seradata
-1994-060A,23267,COSMOS 2291,CIS,9/21/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1994-064A,23305,NSS 703 (INTELSAT 703),SES,10/6/94,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,SSL,Seradata
-1994-065A,23313,SOLIDARIDAD 2,MEX,10/8/94,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1994-065B,23314,THAICOM 2,THAI,10/8/94,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1994-067A,23319,EXPRESS 1,CIS,10/13/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1994-069A,23327,ELEKTRO (GOMS),CIS,10/31/94,TTMTR,Baikonur Cosmodrome,,Proton,JSC Corporation,Seradata
-1994-070A,23331,ASTRA 1D,SES,11/1/94,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1994-079A,23413,TELSTAR 11 (ORION 1),US,11/29/94,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,British Aerospace,Seradata
-1994-080A,23415,DFH-3 1,PRC,11/29/94,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-1994-082A,23426,LUCH,CIS,12/16/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1994-084A,23435,USA 107,US,12/22/94,AFETR,Cape Canaveral / Kennedy Space Center,,Titan IV,TRW,Seradata
-1994-087A,23448,RADUGA 32,CIS,12/28/94,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1995-001A,23461,INTELSAT 704,ITSO,1/10/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,SSL,Seradata
-1995-003A,23467,UFO 4 (USA 108),US,1/29/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas II,Hughes,Seradata
-1995-013A,23528,INTELSAT 705,ITSO,3/22/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,SSL,Seradata
-1995-016A,23536,BRAZILSAT B2,BRAZ,3/28/95,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1995-019A,23553,AMSC 1,US,4/7/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Hughes,Seradata
-1995-023A,23571,INTELSAT 706,ITSO,5/17/95,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1995-025A,23581,GOES 9,US,5/23/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas I,SSL,Seradata
-1995-029A,23598,DIRECTV 3 (DBS/NIMIQ 3),US,6/10/95,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1995-035B,23613,TDRS 7,US,7/13/95,AFETR,Cape Canaveral / Kennedy Space Center,,Shuttle,TRW,Seradata
-1995-038A,23628,USA 113,US,7/31/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-1995-040A,23636,INTELSAT 4 (PAS 4),ITSO,8/3/95,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-1995-041A,23639,KOREASAT 1,SKOR,8/5/95,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Lockheed,Seradata
-1995-043A,23649,JCSAT 3,JPN,8/29/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Hughes,Seradata
-1995-044A,23651,NSTAR A,JPN,8/29/95,FRGUI,Guiana Space Centre,,Ariane 42,SSL,Seradata
-1995-045A,23653,COSMOS 2319,CIS,8/30/95,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1995-049A,23670,TELSTAR 4 (TELSTAR 402R),US,9/24/95,FRGUI,Guiana Space Centre,,Ariane 42,Lockheed,Seradata
-1995-054A,23680,LUCH 1,CIS,10/11/95,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1995-055A,23686,ASTRA 1E,SES,10/19/95,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-1995-057A,23696,UFO 6 (USA 114),US,10/22/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas II,Hughes,Seradata
-1995-060A,23712,USA 115,US,11/6/95,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,Lockheed,Seradata
-1995-063A,23717,GALS 2,CIS,11/17/95,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1995-064A,23723,AMOS 5I (ASIASAT 2),ISRA,11/28/95,XSC,Xichang Satellite Launch Center,,Long March 2E,Lockheed,Seradata
-1995-067A,23730,TELECOM 2C,FR,12/6/95,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1995-067B,23731,INSAT 2C,IND,12/6/95,FRGUI,Guiana Space Centre,,Ariane 44,ISRO,Seradata
-1995-069A,23741,GALAXY 3R,US,12/15/95,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Hughes,Seradata
-1995-073A,23754,ECHOSTAR 1,US,12/28/95,XSC,Xichang Satellite Launch Center,,Long March 2E,Lockheed,Seradata
-1996-002A,23764,INTELSAT 3R (PAS 3R),US,1/12/96,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1996-002B,23765,AFRICASAT 1 (MEASAT 1),MALA,1/12/96,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1996-003A,23768,ABS 1A (KOREASAT 2),SKOR,1/14/96,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Lockheed,Seradata
-1996-005A,23775,GORIZONT 31,CIS,1/25/96,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1996-006A,23779,PAKSAT 1 (ANATOLIA 1),PAKI,2/1/96,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Hughes,Seradata
-1996-007A,23781,NSTAR B,JPN,2/5/96,FRGUI,Guiana Space Centre,,Ariane 42,SSL,Seradata
-1996-015A,23816,INTELSAT 707,ITSO,3/14/96,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1996-020A,23839,INMARSAT 3-F1,IM,4/3/96,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-1996-021A,23842,ASTRA 1F,SES,4/8/96,TTMTR,Baikonur Cosmodrome,,Proton,Hughes,Seradata
-1996-022A,23846,MSAT M1,CA,4/20/96,FRGUI,Guiana Space Centre,,Ariane 44,Spar,Seradata
-1996-030A,23864,PALAPA C2,INDO,5/16/96,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1996-030B,23865,INTELSAT 24 (AMOS 1),ITSO,5/16/96,FRGUI,Guiana Space Centre,,Ariane 44,IAI,Seradata
-1996-033A,23877,GALAXY 9,US,5/24/96,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Hughes,Seradata
-1996-034A,23880,GORIZONT 32,CIS,5/25/96,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1996-035A,23915,INTELSAT 709,ITSO,6/15/96,FRGUI,Guiana Space Centre,,Ariane 42,SSL,Seradata
-1996-039A,23943,APSTAR 1A,PRC,7/3/96,XSC,Xichang Satellite Launch Center,,Long March 3,Hughes,Seradata
-1996-040A,23948,ARABSAT 2A,AB,7/9/96,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1996-040B,23949,TURKSAT 1C,TURK,7/9/96,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1996-042A,23967,UFO 7 (USA 127),US,7/25/96,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas II,Hughes,Seradata
-1996-044A,24208,ITALSAT 2,IT,8/8/96,FRGUI,Guiana Space Centre,,Ariane 44,Alenia,Seradata
-1996-044B,24209,TELECOM 2D,FR,8/8/96,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1996-048A,24282,CHINASAT 7,PRC,8/18/96,XSC,Xichang Satellite Launch Center,,Long March 3,Hughes,Seradata
-1996-053A,24307,INMARSAT 3-F2,IM,9/6/96,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-1996-054A,24315,AMC-1 (GE-1),SES,9/8/96,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-1996-055A,24313,ECHOSTAR 2,US,9/11/96,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1996-058A,24435,EXPRESS 2,CIS,9/26/96,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1996-063A,24652,ARABSAT 2B,AB,11/13/96,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1996-063B,24653,MEASAT 2,MALA,11/13/96,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1996-067A,24665,EUTE 48A (HB2),EUTE,11/21/96,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Matra Marconi,Seradata
-1996-070A,24674,INMARSAT 3-F3,IM,12/18/96,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-1997-002A,24713,AMC-2 (GE-2),SES,1/30/97,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1997-002B,24714,NAHUEL 1A,ARGN,1/30/97,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1997-007A,24732,INTELSAT 26 (JCSAT 4),ITSO,2/17/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Hughes,Seradata
-1997-008A,24737,USA 130,US,2/23/97,AFETR,Cape Canaveral / Kennedy Space Center,,Titan IV,TRW,Seradata
-1997-009A,24742,INTELSAT 801,ITSO,3/1/97,FRGUI,Guiana Space Centre,,Ariane 42,Lockheed,Seradata
-1997-011A,24748,DIRECTV 6 (TEMPO 2),US,3/8/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,SSL,Seradata
-1997-016A,24768,THAICOM 3,THAI,4/16/97,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1997-016B,24769,BSAT-1A,JPN,4/16/97,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1997-019A,24786,GOES 10,US,4/25/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas I,SSL,Seradata
-1997-021A,24798,DFH-3 2,PRC,5/11/97,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-1997-025A,24808,THOR 2A,NOR,5/20/97,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Hughes,Seradata
-1997-026A,24812,GALAXY 25 (TELSTAR 5),US,5/24/97,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-1997-027A,24819,INMARSAT 3-F4,IM,6/3/97,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1997-029A,24834,FENGYUN 2A,PRC,6/10/97,XSC,Xichang Satellite Launch Center,,Long March 3,SAST,Seradata
-1997-031A,24846,INTELSAT 802,ITSO,6/25/97,FRGUI,Guiana Space Centre,,Ariane 42,Lockheed,Seradata
-1997-036A,24880,SUPERBIRD C,JPN,7/28/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Hughes,Seradata
-1997-041A,24894,COSMOS 2345,CIS,8/14/97,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1997-042A,24901,ABS 3 (AGILA 2),PRC,8/19/97,XSC,Xichang Satellite Launch Center,,Long March 3B,SSL,Seradata
-1997-046A,24916,INTELSAT 5 (PAS 5),US,8/28/97,TTMTR,Baikonur Cosmodrome,,Proton,Hughes,Seradata
-1997-049A,24931,W75/ABS-1B (HOT BIRD 3),EUTE,9/2/97,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1997-049B,24932,METEOSAT 7,EUME,9/2/97,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1997-050A,24936,AMC-3 (GE-3),SES,9/4/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Lockheed,Seradata
-1997-053A,24957,NSS 5 (INTELSAT 803),NETH,9/23/97,FRGUI,Guiana Space Centre,,Ariane 42,Lockheed,Seradata
-1997-059A,25004,ECHOSTAR 3,US,10/5/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Lockheed,Seradata
-1997-062A,25010,APSTAR 2R (TELSTAR 10),PRC,10/16/97,XSC,Xichang Satellite Launch Center,,Long March 3B,SSL,Seradata
-1997-065A,25019,USA 134,US,10/25/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-1997-071A,25049,SIRIUS 2 (GE-1E),SWED,11/11/97,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1997-071B,25050,INDOSTAR 1,INDO,11/11/97,FRGUI,Guiana Space Centre,,Ariane 44,CTA,Seradata
-1997-070A,25045,KUPON,CIS,11/12/97,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1997-075A,25067,JCSAT 5,JPN,12/2/97,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-1997-076A,25071,ASTRA 1G,SES,12/2/97,TTMTR,Baikonur Cosmodrome,,Proton,Hughes,Seradata
-1997-078A,25086,GALAXY 8,US,12/8/97,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Hughes,Seradata
-1997-083A,25110,INTELSAT 804,ITSO,12/21/97,FRGUI,Guiana Space Centre,,Ariane 42,Lockheed,Seradata
-1997-086A,25126,HGS-1 (ASIASAT 3),US,12/24/97,TTMTR,Baikonur Cosmodrome,,Proton,Hughes,Seradata
-1998-002A,25134,SKYNET 4D,UK,1/10/98,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,British Aerospace,Gunter
-1998-006A,25152,BRAZILSAT B3,BRAZ,2/4/98,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1998-006B,25153,INMARSAT 3-F5,IM,2/4/98,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1998-013A,25237,EUTE 16B (HB 4),EUTE,2/27/98,FRGUI,Guiana Space Centre,,Ariane 44,Matra Marconi,Seradata
-1998-014A,25239,NSS 806 (INTELSAT 806),SES,2/28/98,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Lockheed,Seradata
-1998-016A,25258,UFO 8 (USA 138),US,3/16/98,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas II,Hughes,Seradata
-1998-024A,25311,NILESAT,EGYP,4/28/98,FRGUI,Guiana Space Centre,,Ariane 42,Matra Marconi,Seradata
-1998-024B,25312,BSAT-1B,JPN,4/28/98,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-1998-025A,25315,COSMOS 2350,CIS,4/29/98,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-1998-028A,25331,ECHOSTAR 4,US,5/7/98,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-1998-033A,25354,CHINASAT 5A (CHINASTAR1),PRC,5/30/98,XSC,Xichang Satellite Launch Center,,Long March 3B,Lockheed,Seradata
-1998-035A,25358,THOR 3,NOR,6/10/98,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Hughes,Seradata
-1998-037A,25371,INTELSAT 805,ITSO,6/18/98,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Lockheed,Seradata
-1998-044A,25404,CHINASAT 5B (SINOSAT 1),PRC,7/18/98,XSC,Xichang Satellite Launch Center,,Long March 3B,Aerospatiale,Seradata
-1998-049A,25460,ST 1,STCT,8/25/98,FRGUI,Guiana Space Centre,,Ariane 42,Matra Marconi,Seradata
-1998-050A,25462,ASTRA 2A,SES,8/30/98,TTMTR,Baikonur Cosmodrome,,Proton,Hughes,Seradata
-1998-052A,25473,INTELSAT 7 (PAS 7),US,9/16/98,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1998-056A,25491,EUTELSAT W2,EUTE,10/5/98,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1998-056B,25492,SIRIUS 3,SES,10/5/98,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-1998-057A,25495,EUTE 25A (HB 5),EUTE,10/9/98,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Matra Marconi,Seradata
-1998-063A,25515,AFRISTAR,US,10/28/98,FRGUI,Guiana Space Centre,,Ariane 44,Alcatel,Seradata
-1998-063B,25516,AMC-5 (GE-5),SES,10/28/98,FRGUI,Guiana Space Centre,,Ariane 44,Dornier,Seradata
-1998-065A,25522,INTELSAT 8 (PAS 8),US,11/4/98,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-1998-068A,25546,BONUM 1,CIS,11/22/98,AFETR,Cape Canaveral / Kennedy Space Center,,Delta II,Hughes,Seradata
-1998-070A,25558,EUTE 115 WEST A(SATMEX 5,EUTE,12/6/98,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-1998-075A,25585,INTELSAT 6B (PAS 6B),US,12/22/98,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-1999-005A,25626,GALAXY 26 (TELSTAR 6),US,2/15/99,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-1999-006A,25630,JCSAT 6,JPN,2/16/99,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Hughes,Seradata
-1999-009A,25638,ARABSAT 3A,AB,2/26/99,FRGUI,Guiana Space Centre,,Ariane 44,Aerospatiale,Seradata
-1999-009B,25639,SKYNET 4E,UK,2/26/99,FRGUI,Guiana Space Centre,,Ariane 44,British Aerospace,Gunter
-1999-010A,25642,RADUGA 1-4,CIS,2/28/99,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-1999-013A,25657,ASIASAT 3S,AC,3/21/99,TTMTR,Baikonur Cosmodrome,,Proton,Hughes,Seradata
-1999-016A,25666,INSAT 2E (APR-1),IND,4/2/99,FRGUI,Guiana Space Centre,,Ariane 44,ISRO,Seradata
-1999-018A,25673,EUTE 21A (EUTE W3),EUTE,4/12/99,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Aerospatiale,Seradata
-1999-027A,25740,NIMIQ 1,CA,5/20/99,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-1999-033A,25785,ASTRA 1H,SES,6/18/99,TTMTR,Baikonur Cosmodrome,,Proton,Hughes,Seradata
-1999-042A,25880,TELKOM 1,INDO,8/12/99,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1999-046A,25894,ABS 7 (KOREASAT 3),SKOR,9/4/99,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1999-047A,25896,YAMAL 101,CIS,9/6/99,TTMTR,Baikonur Cosmodrome,,Proton,RSC Energia,Seradata
-1999-047B,25897,YAMAL 102,CIS,9/6/99,TTMTR,Baikonur Cosmodrome,,Proton,RSC Energia,Seradata
-1999-050A,25913,ECHOSTAR 5,US,9/23/99,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,SSL,Seradata
-1999-052A,25922,GALAXY 27 (TELSTAR 7),ITSO,9/25/99,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1999-053A,25924,ABS 6 (LMI 1),PRC,9/26/99,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-1999-056A,25937,DIRECTV 1R,US,10/10/99,SEAL,,,Zenit 3SL,Hughes,Seradata
-1999-059A,25949,TELSTAR 12 (ORION 2),US,10/19/99,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-1999-060A,25954,AMC-4 (GE-4),SES,11/13/99,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-1999-063A,25967,UFO 10 (USA 146),US,11/23/99,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Hughes,Seradata
-1999-071A,26038,GALAXY 11,US,12/22/99,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-2000-001A,26052,USA 148,US,1/21/00,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-2000-002A,26056,GALAXY 10R,US,1/25/00,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-2000-003A,26058,CHINASAT 22,PRC,1/25/00,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2000-007A,26071,HISPASAT 1C,SPN,2/3/00,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Alcatel,Seradata
-2000-011A,26089,GARUDA 1,INDO,2/12/00,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-2000-012A,26095,SUPERBIRD 4,JPN,2/18/00,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-2000-013A,26098,EXPRESS 2A,CIS,3/12/00,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2000-016A,26107,ASIASTAR,US,3/21/00,FRGUI,Guiana Space Centre,,Ariane 5G,Alcatel,Seradata
-2000-016B,26108,INSAT 3B,IND,3/21/00,FRGUI,Guiana Space Centre,,Ariane 5G,ISRO,Seradata
-2000-019A,26243,EUTE 16C (SESAT 1),EUTE,4/17/00,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2000-020A,26298,GALAXY 4R,US,4/19/00,FRGUI,Guiana Space Centre,,Ariane 42,Hughes,Seradata
-2000-022A,26352,GOES 11,US,5/3/00,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,SSL,Seradata
-2000-024A,26356,USA 149,US,5/8/00,AFETR,Cape Canaveral / Kennedy Space Center,,Titan IV,TRW,Seradata
-2000-028A,26369,EUTE 36A (EUTE W4),EUTE,5/24/00,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas III,Aerospatiale,Seradata
-2000-029A,26372,GORIZONT 33,CIS,6/6/00,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2000-031A,26378,EXPRESS 3A,CIS,6/24/00,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2000-032A,26382,FENGYUN 2B,PRC,6/25/00,XSC,Xichang Satellite Launch Center,,Long March 3,SAST,Seradata
-2000-034A,26388,TDRS 8,US,6/30/00,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Hughes,Seradata
-2000-036A,26394,COSMOS 2371,CIS,7/4/00,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2000-038A,26402,ECHOSTAR 6,US,7/14/00,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,SSL,Seradata
-2000-043A,26451,INTELSAT 9 (PAS 9),US,7/28/00,SEAL,,,Zenit 3SL,Hughes,Seradata
-2000-046A,26469,BRAZILSAT B4,BRAZ,8/17/00,FRGUI,Guiana Space Centre,,Ariane 44,Hughes,Seradata
-2000-046B,26470,NILESAT 102,EGYP,8/17/00,FRGUI,Guiana Space Centre,,Ariane 44,EADS Astrium,Seradata
-2000-049A,26477,RADUGA 1-5,CIS,8/28/00,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2000-052A,26487,EUROBIRD 4A(EUTELSAT W1),EUTE,9/6/00,FRGUI,Guiana Space Centre,,Ariane 42,EADS Astrium,Seradata
-2000-054A,26494,ASTRA 2B,SES,9/14/00,FRGUI,Guiana Space Centre,,Ariane 5G,EADS Astrium,Seradata
-2000-054B,26495,AMC-7 (GE-7),SES,9/14/00,FRGUI,Guiana Space Centre,,Ariane 5G,Lockheed,Seradata
-2000-059A,26554,NSS 11 (AAP-1),SES,10/1/00,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-2000-060A,26559,NSAT 110,JPN,10/6/00,FRGUI,Guiana Space Centre,,Ariane 42,Lockheed,Seradata
-2000-065A,26575,USA 153,US,10/20/00,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Lockheed,Seradata
-2000-066A,26578,THURAYA 1,UAE,10/21/00,SEAL,,,Zenit 3SL,Boeing,Seradata
-2000-067A,26580,AMC-6 (GE-6),SES,10/21/00,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-2000-068A,26590,INTELSAT 12 (PAS 12),ESA,10/29/00,FRGUI,Guiana Space Centre,,Ariane 44,Alcatel,Seradata
-2000-069A,26599,CHINASAT 32 (BEIDOU 1),PRC,10/30/00,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2000-072A,26608,INTELSAT 1R (PAS 1R),US,11/16/00,FRGUI,Guiana Space Centre,,Ariane 5G,Boeing,Seradata
-2000-076A,26624,ANIK F1,CA,11/21/00,FRGUI,Guiana Space Centre,,Ariane 44,Boeing,Seradata
-2000-081A,26638,ASTRA 2D,SES,12/20/00,FRGUI,Guiana Space Centre,,Ariane 5G,Boeing,Seradata
-2000-082A,26643,CHINASAT 31 (BEIDOU 1B),PRC,12/20/00,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2000-081B,26639,AMC-8 (GE-8),SES,12/20/00,FRGUI,Guiana Space Centre,,Ariange 5G,Lockheed,Seradata
-2001-002A,26666,TURKSAT 2A,TURK,1/10/01,FRGUI,Guiana Space Centre,,Ariane 42,Aerospatiale,Seradata
-2001-005B,26695,SKYNET 4F,UK,2/7/01,FRGUI,Guiana Space Centre,,Ariane 44,British Aerospace,Gunter
-2001-009A,26715,USA 157,US,2/27/01,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,Lockheed,Seradata
-2001-011A,26719,EUTE 28A (EB 1),EUTE,3/8/01,FRGUI,Guiana Space Centre,,Ariane 5G,Alcatel,Seradata
-2001-011B,26720,BSAT-2A,JPN,3/8/01,FRGUI,Guiana Space Centre,,Ariane 5G,NGIS,Seradata
-2001-012A,26724,XM-2,US,3/18/01,SEAL,,,Zenit 3SL,Boeing,Seradata
-2001-014A,26736,EKRAN 21,CIS,4/7/01,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2001-015A,26745,GSAT 1,IND,4/18/01,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2001-018A,26761,XM-1,US,5/8/01,SEAL,,,Zenit 3SL,Boeing,Seradata
-2001-019A,26766,INTELSAT 10 (PAS 10),US,5/15/01,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2001-024A,26824,INTELSAT 901,ITSO,6/9/01,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-2001-025A,26853,ASTRA 2C,SES,6/16/01,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2001-029A,26863,ARTEMIS,ESA,7/12/01,FRGUI,Guiana Space Centre,,Ariane 5G,Alenia,Seradata
-2001-031A,26871,GOES 12,US,7/23/01,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,SSL,Seradata
-2001-033A,26880,USA 159,US,8/6/01,AFETR,Cape Canaveral / Kennedy Space Center,,Titan IV,TRW,Seradata
-2001-037A,26892,COSMOS 2379,CIS,8/24/01,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-2001-039A,26900,INTELSAT 902,ITSO,8/30/01,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-2001-042A,26927,EUTELSAT 12 WEST B,EUTE,9/25/01,FRGUI,Guiana Space Centre,,Ariane 42,Alcatel,Seradata
-2001-045A,26936,RADUGA 1-6,CIS,10/6/01,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2001-052A,26985,DIRECTV 4S,US,11/27/01,FRGUI,Guiana Space Centre,,Ariane 44,Boeing,Seradata
-2002-001A,27168,USA 164,US,1/14/02,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,Lockheed,Seradata
-2002-002A,27298,INSAT 3C,IND,1/23/02,FRGUI,Guiana Space Centre,,Ariane 42,ISRO,Seradata
-2002-006A,27378,ECHOSTAR 7,US,2/21/02,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas III,Lockheed,Seradata
-2002-007A,27380,INTELSAT 904,ITSO,2/23/02,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-2002-011A,27389,TDRS 9,US,3/8/02,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Boeing,Seradata
-2002-015A,27399,JCSAT 2A,JPN,3/29/02,FRGUI,Guiana Space Centre,,Ariane 44,Boeing,Seradata
-2002-015B,27400,ASTRA 3A,SES,3/29/02,FRGUI,Guiana Space Centre,,Ariane 44,Boeing,Seradata
-2002-016A,27403,INTELSAT 903,ITSO,3/30/02,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2002-019A,27414,NSS 7,SES,4/16/02,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-2002-023A,27426,DIRECTV 5 (TEMPO 1),US,5/7/02,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2002-027A,27438,INTELSAT 905,ITSO,6/5/02,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-2002-029A,27441,EXPRESS 4A,CIS,6/10/02,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2002-030A,27445,GALAXY 3C,US,6/15/02,SEAL,,,Zenit 3SL,Boeing,Seradata
-2002-035A,27460,EUTE 5 WEST A (STELLAT5),EUTE,7/5/02,FRGUI,Guiana Space Centre,,Ariane 5G,Alcatel,Seradata
-2002-035B,27461,NSTAR C,JPN,7/5/02,FRGUI,Guiana Space Centre,,Ariane 5G,Lockheed,Seradata
-2002-038A,27499,EUTE 8 WEST C (HB 6),EUTE,8/21/02,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Alcatel,Seradata
-2002-039A,27501,ECHOSTAR 8,US,8/22/02,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2002-040A,27508,EUTE 12 WEST A (AB 1),EUTE,8/28/02,FRGUI,Guiana Space Centre,,Ariane 5G,Alenia,Seradata
-2002-040B,27509,METEOSAT 8 (MSG 1),EUME,8/28/02,FRGUI,Guiana Space Centre,,Ariane 5G,Alcatel,Seradata
-2002-041A,27513,INTELSAT 906,ITSO,9/6/02,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-2002-042B,27516,DRTS,JPN,9/10/02,TNSTA,Tanegashima Space Center,,H-II,Mitsubishi,Seradata
-2002-043A,27525,KALPANA 1 (METSAT 1),IND,9/12/02,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2002-044A,27528,HISPASAT 1D,SPN,9/18/02,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Alcatel,Seradata
-2002-048A,27540,INTEGRAL,ESA,10/17/02,TTMTR,Baikonur Cosmodrome,,Proton,Alenia,Gunter
-2002-051A,27554,EUTE 25C (EUTE W5),EUTE,11/20/02,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Alcatel,Seradata
-2002-055A,27566,TDRS 10,US,12/5/02,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIA,Boeing,Seradata
-2002-057A,27603,NSS 6,SES,12/17/02,FRGUI,Guiana Space Centre,,Ariane 44,Lockheed,Seradata
-2002-062A,27632,NIMIQ 2,CA,12/29/02,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-2003-007A,27683,INTELSAT 907,ITSO,2/15/03,FRGUI,Guiana Space Centre,,Ariane 44,SSL,Seradata
-2003-008A,27691,USA 167,US,3/11/03,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Lockheed,Seradata
-2003-012A,27711,USA 169,US,4/8/03,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,Lockheed,Seradata
-2003-013A,27714,INSAT 3A,IND,4/9/03,FRGUI,Guiana Space Centre,,Ariane 5G,ISRO,Seradata
-2003-013B,27715,GALAXY 12,ITSO,4/9/03,FRGUI,Guiana Space Centre,,Ariane 5G,NGIS,Seradata
-2003-014A,27718,ASIASAT 4,AC,4/12/03,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas III,Boeing,Seradata
-2003-015A,27775,COSMOS 2397,CIS,4/24/03,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-2003-018A,27807,GSAT 2,IND,5/8/03,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2003-020A,27811,HELLAS-SAT 2,GREC,5/13/03,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,EADS Astrium,Seradata
-2003-021A,27813,BD 1 03,PRC,5/24/03,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2003-024A,27820,AMC-9 (GE-12),SES,6/6/03,TTMTR,Baikonur Cosmodrome,,Proton,Alcatel,Seradata
-2003-026A,27825,THURAYA 2,UAE,6/10/03,SEAL,,,Zenit 3SL,Boeing,Seradata
-2003-028A,27830,BSAT-2C,JPN,6/11/03,FRGUI,Guiana Space Centre,,Ariane 5G,NGIS,Seradata
-2003-028B,27831,OPTUS C1,AUS,6/11/03,FRGUI,Guiana Space Centre,,Ariange 5G,Mitsubishi,Seradata
-2003-033A,27852,ECHOSTAR 12 (RAINBOW 1),US,7/17/03,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2003-034A,27854,GALAXY 23 (TELSTAR 13),US,8/8/03,SEAL,,,Zenit 3SL,SSL,Seradata
-2003-040A,27875,USA 170,US,8/29/03,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Lockheed,Seradata
-2003-043A,27948,EUTE 33A (EB 3),EUTE,9/27/03,FRGUI,Guiana Space Centre,,Ariane 5G,Boeing,Seradata
-2003-043E,27951,INSAT 3E,IND,9/27/03,FRGUI,Guiana Space Centre,,Ariane 5G,ISRO,Seradata
-2003-044A,27954,HORIZONS 1 (GALAXY 13),US,10/1/03,SEAL,,,Zenit 3SL,Boeing,Seradata
-2003-052A,28082,CHINASAT 20,PRC,11/14/03,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2003-053A,28089,YAMAL 202,CIS,11/24/03,TTMTR,Baikonur Cosmodrome,,Proton,RSC Energia,Seradata
-2003-053B,28094,YAMAL 201,CIS,11/24/03,TTMTR,Baikonur Cosmodrome,,Proton,RSC Energia,Seradata
-2003-057A,28117,UFO 11 (USA 174),US,12/18/03,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas III,Boeing,Seradata
-2003-059A,28132,AMOS 2,ISRA,12/27/03,TTMTR,Baikonur Cosmodrome,,Soyuz,IAI,Seradata
-2003-060A,28134,SESAT 2 (EXPRESS AM-22),EUTE,12/28/03,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2004-001A,28137,ESTRELA DU SOL-TELSTAR14,USBZ,1/11/04,SEAL,,,Zenit 3SL,SSL,Seradata
-2004-003A,28154,AMC-10 (GE-10),SES,2/5/04,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Lockheed,Seradata
-2004-004A,28158,USA 176,US,2/14/04,AFETR,Cape Canaveral / Kennedy Space Center,,Titan IV,Northrop,Seradata
-2004-007A,28184,MBSAT,PRC,3/13/04,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas III,SSL,Seradata
-2004-008A,28187,EUTE 7A (EUTE W3A),EUTE,3/15/04,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2004-010A,28194,RADUGA 1-7,CIS,3/27/04,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2004-011A,28218,SUPERBIRD 6,JPN,4/16/04,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Boeing,Seradata
-2004-015A,28234,EXPRESS AM-11,CIS,4/26/04,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2004-016A,28238,DIRECTV 7S,US,5/4/04,SEAL,,,Zenit 3SL,SSL,Seradata
-2004-017A,28252,AMC-11 (GE-11),SES,5/19/04,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas IIAS,Lockheed,Seradata
-2004-022A,28358,INTELSAT 1002,ITSO,6/16/04,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2004-024A,28364,APSTAR 5 (TELSTAR 18),PRC,6/29/04,SEAL,,,Zenit 3SL,SSL,Seradata
-2004-027A,28378,ANIK F2,CA,7/18/04,FRGUI,Guiana Space Centre,,Ariane 5G,Boeing,Seradata
-2004-031A,28393,AMAZONAS,SPN,8/4/04,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2004-036A,28417,GSAT 3 (EDUSAT),IND,9/20/04,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2004-041A,28446,AMC-15,SES,10/14/04,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-2004-042A,28451,FENGYUN 2C,PRC,10/19/04,XSC,Xichang Satellite Launch Center,,Long March 3A,SAST,Seradata
-2004-043A,28463,EXPRESS AM-1,CIS,10/29/04,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2004-048A,28472,AMC-16,SES,12/17/04,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2005-003A,28526,NSS 10 (AMC-12),SES,2/3/05,TTMTR,Baikonur Cosmodrome,,Proton,Alcatel,Seradata
-2005-005A,28542,XTAR-EUR,US,2/12/05,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2005-006A,28622,MTSAT 1R,JPN,2/26/05,TNSTA,Tanegashima Space Center,,H-II,SSL,Seradata
-2005-008A,28626,XM-3,US,3/1/05,SEAL,,,Zenit 3SL,Boeing,Seradata
-2005-009A,28628,INMARSAT 4-F1,IM,3/11/05,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,EADS Astrium,Seradata
-2005-010A,28629,EXPRESS AM-2,CIS,3/29/05,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2005-012A,28638,APSTAR 6,PRC,4/12/05,XSC,Xichang Satellite Launch Center,,Long March 3B,Alcatel,Seradata
-2005-015A,28644,SPACEWAY 1,US,4/26/05,SEAL,,,Zenit 3SL,Boeing,Seradata
-2005-019A,28659,DIRECTV 8,US,5/22/05,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2005-022A,28702,GALAXY 28 (IA 8),ITSO,6/23/05,SEAL,,,Zenit 3SL,SSL,Seradata
-2005-023A,28707,EXPRESS AM-3,CIS,6/24/05,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2005-028A,28786,IPSTAR 1,THAI,8/11/05,FRGUI,Guiana Space Centre,,Ariane 5G,SSL,Seradata
-2005-030A,28790,GALAXY 14,US,8/13/05,TTMTR,Baikonur Cosmodrome,,Soyuz,NGIS,Seradata
-2005-036A,28868,ANIK F1-R,CA,9/8/05,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2005-041A,28884,GALAXY 15,ITSO,10/13/05,FRGUI,Guiana Space Centre,,Ariane 5G,NGIS,Seradata
-2005-041B,28885,SYRACUSE 3A,FR,10/13/05,FRGUI,Guiana Space Centre,,Ariane 5G,Alcatel,Seradata
-2005-044A,28899,INMARSAT 4-F2,IM,11/8/05,SEAL,,,Zenit 3SL,EADS Astrium,Seradata
-2005-046A,28902,TELKOM 2,INDO,11/16/05,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2005-046B,28903,SPACEWAY 2,US,11/16/05,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2005-049A,28911,INSAT 4A,IND,12/21/05,FRGUI,Guiana Space Centre,,Ariane 5G,ISRO,Seradata
-2005-049B,28912,METEOSAT 9 (MSG 2),EUME,12/21/05,FRGUI,Guiana Space Centre,,Ariane 5G,Alcatel,Seradata
-2005-052A,28924,EUTE 172A (GE 23),EUTE,12/29/05,TTMTR,Baikonur Cosmodrome,,Proton,Alcatel,Seradata
-2006-003A,28935,ECHOSTAR 10,US,2/15/06,SEAL,,,Zenit 3SL,Lockheed,Seradata
-2006-004A,28937,MTSAT 2,JPN,2/18/06,TNSTA,Tanegashima Space Center,,H-II,Mitsubishi,Seradata
-2006-007A,28945,SPAINSAT,SPN,3/11/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2006-007B,28946,EUTELSAT HOTBIRD 13E,EUTE,3/11/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,Alcatel,Seradata
-2006-010A,29045,JCSAT 9,JPN,4/12/06,SEAL,,,Zenit 3SL,Lockheed,Seradata
-2006-012A,29055,ASTRA 1KR,SES,4/20/06,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2006-018A,29155,GOES 13,US,5/24/06,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2006-020A,29162,EUTE 113 WEST A(SATMEX 6,EUTE,5/27/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2006-020B,29163,THAICOM 5,THAI,5/27/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,Aerospatiale,Seradata
-2006-022A,29230,KAZSAT 1,KAZ,6/17/06,TTMTR,Baikonur Cosmodrome,,Proton,Khrunichev,Seradata
-2006-023A,29236,GALAXY 16,US,6/18/06,SEAL,,,Zenit 3SL,SSL,Seradata
-2006-032A,29270,EUTE HOT BIRD 13B (HB 8),EUTE,8/4/06,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2006-033A,29272,JCSAT 10,JPN,8/11/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2006-033B,29273,SYRACUSE 3B,FR,8/11/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,Alcatel,Seradata
-2006-034A,29349,KOREASAT 5,SKOR,8/22/06,SEAL,,,Zenit 3SL,Alcatel,Seradata
-2006-038A,29398,CHINASAT 22A,PRC,9/12/06,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2006-043A,29494,DIRECTV 9S,US,10/13/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2006-043B,29495,OPTUS D1,AUS,10/13/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2006-049A,29520,XM-4,US,10/30/06,SEAL,,,Zenit 3SL,Boeing,Seradata
-2006-051A,29526,ARABSAT 4B,AB,11/8/06,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2006-053A,29640,FENGYUN 2D,PRC,12/8/06,XSC,Xichang Satellite Launch Center,,Long March 3A,SAST,Seradata
-2006-054A,29643,WILDBLUE 1,US,12/8/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2006-054B,29644,AMC-18,SES,12/8/06,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2006-056A,29648,MEASAT 3,MALA,12/11/06,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2006-059A,29656,ETS 8,JPN,12/18/06,TNSTA,Tanegashima Space Center,,H-II,Mitsubishi,Seradata
-2007-003A,30323,BEIDOU 1D,PRC,2/2/07,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2007-007A,30793,INSAT 4B,IND,3/11/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2007-007B,30794,SKYNET 5A,UK,3/11/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2007-009A,31102,ANIK F3,CA,4/9/07,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2007-016A,31306,ASTRA 1L,SES,5/4/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2007-016B,31307,GALAXY 17,US,5/4/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,Alcatel,Seradata
-2007-018A,31395,NIGCOMSAT 1,NIG,5/13/07,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2007-021A,31577,EUTE 8A (SINOSAT 3),EUTE,5/31/07,XSC,Xichang Satellite Launch Center,,Long March 3A,DongFangHong,Seradata
-2007-031A,31800,CHINASAT 6B,PRC,7/5/07,XSC,Xichang Satellite Launch Center,,Long March 3B,Alcatel,Seradata
-2007-032A,31862,DIRECTV 10,US,7/7/07,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2007-036A,32018,SPACEWAY 3,US,8/14/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2007-036B,32019,BSAT-3A,JPN,8/14/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2007-037A,32050,INSAT 4CR,IND,9/2/07,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2007-044A,32252,OPTUS D2,AUS,10/5/07,FRGUI,Guiana Space Centre,,Ariane 5G,NGIS,Seradata
-2007-044B,32253,INTELSAT 11 (PAS 11),ITSO,10/5/07,FRGUI,Guiana Space Centre,,Ariane 5G,NGIS,Seradata
-2007-046A,32258,WGS F1 (USA 195),US,10/11/07,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2007-056A,32293,STAR ONE C1,BRAZ,11/14/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,Alcatel,Seradata
-2007-056B,32294,SKYNET 5B,UK,11/14/07,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2007-057A,32299,ASTRA 4A (SIRIUS 4),SES,11/17/07,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-2007-058A,32373,RADUGA 1M-1,CIS,12/9/07,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2007-063A,32387,RASCOM 1,RASC,12/21/07,FRGUI,Guiana Space Centre,,Ariane 5G,Alcatel,Seradata
-2007-063B,32388,HORIZONS 2,ITSO,12/21/07,FRGUI,Guiana Space Centre,,Ariane 5G,NGIS,Seradata
-2008-001A,32404,THURAYA 3,UAE,1/15/08,SEAL,,,Zenit 3SL,Boeing,Seradata
-2008-003A,32478,EXPRESS AM-33,CIS,1/28/08,TTMTR,Baikonur Cosmodrome,,Proton,NPO Prikladnoi Mekhaniki,Seradata
-2008-006A,32487,THOR 5,NOR,2/11/08,TTMTR,Baikonur Cosmodrome,,Proton,NGIS,Seradata
-2008-007A,32500,WINDS (KIZUNA),JPN,2/23/08,TNSTA,Tanegashima Space Center,,H-II,JAXA,Seradata
-2008-011A,32708,AMC-14,US,3/14/08,TTMTR,Baikonur Cosmodrome,,Proton,Lockheed,Seradata
-2008-013A,32729,DIRECTV 11,US,3/19/08,SEAL,,,Zenit 3SL,Boeing,Seradata
-2008-016A,32763,ICO G-1,US,4/14/08,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,SSL,Seradata
-2008-018A,32767,VINASAT 1,VTNM,4/18/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2008-018B,32768,STAR ONE C2,BRAZ,4/18/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,Alcatel,Seradata
-2008-019A,32779,TIANLIAN 1-01,PRC,4/25/08,XSC,Xichang Satellite Launch Center,,Long March 3C,CAST,Seradata
-2008-022A,32794,AMOS 3,ISRA,4/28/08,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,Thales,Seradata
-2008-024A,32951,GALAXY 18,US,5/21/08,SEAL,,,Zenit 3SL,SSL,Seradata
-2008-028A,33051,CHINASAT 9,PRC,6/9/08,XSC,Xichang Satellite Launch Center,,Long March 3B,Alcatel,Seradata
-2008-030A,33055,SKYNET 5C,UK,6/12/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2008-030B,33056,TURKSAT 3A,TURK,6/12/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,Alcatel,Seradata
-2008-033A,33108,COSMOS 2440,CIS,6/27/08,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-2008-034A,33153,INTELSAT 25(PROTOSTAR 1),ITSO,7/7/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2008-034B,33154,BADR 6,AB,7/7/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2008-035A,33207,ECHOSTAR 11,US,7/16/08,SEAL,,,Zenit 3SL,SSL,Seradata
-2008-038A,33274,SUPERBIRD 7,JPN,8/14/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,Mitsubishi,Seradata
-2008-038B,33275,AMC-21,SES,8/14/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2008-039A,33278,INMARSAT 4-F3,IM,8/18/08,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2008-044A,33373,NIMIQ 4,CA,9/19/08,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2008-045A,33376,GALAXY 19,US,9/24/08,SEAL,,,Zenit 3SL,SSL,Seradata
-2008-055A,33414,VENESAT-1,VENZ,10/29/08,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2008-057A,33436,ASTRA 1M,SES,11/5/08,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2008-063A,33453,CIEL-2,CA,12/10/08,TTMTR,Baikonur Cosmodrome,,Proton,Alcatel,Seradata
-2008-065A,33459,EUTE HOT BIRD 13C (HB 9),EUTE,12/20/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2008-065B,33460,EUTE 28B (EUTE W2M),EUTE,12/20/08,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium and ISRO,Seradata
-2008-066A,33463,FENGYUN 2E,PRC,12/23/08,XSC,Xichang Satellite Launch Center,,Long March 3A,SAST,Seradata
-2009-007A,33595,EXPRESS AM-44,CIS,2/11/09,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2009-007B,33596,EXPRESS MD1,CIS,2/11/09,TTMTR,Baikonur Cosmodrome,,Proton,Khrunichev,Seradata
-2009-008A,33749,NSS 9,SES,2/12/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2009-008B,33750,EUTE 33E,EUTE,2/12/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2009-009A,34111,TELSTAR 11N,CA,2/26/09,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,SSL,Seradata
-2009-010A,34264,RADUGA-1 8,CIS,2/28/09,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2009-016A,34710,EUTE 10A (EUTE W2A),EUTE,4/3/09,TTMTR,Baikonur Cosmodrome,,Proton,Alcatel,Seradata
-2009-017A,34713,WGS F2 (USA 204),US,4/4/09,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2009-018A,34779,COMPASS G2,PRC,4/14/09,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2009-027A,34941,SES 7 (PROTOSTAR 2),SES,5/16/09,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2009-032A,35362,MEASAT 3A,MALA,6/21/09,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,NGIS,Seradata
-2009-033A,35491,GOES 14,US,6/27/09,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2009-034A,35493,SIRIUS FM-5,US,6/30/09,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2009-035A,35496,TERRESTAR 1,US,7/1/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2009-042A,35696,ASIASAT 5,AC,8/11/09,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2009-044A,35755,JCSAT 12,JPN,8/21/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2009-044B,35756,OPTUS D3,AUS,8/21/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2009-046A,35812,PALAPA D,INDO,8/31/09,XSC,Xichang Satellite Launch Center,,Long March 3B,Thales,Seradata
-2009-050A,35873,NIMIQ 5,CA,9/17/09,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2009-054A,35942,AMAZONAS 2,SPN,9/30/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2009-054B,35943,COMSATBW-1,GER,9/30/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2009-058A,36032,NSS 12,SES,10/29/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2009-058B,36033,THOR 6,NOR,10/29/09,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2009-064A,36097,INTELSAT 14,ITSO,11/23/09,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,SSL,Seradata
-2009-065A,36101,EUTE 36B (EUTE W7),EUTE,11/24/09,TTMTR,Baikonur Cosmodrome,,Proton,Alcatel,Seradata
-2009-067A,36106,INTELSAT 15,ITSO,11/30/09,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,NGIS,Seradata
-2009-068A,36108,WGS F3 (USA 211),US,12/6/09,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2009-075A,36131,DIRECTV 12,US,12/29/09,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2010-001A,36287,BEIDOU 3,PRC,1/16/10,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2010-002A,36358,RADUGA 1M-2,CIS,1/28/10,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2010-005A,36395,SDO,US,2/11/10,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,NASA,Seradata
-2010-006A,36397,INTELSAT 16,ITSO,2/12/10,TTMTR,Baikonur Cosmodrome,,Proton,NGIS,Seradata
-2010-008A,36411,GOES 15,US,3/4/10,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2010-010A,36499,ECHOSTAR 14,US,3/20/10,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2010-016A,36516,SES 1,SES,4/24/10,TTMTR,Baikonur Cosmodrome,,Proton,NGIS,Seradata
-2010-021A,36581,ASTRA 3B,SES,5/21/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2010-021B,36582,COMSATBW-2,GER,5/21/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2010-024A,36590,BEIDOU 4,PRC,6/2/10,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2010-025A,36592,BADR-5 (ARABSAT 5B),AB,6/3/10,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2010-032A,36744,COMS 1,SKOR,6/26/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2010-032B,36745,ARABSAT 5A,AB,6/26/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2010-034A,36792,ECHOSTAR 15,US,7/10/10,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2010-036A,36828,BEIDOU 5,PRC,7/31/10,XSC,Xichang Satellite Launch Center,,Long March 3A,DongFangHong,Seradata
-2010-037A,36830,NILESAT 201,EGYP,8/4/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2010-037B,36831,RASCOM QAF 1R,RASC,8/4/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2010-039A,36868,AEHF 1 (USA 214),US,8/14/10,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2010-042A,37150,CHINASAT 6A,PRC,9/4/10,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2010-053A,37185,XM-5,US,10/14/10,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2010-056B,37207,BSAT-3B,JPN,10/28/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2010-057A,37210,BEIDOU 6,PRC,10/31/10,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2010-061A,37218,SKYTERRA 1,US,11/14/10,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2010-064A,37234,CHINASAT 20A,PRC,11/24/10,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2010-065A,37237,HYLAS 1,UK,11/26/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2010-065B,37238,INTELSAT 17,ITSO,11/26/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2010-068A,37256,BEIDOU 7,PRC,12/17/10,XSC,Xichang Satellite Launch Center,,Long March 3A,DongFangHong,Seradata
-2010-069A,37258,EUTE KA SAT 9A (KA SAT),EUTE,12/26/10,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2010-070A,37264,HISPASAT 1E,SPN,12/29/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2010-070B,37265,KOREASAT 6,SKOR,12/29/10,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2011-001A,37344,ELEKTRO-L,CIS,1/20/11,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,NPO Lavochkin,Seradata
-2011-013A,37384,BEIDOU 8,PRC,4/9/11,XSC,Xichang Satellite Launch Center,,Long March 3A,DongFangHong,Seradata
-2011-016A,37392,INTELSAT NEW DAWN,ITSO,4/22/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2011-016B,37393,YAHSAT 1A,UAE,4/22/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium and Thales,Seradata
-2011-019A,37481,SBIRS GEO 1 (USA 230),US,5/7/11,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2011-021A,37602,TELSTAR 14R,CA,5/20/11,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2011-022A,37605,GSAT 8,IND,5/20/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2011-022B,37606,ST 2,STCT,5/20/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,Mitsubishi,Seradata
-2011-026A,37677,CHINASAT 10,PRC,6/20/11,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2011-032A,37737,TIANLIAN 1-02,PRC,7/11/11,XSC,Xichang Satellite Launch Center,,Long March 3C,CAST,Seradata
-2011-034A,37746,GSAT 12,IND,7/15/11,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2011-035A,37748,SES 3,US,7/15/11,TTMTR,Baikonur Cosmodrome,,Proton,NGIS,Seradata
-2011-035B,37749,KAZSAT 2,KAZ,7/15/11,TTMTR,Baikonur Cosmodrome,,Proton,Khrunichev,Seradata
-2011-038A,37763,BEIDOU 9,PRC,7/26/11,XSC,Xichang Satellite Launch Center,,Long March 3A,DongFangHong,Seradata
-2011-041A,37775,ASTRA 1N,SES,8/6/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2011-041B,37776,BSAT-3C,JPN,8/6/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2011-042A,37779,PAKSAT 1R,PAKI,8/11/11,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2011-047A,37804,CHINASAT 1A,PRC,9/17/11,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2011-048A,37806,COSMOS 2473,CIS,9/20/11,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2011-049A,37809,SES 2,SES,9/21/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2011-049B,37810,ARABSAT 5C,AB,9/21/11,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2011-051A,37816,EUTE 7 WEST A (AB 7),EUTE,9/24/11,SEAL,,,Zenit 3SL,EADS Astrium,Seradata
-2011-054A,37826,QUETZSAT 1,MEX,9/29/11,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2011-056A,37834,INTELSAT 18,ITSO,10/5/11,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,NGIS,Seradata
-2011-057A,37836,EUTE 16A (EUTE W3C),EUTE,10/7/11,XSC,Xichang Satellite Launch Center,,Long March 3B,Thales,Seradata
-2011-059A,37843,VIASAT 1,US,10/19/11,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2011-069A,37933,ASIASAT 7,AC,11/25/11,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2011-073A,37948,BEIDOU 10,PRC,12/1/11,XSC,Xichang Satellite Launch Center,,Long March 3A,DongFangHong,Seradata
-2011-074A,37950,AMOS 5,ISRA,12/11/11,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2011-074B,37951,LUCH 5A,CIS,12/11/11,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2011-077A,38014,NIGCOMSAT 1R,NIG,12/19/11,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2012-002A,38049,FENGYUN 2F,PRC,1/13/12,XSC,Xichang Satellite Launch Center,,Long March 3A,SAST,Seradata
-2012-003A,38070,WGS F4 (USA 233),US,1/20/12,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2012-007A,38087,SES 4,SES,2/14/12,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2012-008A,38091,BEIDOU 11,PRC,2/24/12,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2012-011A,38098,INTELSAT 22,ITSO,3/25/12,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2012-012A,38101,COSMOS 2479,CIS,3/30/12,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-2012-013A,38107,APSTAR 7,PRC,3/31/12,XSC,Xichang Satellite Launch Center,,Long March 3B,Thales,Seradata
-2012-016A,38245,YAHSAT 1B,UAE,4/23/12,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium and Thales,Seradata
-2012-019A,38254,AEHF 2 (USA 235),US,5/4/12,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2012-023A,38331,JCSAT 13,JPN,5/15/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2012-023B,38332,VINASAT 2,VTNM,5/15/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2012-026A,38342,NIMIQ 6,CA,5/17/12,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2012-028A,38352,CHINASAT 2A,PRC,5/26/12,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2012-030A,38356,INTELSAT 19,ITSO,6/1/12,SEAL,,,Zenit 3SL,SSL,Seradata
-2012-035A,38551,ECHOSTAR 17,US,7/5/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2012-035B,38552,METEOSAT 10 (MSG 3),EUME,7/5/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2012-036A,38652,SES 5,SES,7/9/12,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2012-040A,38730,TIANLIAN 1-03,PRC,7/25/12,XSC,Xichang Satellite Launch Center,,Long March 3C,CAST,Seradata
-2012-043A,38740,INTELSAT 20,ITSO,8/2/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2012-043B,38741,HYLAS 2,UK,8/2/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2012-045A,38749,INTELSAT 21,ITSO,8/19/12,SEAL,,,Zenit 3SL,Boeing,Seradata
-2012-051A,38778,ASTRA 2F,SES,9/28/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2012-051B,38779,GSAT 10,IND,9/28/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2012-057A,38867,INTELSAT 23,ITSO,10/14/12,TTMTR,Baikonur Cosmodrome,,Proton,NGIS,Seradata
-2012-059A,38953,BEIDOU 16,PRC,10/25/12,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2012-061A,38977,LUCH 5B,CIS,11/2/12,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2012-061B,38978,YAMAL 300K,CIS,11/2/12,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2012-062A,38991,STARONE C3,BRAZ,11/10/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2012-062B,38992,EUTE 21B,EUTE,11/10/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2012-065A,39008,ECHOSTAR 16,US,11/20/12,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2012-067A,39017,CHINASAT 12,PRC,11/27/12,XSC,Xichang Satellite Launch Center,,Long March 3B,Thales,Seradata
-2012-069A,39020,EUTE 70B,EUTE,12/3/12,SEAL,,,Zenit 3SL,EADS Astrium,Seradata
-2012-070A,39022,YAMAL 402,CIS,12/8/12,TTMTR,Baikonur Cosmodrome,,Proton,Thales,Seradata
-2012-075A,39034,SKYNET 5D,UK,12/19/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium,Seradata
-2012-075B,39035,MEXSAT 3,MEX,12/19/12,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2013-004A,39070,TDRS 11,US,1/31/13,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2013-006A,39078,AMAZONAS 3,SPN,2/7/13,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2013-006B,39079,AZERSPACE 1,AZER,2/7/13,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2013-011A,39120,SBIRS GEO 2 (USA 241),US,3/19/13,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2013-012A,39122,EUTE 117 WEST A(SATMEX 8,EUTE,3/26/13,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2013-014A,39127,ANIK G1,CA,4/15/13,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2013-020A,39157,CHINASAT 11,PRC,5/1/13,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2013-022A,39163,EUTE 7B (EUTE 3D),EUTE,5/14/13,TTMTR,Baikonur Cosmodrome,,Proton,Thales,Seradata
-2013-024A,39168,WGS 5 (USA 243),US,5/25/13,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2013-026A,39172,SES 6,SES,6/3/13,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2013-034A,39199,IRNSS R1A,IND,7/1/13,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2013-038A,39215,ALPHASAT (I-4A F4),IM,7/25/13,FRGUI,Guiana Space Centre,,Ariane 5ECA,EADS Astrium and Thales,Seradata
-2013-038B,39216,INSAT 3D,IND,7/25/13,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2013-041A,39222,WGS 6 (USA 244),US,8/8/13,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2013-044A,39233,EUTE 25B,EUTE,8/29/13,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2013-044B,39234,GSAT 7,IND,8/29/13,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2013-045A,39237,AMOS 4,ISRA,8/31/13,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,IAI,Seradata
-2013-050A,39256,AEHF 3 (USA 246),US,9/18/13,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2013-056A,39285,ASTRA 2E,SES,9/29/13,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2013-058A,39360,SIRIUS FM-6,US,10/25/13,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2013-062A,39375,RADUGA 1M-3,CIS,11/11/13,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2013-071A,39460,SES 8,SES,12/3/13,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2013-073A,39476,INMARSAT 5-F1,IM,12/8/13,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2013-075A,39481,TKSAT 1,BOL,12/20/13,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2013-077A,39487,EXPRESS AM-5,CIS,12/26/13,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-001A,39498,GSAT 14,IND,1/5/14,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2014-002A,39500,THAICOM 6,THAI,1/6/14,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2014-004A,39504,TDRS 12,US,1/24/14,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2014-006A,39508,ABS 2,PRC,2/6/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2014-006B,39509,ATHENA-FIDUS,FRIT,2/6/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2014-007A,39522,TURKSAT 4A,TURK,2/14/14,TTMTR,Baikonur Cosmodrome,,Proton,Mitsubishi,Seradata
-2014-010A,39612,EXPRESS AT1,CIS,3/15/14,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-010B,39613,EXPRESS AT2,CIS,3/15/14,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-011A,39616,AMAZONAS 4A,SPN,3/22/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2014-011B,39617,ASTRA 5B,SES,3/22/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2014-017A,39635,IRNSS 1B,IND,4/4/14,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2014-023A,39727,LUCH 5V,CIS,4/28/14,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-023B,39728,KAZSAT 3,KAZ,4/28/14,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-030A,39773,EUTE 3B,EUTE,5/26/14,SEAL,,,Zenit 3SL,Airbus,Seradata
-2014-043A,40099,USA 253,US,7/28/14,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,NGIS,Seradata
-2014-043B,40100,USA 254,US,7/28/14,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,NGIS,Seradata
-2014-046A,40107,ASIASAT 8,AC,8/5/14,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2014-052A,40141,ASIASAT 6,AC,9/7/14,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2014-054A,40146,OPTUS 10,AUS,9/11/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2014-054B,40147,MEASAT 3B,MALA,9/11/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2014-058A,40258,LUCH (OLYMP),CIS,9/27/14,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-060A,40267,HIMAWARI 8,JPN,10/7/14,TNSTA,Tanegashima Space Center,,H-II,Mitsubishi,Seradata
-2014-061A,40269,IRNSS 1C,IND,10/15/14,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2014-062A,40271,INTELSAT 30,ITSO,10/16/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2014-062B,40272,ARSAT 1,ARGN,10/16/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,INVAP,Seradata
-2014-064A,40277,EXPRESS AM-6,CIS,10/21/14,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-078A,40332,GSAT 16,IND,12/6/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2014-078B,40333,DIRECTV 14,US,12/6/14,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2014-082A,40345,YAMAL 401,CIS,12/15/14,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2014-089A,40364,ASTRA 2G,SES,12/27/14,TTMTR,Baikonur Cosmodrome,,Proton,Airbus,Seradata
-2014-090A,40367,FENGYUN 2G,PRC,12/31/14,XSC,Xichang Satellite Launch Center,,Long March 3A,SAST,Seradata
-2015-005A,40384,INMARSAT 5-F2,IM,2/1/15,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2015-010A,40424,ABS 3A,PRC,3/2/15,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2015-010B,40425,EUTE 115 WEST B(SATMEX 7,EUTE,3/2/15,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2015-012A,40505,EXPRESS AM-7,CIS,3/18/15,TTMTR,Baikonur Cosmodrome,,Proton,Airbus,Seradata
-2015-018A,40547,IRNSS 1D,IND,3/28/15,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2015-019A,40549,BD-17,PRC,3/30/15,XSC,Xichang Satellite Launch Center,,Long March 3C,SECM,Seradata
-2015-022A,40613,THOR 7,NOR,4/26/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2015-023A,40617,TURKMENALEM 52E/MONACOSA,TMMC,4/27/15,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Thales,Seradata
-2015-026A,40663,DIRECTV 15,US,5/27/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2015-026B,40664,SKY MEXICO-1,MEX,5/27/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2015-034A,40732,METEOSAT 11 (MSG 4),EUME,7/15/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2015-034B,40733,STARONE C4,BRAZ,7/15/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2015-036A,40746,WGS 7 (USA 263),US,7/24/15,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2015-039A,40874,INTELSAT 34,ITSO,8/20/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2015-039B,40875,EUTE 8 WEST B,EUTE,8/20/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2015-041A,40880,GSAT 6,IND,8/27/15,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2015-042A,40882,INMARSAT 5-F3,IM,8/28/15,TTMTR,Baikonur Cosmodrome,,Proton,Boeing,Seradata
-2015-044A,40887,MUOS 4,US,9/2/15,AFETR,Cape Canaveral / Kennedy Space Center,,Altas V,Lockheed,Seradata
-2015-046A,40892,TJS-1,PRC,9/12/15,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2015-048A,40895,EXPRESS AM-8,CIS,9/14/15,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2015-053A,40938,BD-20,PRC,9/29/15,XSC,Xichang Satellite Launch Center,,Long March 3B,SECM,Seradata
-2015-054A,40940,SKY MUSTER,AUS,9/30/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2015-054B,40941,ARSAT 2,ARGN,9/30/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,INVAP,Seradata
-2015-056A,40946,MORELOS 3,MEX,10/2/15,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2015-059A,40982,APSTAR 9,PRC,10/16/15,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2015-060A,40984,TURKSAT 4B,TURK,10/16/15,TTMTR,Baikonur Cosmodrome,,Proton,Mitsubishi,Seradata
-2015-063A,41021,CHINASAT 2C,PRC,11/3/15,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2015-065A,41028,GSAT 15,IND,11/10/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2015-065B,41029,BADR 7,AB,11/10/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus and Thales,Seradata
-2015-067A,41034,LAOSAT 1,LAOS,11/20/15,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2015-068A,41036,TELSTAR 12V,CA,11/24/15,TNSTA,Tanegashima Space Center,,H-II,EADS Astrium,Seradata
-2015-073A,41103,CHINASAT 1C,PRC,12/9/15,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2015-074A,41105,ELEKTRO-L 2,CIS,12/11/15,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,NPO Lavochkin,Seradata
-2015-075A,41121,COSMOS 2513,CIS,12/13/15,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2015-082A,41191,EXPRESS AMU1,CIS,12/24/15,TTMTR,Baikonur Cosmodrome,,Proton,Airbus,Seradata
-2015-083A,41194,GAOFEN 4,PRC,12/28/15,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2016-001A,41238,BELINTERSAT 1,BELA,1/15/16,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2016-003A,41241,IRNSS-1E,IND,1/20/16,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2016-004A,41308,INTELSAT 29E,ITSO,1/27/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2016-005A,41310,EUTE 9B,EUTE,1/29/16,TTMTR,Baikonur Cosmodrome,,Proton,EADS Astrium,Seradata
-2016-013A,41380,SES 9,SES,3/4/16,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2016-014A,41382,EUTE 65W,EUTE,3/9/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2016-015A,41384,IRNSS 1F,IND,3/10/16,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2016-021A,41434,BEIDOU IGSO-6,PRC,3/29/16,XSC,Xichang Satellite Launch Center,,Long March 3A,DongFangHong,Seradata
-2016-027A,41469,IRNSS 1G,IND,4/28/16,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2016-028A,41471,JCSAT 2B,JPN,5/6/16,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2016-031A,41552,THAICOM 8,THAI,5/27/16,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2016-035A,41581,INTELSAT 31,ITSO,6/9/16,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2016-037A,41586,BD-2-G7,PRC,6/12/16,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2016-038A,41588,ABS 2A,BERM,6/15/16,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2016-038B,41589,EUTE 117W B,EUTE,6/15/16,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2016-039A,41591,BRISAT,INDO,6/18/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2016-039B,41592,ECHOSTAR 18,US,6/18/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2016-048A,41725,TIANTONG-1 1,PRC,8/5/16,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Gunter
-2016-050A,41729,JCSAT 16,JPN,8/14/16,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2016-052A,41744,USA 270,US,8/19/16,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,NGIS,Seradata
-2016-052B,41745,USA 271,US,8/19/16,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,NGIS,Seradata
-2016-053A,41747,INTELSAT 36,ITSO,8/24/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2016-053B,41748,INTELSAT 33E,ITSO,8/24/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2016-054A,41752,INSAT 3DR,IND,9/8/16,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2016-060A,41793,GSAT 18,IND,10/5/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2016-060B,41794,SKY MUSTER 2,AUS,10/5/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2016-064A,41836,HIMAWARI 9,JPN,11/2/16,TNSTA,Tanegashima Space Center,,H-II,Mitsubishi,Seradata
-2016-065A,41838,SJ-17,PRC,11/3/16,WSC,Wenchang Satellite Launch Center,,Long March 5,CAST,Seradata
-2016-071A,41866,GOES 16,US,11/19/16,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2016-072A,41869,TIANLIAN 1-04,PRC,11/22/16,XSC,Xichang Satellite Launch Center,,Long March 3C,CAST,Seradata
-2016-075A,41879,WGS 8 (USA 272),US,12/7/16,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2016-077A,41882,FENGYUN 4A,PRC,12/10/16,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2016-079A,41893,ECHOSTAR 19,US,12/18/16,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,SSL,Seradata
-2016-082A,41903,JCSAT 15,JPN,12/21/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2016-082B,41904,STARONE D1,BRAZ,12/21/16,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2017-001A,41911,TJS-2,PRC,1/5/17,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2017-004A,41937,SBIRS GEO 4 (USA 273),US,1/21/17,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2017-006A,41942,HISPASAT 36W-1,SPN,1/28/17,FRGUI,Guiana Space Centre,,Soyuz,OHB System,Seradata
-2017-007A,41944,TELKOM 3S,INDO,2/14/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2017-007B,41945,INTELSAT 32E,ITSO,2/14/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2017-014A,42070,ECHOSTAR 23,US,3/16/17,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2017-016A,42075,WGS 9 (USA 275),US,3/19/17,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2017-017A,42432,SES 10,SES,3/30/17,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2017-018A,42662,CHINASAT 16,PRC,4/12/17,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2017-023A,42691,KOREASAT 7,SKOR,5/4/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2017-023B,42692,SGDC,BRAZ,5/4/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2017-024A,42695,GSAT 9,IND,5/5/17,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2017-025A,42698,INMARSAT 5-F4,IM,5/15/17,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2017-026A,42709,SES 15,SES,5/18/17,FRGUI,Guiana Space Centre,,Soyuz,Boeing,Seradata
-2017-029A,42740,VIASAT 2,US,6/1/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2017-029B,42741,EUTE 172B,EUTE,6/1/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2017-031A,42747,GSAT 19,IND,6/5/17,SRI,Satish Dhawan Space Centre,,LVM3,ISRO,Seradata
-2017-032A,42749,ECHOSTAR 21,US,6/8/17,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2017-035A,42763,CHINASAT 9A,PRC,6/18/17,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2017-038A,42801,BULGARIASAT-1,BGR,6/23/17,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2017-040A,42814,HELLAS-SAT 3,ESA,6/28/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2017-040B,42815,GSAT 17,IND,6/28/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2017-041A,42818,INTELSAT 35E,ITSO,7/5/17,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2017-046A,42907,COSMOS 2520,CIS,8/16/17,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2017-047A,42915,TDRS 13,US,8/18/17,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2017-048A,42917,QZS-3,JPN,8/19/17,TNSTA,Tanegashima Space Center,,H-II,Mitsubishi,Gunter
-2017-053A,42934,AMAZONAS 5,SPN,9/11/17,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2017-057A,42942,ASIASAT 9,AC,9/28/17,TTMTR,Baikonur Cosmodrome,,Proton,SSL,Seradata
-2017-059A,42950,INTELSAT 37E,ITSO,9/29/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2017-059B,42951,BSAT-4A,JPN,9/29/17,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2017-063A,42967,ECHOSTAR 105/SES 11,SES,10/11/17,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2017-067A,42984,KOREASAT 5A,SKOR,10/30/17,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Thales,Seradata
-2017-078A,43039,ALCOMSAT 1,ALG,12/10/17,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2017-086A,43087,ANGOSAT 1,AGO,12/26/17,TTMTR,Baikonur Cosmodrome,,Zenit 3SL,RSC Energia,Seradata
-2018-009A,43162,SBIRS GEO 3 (USA 282),US,1/20/18,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2018-012A,43174,AL YAH 3,UAE,1/25/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2018-012B,43175,SES 14,SES,1/25/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2018-022A,43226,GOES S,US,3/1/18,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2018-023A,43228,HISPASAT 30W-6,SPN,3/6/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2018-033A,43271,SUPERBIRD 8,JPN,4/5/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,Mitsubishi,Seradata
-2018-033B,43272,HYLAS 4,UK,4/5/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2018-035A,43286,IRNSS 1I,IND,4/11/18,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2018-036A,43339,USA 283,US,4/14/18,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2018-037A,43432,COSMOS 2526,CIS,4/18/18,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2018-041A,43450,APSTAR 6C,PRC,5/3/18,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2018-044A,43463,BANGABANDHUSAT-1,BGD,5/11/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Thales,Seradata
-2018-049A,43488,SES-12,SES,6/4/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2018-050A,43491,FENGYUN 2H,PRC,6/5/18,XSC,Xichang Satellite Launch Center,,Long March 3A,SAST,Seradata
-2018-057A,43539,BEIDOU IGSO-7,PRC,7/9/18,XSC,Xichang Satellite Launch Center,,Long March 3A,CAST,Seradata
-2018-059A,43562,TELSTAR 19V,CA,7/22/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2018-064A,43587,TELKOM-4,INDO,8/7/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2018-069A,43611,TELSTAR 18V,CA,9/10/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2018-074A,43632,AZERSPACE 2/INTELSAT 38,AZER,9/25/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2018-074B,43633,HORIZONS 3E,ITSO,9/25/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,Boeing,Seradata
-2018-079A,43651,AEHF 4 (USA 288),US,10/17/18,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2018-085A,43683,BEIDOU 3G1,PRC,11/1/18,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2018-089A,43698,GSAT 29,IND,11/14/18,SRI,Satish Dhawan Space Centre,,LVM3,ISRO,Seradata
-2018-090A,43700,ES'HAIL 2,QAT,11/15/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Mitsubishi,Seradata
-2018-100A,43823,GEO-KOMPSAT-2A,SKOR,12/4/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,KARI,Seradata
-2018-100B,43824,GSAT 11,IND,12/4/18,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2018-105A,43864,GSAT 7A,IND,12/19/18,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Seradata
-2018-107A,43867,OBJECT A,CIS,12/21/18,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2018-110A,43874,TJS-3,PRC,12/24/18,XSC,Xichang Satellite Launch Center,,Long March 3C,SAST,Seradata
-2019-001A,43920,CHINASAT 2D,PRC,1/10/19,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2019-007A,44034,SAUDIGEOSAT1/HELLASSAT4,GREC,2/5/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2019-007B,44035,GSAT 31,IND,2/5/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2019-009A,44048,NUSANTARA SATU,INDO,2/22/19,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2019-012A,44067,CHINASAT 6C,PRC,3/9/19,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2019-014A,44071,WGS 10 (USA 291),US,3/16/19,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2019-017A,44076,TIANLIAN 2-01,PRC,3/31/19,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2019-021A,44186,ARABSAT 6A,AB,4/11/19,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Lockheed,Seradata
-2019-023A,44204,BEIDOU 3 IGSO-1,PRC,4/20/19,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2019-027A,44231,BEIDOU 2 G8,PRC,5/17/19,XSC,Xichang Satellite Launch Center,,Long March 3C,DongFangHong,Seradata
-2019-031A,44307,YAMAL 601,CIS,5/30/19,TTMTR,Baikonur Cosmodrome,,Proton,Thales,Seradata
-2019-034A,44333,AT&T T-16,US,6/20/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2019-034B,44334,EUTE 7C,EUTE,6/20/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2019-035A,44337,BEIDOU 3 IGSO-2,PRC,6/24/19,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2019-048A,44457,COSMOS 2539,CIS,8/5/19,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2019-049A,44475,EDRS-C,ESA,8/6/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2019-050A,44479,AMOS 17,ISRA,8/6/19,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2019-049B,44476,INTELSAT 39,ITSO,8/6/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2019-051A,44481,AEHF 5 (USA 292),US,8/8/19,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2019-067A,44624,EUTELSAT 5 WEST B,EUTE,10/9/19,TTMTR,Baikonur Cosmodrome,,Proton,Airbus,Seradata
-2019-067B,44625,MEV-1,US,10/9/19,TTMTR,Baikonur Cosmodrome,,Proton,NGIS,Seradata
-2019-070A,44637,TJS-4,PRC,10/17/19,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2019-073A,44709,BEIDOU 3 IGSO-3,PRC,11/4/19,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2019-080A,44800,TIBA-1,EGYP,11/26/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2019-080B,44801,INMARSAT GX5,IM,11/26/19,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2019-091A,44868,JCSAT 18,JPN,12/17/19,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Boeing,Seradata
-2019-095A,44903,ELEKTRO-L 3,CIS,12/24/19,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-2019-097A,44910,SJ-20,PRC,12/27/19,WSC,Wenchang Satellite Launch Center,,Long March 5,CAST,Seradata
-2020-002A,44978,TJS-5,PRC,1/7/20,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2020-005A,45026,GSAT 30,IND,1/16/20,FRGUI,Guiana Space Centre,,Ariane 5ECA,ISRO,Seradata
-2020-005B,45027,EUTE KONNECT,EUTE,1/16/20,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2020-013A,45245,JCSAT 17,JPN,2/18/20,FRGUI,Guiana Space Centre,,Ariane 5ECA,Lockheed,Seradata
-2020-013B,45246,GEO-KOMPSAT-2B,SKOR,2/18/20,FRGUI,Guiana Space Centre,,Ariane 5ECA,KARI,Seradata
-2020-017A,45344,BEIDOU 3 G2,PRC,3/9/20,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2020-022B,45465,AEHF 6 (USA 298),US,3/26/20,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2020-040A,45807,BEIDOU 3 G3,PRC,6/23/20,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2020-045A,45863,APSTAR 6D,PRC,7/9/20,XSC,Xichang Satellite Launch Center,,Long March 3B,CGWIC,Seradata
-2020-048A,45920,KOREASAT 116,SKOR,7/20/20,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Lockheed,Seradata
-2020-053A,45985,OBJECT A,CIS,7/30/20,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2020-053B,45986,EXPRESS 80,CIS,7/30/20,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2020-056A,46112,BSAT-4B,JPN,8/15/20,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2020-056B,46113,MEV-2,US,8/15/20,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2020-056C,46114,GALAXY 30,US,8/15/20,FRGUI,Guiana Space Centre,,Ariane 5ECA,NGIS,Seradata
-2020-071A,46610,GAOFEN 13,PRC,10/11/20,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2020-082A,46916,TIANTONG-1 2,PRC,11/12/20,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Gunter
-2020-089A,47202,LUCAS (JDRS-1),JPN,11/29/20,TNSTA,Tanegashima Space Center,,H-II,Mitsubishi,Seradata
-2020-096A,47240,SIRIUSXM-7,US,12/13/20,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2020-097A,47242,IPM 2/BREEZE-M,CIS,12/14/20,PKMTR,Plesetsk Cosmodrome,,Angara,Khrunichev,Seradata
-2020-099A,47256,CMS-01,IND,12/17/20,SRI,Satish Dhawan Space Centre,,PSLV,ISRO,Seradata
-2021-001A,47306,TURKSAT 5A,TURK,1/8/21,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2021-003A,47321,TIANTONG-1 3,PRC,1/19/21,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Gunter
-2021-010A,47613,TJS-6,PRC,2/4/21,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2021-042A,48618,SBIRS GEO 5 (USA 315),US,5/18/21,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2021-047A,48808,FENGYUN 4B,PRC,6/2/21,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2021-049A,48838,XM-8,US,6/6/21,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2021-063A,49011,TIANLIAN 1-O5,PRC,7/6/21,XSC,Xichang Satellite Launch Center,,Long March 3C,CAST,Seradata
-2021-069A,49055,STARONE D2,BRAZ,7/30/21,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2021-069B,49056,EUTELSAT QUANTUM,EUTE,7/30/21,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2021-071A,49062,CHINASAT 2E,PRC,8/5/21,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2021-077A,49115,TJS-7,PRC,8/24/21,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2021-080A,49125,CHINASAT 9B,PRC,9/9/21,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2021-094A,49330,SJ-21,PRC,10/24/21,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2021-114A,49505,CHINASAT 1D,PRC,11/26/21,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2021-118A,49817,STPSAT-6,US,12/7/21,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,NGIS,Seradata
-2021-124A,50005,TIANLIAN 2-02,PRC,12/13/21,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2021-129A,50321,SHIYAN 12 01 (SY-12 01),PRC,12/23/21,WSC,Wenchang Satellite Launch Center,,Long March 7A,CAST,Seradata
-2021-129B,50322,SHIYAN 12 02 (SY-12 02),PRC,12/23/21,WSC,Wenchang Satellite Launch Center,,Long March 7A,CAST,Seradata
-1994-054A,23223,USA 105,US,8/27/94,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,TRW,Seradata
-1996-026A,23855,USA 118,US,4/24/96,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,TRW,Seradata
-1998-029A,25336,USA 139,US,5/9/98,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,TRW,Seradata
-2003-041A,27937,USA 171,US,9/9/03,AFETR,Cape Canaveral / Kennedy Space Center,,Titan Centaur,TRW,Seradata
-2009-001A,33490,USA 202,US,1/18/09,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV Heavy,Northrop,Seradata
-2009-020A,34810,SICRAL 1B,IT,4/20/09,SEAL,,,Zenit 3SL,Thales,Seradata
-2009-047A,35815,USA 207,US,9/8/09,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2010-063A,37232,USA 223,US,11/21/10,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV Heavy,Northrop,Seradata
-2011-011A,37377,USA 227,US,3/11/11,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV,Boeing,Seradata
-2012-009A,38093,MUOS 1,US,2/24/12,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2012-033A,38466,USA 236,US,6/20/12,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2012-034A,38528,USA 237,US,6/29/12,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV Heavy,Northrop,Seradata
-2013-036A,39206,MUOS 2,US,7/19/13,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2014-020A,39652,USA 250,US,4/10/14,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,n/a,Seradata
-2014-027A,39751,USA 252,US,5/22/14,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2014-055A,40208,USA 257,US,9/17/14,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2015-002A,40374,MUOS 3,US,1/21/15,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2015-022B,40614,SICRAL 2,FRIT,4/26/15,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2016-036A,41584,USA 268,US,6/11/16,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV Heavy,Northrop,Seradata
-2016-041A,41622,MUOS 5,US,6/24/16,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2016-047A,41724,USA 269,US,7/28/16,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2017-005A,41940,DSN-2,JPN,1/24/17,TNSTA,Tanegashima Space Center,,H-II,NEC,Seradata
-2017-066A,42949,USA 279,US,10/15/17,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Boeing,Seradata
-2018-013A,43178,SES-16/GOVSAT-1,SES,1/31/18,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2018-036B,43340,USA 284,US,4/14/18,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,AFRL,Seradata
-2018-036G,43465,USA 287,US,4/14/18,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,n/a,Seradata
-2020-095A,47237,USA 311,US,12/11/20,AFETR,Cape Canaveral / Kennedy Space Center,,Delta IV Heavy,Northrop,Seradata
-2020-101A,47294,USA 312,US,12/19/20,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,n/a,Seradata
-2020-101B,47295,USA 313,US,12/19/20,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,n/a,Seradata
-2021-019A,47851,SHIYAN 9 (SY-9),PRC,3/11/21,WSC,Wenchang Satellite Launch Center,,Long March 7A,CAST,Seradata
-2021-087A,49258,SHIYAN 10 (SY-10),PRC,9/27/21,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Gunter
-2021-095A,49332,SES 17,SES,10/24/21,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2021-095B,49333,SYRACUSE 4A,FR,10/24/21,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus and Thales,Seradata
-2021-118B,49818,LDPE-1,US,12/7/21,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,NGIS,Seradata
-2021-123A,50001,EXPRESS AMU-7,CIS,12/13/21,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2021-123B,50002,EXPRESS AMU-3,CIS,12/13/21,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2021-126A,50212,TURKSAT 5B,TURK,12/19/21,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2021-128A,50319,INMARSAT 6-F1,IM,12/22/21,TNSTA,Tanegashima Space Center,,H-II,Airbus,Seradata
-2021-135A,50574,TJS-9,PRC,12/29/21,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2022-006B,51281,USA 325,US,1/21/22,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,NGIS,Seradata
-2021-118E,51287,ASCENT,US,12/7/21,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,AFRL,Seradata
-2022-021A,51850,GOES 18,US,3/1/22,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2022-038A,52255,CHINASAT 6D,PRC,4/15/22,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2022-061A,52817,NILESAT 301,EGYP,6/8/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Thales,Seradata
-2022-067A,52903,CMS-02,IND,6/22/22,FRGUI,Guiana Space Centre,,Ariane 5ECA,URSC,Seradata
-2022-067B,52904,MEASAT 3D,MALA,6/22/22,FRGUI,Guiana Space Centre,,Ariane 5ECA,Airbus,Seradata
-2022-071A,52933,SES 22,SES,6/29/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Thales,Seradata
-2022-073A,52940,WFOV (USA 332),US,7/1/22,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Millennium,Seradata
-2022-078A,53100,TIANLIAN-2 03,PRC,7/12/22,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2022-092A,53355,SBIRS-GEO 6 (USA 336),US,8/4/22,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,Lockheed,Seradata
-2022-110A,53765,EUTE KONNECT VHTS,EUTE,9/7/22,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2022-112A,53813,CHINASAT 1E,PRC,9/13/22,WSC,Wenchang Satellite Launch Center,,Long March 7A,CAST,Seradata
-2022-123A,53960,SES 20,SES,10/4/22,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,ULA,Seradata
-2022-123B,53961,SES 21,SES,10/4/22,AFETR,Cape Canaveral / Kennedy Space Center,,Atlas V,ULA,Seradata
-2022-128A,54026,GALAXY 33,US,10/8/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2022-128B,54027,GALAXY 34,US,10/8/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2022-131A,54033,ANGOSAT 2,AGO,10/12/22,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2022-134A,54048,HOTBIRD 13F,EUTE,10/15/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2022-144B,54220,USA 339,US,11/1/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Northrop,Seradata
-2022-146A,54225,HOTBIRD 13G,EUTE,11/3/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2022-148A,54230,CHINASAT 19,PRC,11/5/22,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2022-153A,54243,GALAXY 31,US,11/12/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2022-153B,54244,GALAXY 32,US,11/12/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2022-157A,54259,EUTELSAT 10B,EUTE,11/23/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Thales,Seradata
-2022-170A,54741,GALAXY 35,US,12/13/22,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2022-170B,54742,GALAXY 36,US,12/13/22,FRGUI,Guiana Space Centre,,Ariane 5ECA,SSL,Seradata
-2022-170C,54743,METEOSAT 12 (MTG I1),EUME,12/13/22,FRGUI,Guiana Space Centre,,Ariane 5ECA,Thales,Seradata
-2023-002A,55131,SJ-23,PRC,1/8/23,WSC,Wenchang Satellite Launch Center,,Long March 7A,SAST,Seradata
-2022-144E,55138,USA 340,US,11/1/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Millennium,Seradata
-2022-144F,55139,USA 341,US,11/1/22,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Millennium,Seradata
-2023-002C,55180,SJ-23 AKM,PRC,1/8/23,WSC,Wenchang Satellite Launch Center,,Long March 7A,SAST,Seradata
-2023-005A,55239,APSTAR 6E,PRC,1/12/23,XSC,Xichang Satellite Launch Center,,Long March 2C,CGWIC,Seradata
-2023-008A,55263,USA 342,US,1/15/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Boeing,Seradata
-2023-016A,55506,ELEKTRO-L 4,CIS,2/5/23,TTMTR,Baikonur Cosmodrome,,Proton,NPO Lavochkin,Seradata
-2023-017A,55508,AMAZONAS 6,BRAZ,2/7/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Thales,Seradata
-2023-022A,55683,INMARSAT 6-F2,IM,2/18/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Seradata
-2023-023A,55686,CHINASAT-26,PRC,2/23/23,XSC,Xichang Satellite Launch Center,,Long March 3B,CAST,Seradata
-2023-031A,55841,LUCH (OLYMP) 2,CIS,3/12/23,TTMTR,Baikonur Cosmodrome,,Proton,ISS Reshetnev,Seradata
-2023-036A,55912,GAOFEN 13 02,PRC,3/17/23,XSC,Xichang Satellite Launch Center,,Long March 3B,SAST,Seradata
-2023-038A,55970,SES 18,SES,3/17/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2023-038B,55971,SES 19,SES,3/17/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,NGIS,Seradata
-2023-052A,56174,INTELSAT 40E,ITSO,4/7/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,SSL,Seradata
-2023-060A,56370,VIASAT 3,US,5/1/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Boeing,Seradata
-2023-060B,56371,ARCTURUS,US,5/1/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Astranis,Seradata
-2023-060C,56372,GS-1,US,5/1/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon Heavy,Space Inventor,Seradata
-2023-075A,56757,ARABSAT 7B (BADR 8),AB,5/27/23,AFETR,Cape Canaveral / Kennedy Space Center,,Falcon 9,Airbus,Gunter
-2023-076A,56759,NVS-01,IND,5/29/23,SRI,Satish Dhawan Space Centre,,GSLV,ISRO,Gunter
+COSPAR,NORAD,SATNAME,COUNTRY,LAUNCH
+1963-004A,553,SYNCOM 1,US,2/14/63
+1963-031A,634,SYNCOM 2 (A 26),US,7/26/63
+1964-047A,858,SYNCOM 3,US,8/19/64
+1965-028A,1317,INTELSAT 1-F1,ITSO,4/6/65
+1966-110A,2608,ATS 1,US,12/7/66
+1967-001A,2639,INTELSAT 2-F2,ITSO,1/11/67
+1967-026A,2717,INTELSAT 2-F3,ITSO,3/23/67
+1967-094A,2969,INTELSAT 2-F4,ITSO,9/28/67
+1967-111A,3029,ATS 3,US,11/5/67
+1968-081A,3428,OV2-5,US,9/26/68
+1969-013A,3691,OPS 0757 (TACSAT),US,2/9/69
+1969-069A,4068,ATS 5,US,8/12/69
+1969-101A,4250,SKYNET 1,UK,11/22/69
+1970-003A,4297,INTELSAT 3-F6,ITSO,1/15/70
+1970-021A,4353,NATO 2A,NATO,3/20/70
+1970-032A,4376,INTELSAT 3-F7,ITSO,4/23/70
+1970-055A,4478,INTELSAT 3-F8,ITSO,7/23/70
+1971-006A,4881,INTELSAT 4-F2,ITSO,1/26/71
+1971-009A,4902,NATO 2B,NATO,2/3/71
+1971-095A,5587,OPS 9431 (DSCS 2-1),US,11/3/71
+1971-095B,5588,OPS 9432 (DSCS 2-2),US,11/3/71
+1971-116A,5709,INTELSAT 4-F3,ITSO,12/20/71
+1972-003A,5775,INTELSAT 4-F4,ITSO,1/23/72
+1972-010A,5851,OPS 1570,US,3/1/72
+1972-041A,6052,INTELSAT 4-F5,ITSO,6/13/72
+1972-090A,6278,ANIK A1 (TELESAT 1),CA,11/10/72
+1973-013A,6380,OPS 6063,US,3/6/73
+1973-023A,6437,ANIK A2 (TELESAT 2),CA,4/20/73
+1973-040A,6691,OPS 6157,US,6/12/73
+1973-058A,6796,INTELSAT 4-F7,ITSO,8/23/73
+1973-100A,6973,OPS 9433 (DSCS 2-3),US,12/13/73
+1974-017A,7229,COSMOS 637,CIS,3/26/74
+1974-022A,7250,WESTAR 1,US,4/13/74
+1974-033A,7298,SMS 1,US,5/17/74
+1974-039A,7318,ATS 6,US,5/30/74
+1974-060A,7392,MOLNIYA 1-S,CIS,7/29/74
+1974-075A,7466,WESTAR 2,US,10/10/74
+1974-093A,7544,INTELSAT 4-F8,ITSO,11/21/74
+1974-094A,7547,SKYNET 2B,UK,11/23/74
+1974-101A,7578,SYMPHONIE 1,FGER,12/19/74
+1975-011A,7648,SMS 2,US,2/6/75
+1975-038A,7790,ANIK A3 (TELESAT-3),CA,5/7/75
+1975-042A,7815,INTELSAT 4-F1,ITSO,5/22/75
+1975-077A,8132,SYMPHONIE 2,FGER,8/27/75
+1975-091A,8330,INTELSAT 4A-F1,ITSO,9/26/75
+1975-097A,8357,COSMOS 775,CIS,10/8/75
+1975-100A,8366,GOES 1 (SMS-C),US,10/16/75
+1975-117A,8476,SATCOM 1,US,12/13/75
+1975-118A,8482,OPS 3165,US,12/14/75
+1975-123A,8513,RADUGA 1,CIS,12/22/75
+1976-004A,8585,CTS,CA,1/17/76
+1976-010A,8620,INTELSAT 4A-F2,ITSO,1/29/76
+1976-017A,8697,MARISAT 1,US,2/19/76
+1976-023A,8746,LES 8,US,3/15/76
+1976-023B,8747,LES 9,US,3/15/76
+1976-029A,8774,SATCOM 2,US,3/26/76
+1976-035A,8808,NATO 3A,NATO,4/22/76
+1976-042A,8838,COMSTAR 1,US,5/13/76
+1976-053A,8882,MARISAT 3,US,6/10/76
+1976-066A,9009,PALAPA 1,INDO,7/8/76
+1976-073A,9047,COMSTAR 2,US,7/22/76
+1976-092A,9416,RADUGA 2,CIS,9/11/76
+1976-101A,9478,MARISAT 2,US,10/14/76
+1976-107A,9503,EKRAN 1,CIS,10/26/76
+1977-005A,9785,NATO 3B,NATO,1/28/77
+1977-014A,9852,KIKU 2 (ETS 2),JPN,2/23/77
+1977-018A,9862,PALAPA 2,INDO,3/10/77
+1977-034A,10000,OPS 9437 (DSCS 2-7),US,5/12/77
+1977-041A,10024,INTELSAT 4A-F4,ITSO,5/26/77
+1977-048A,10061,GOES 2,US,6/16/77
+1977-065A,10143,HIMAWARI 1 (GMS 1),JPN,7/14/77
+1977-071A,10159,RADUGA 3,CIS,7/23/77
+1977-080A,10294,SIRIO,IT,8/25/77
+1977-092A,10365,EKRAN 2,CIS,9/20/77
+1977-108A,10489,METEOSAT 1,ESA,11/23/77
+1977-118A,10516,SAKURA 1A (CS-1A),JPN,12/15/77
+1978-002A,10557,INTELSAT 4A-F3,ITSO,1/7/78
+1978-035A,10778,INTELSAT 4A-F6,ITSO,3/31/78
+1978-039A,10792,YURI (BSE),JPN,4/7/78
+1978-038A,10787,OPS 8790,US,4/7/78
+1978-044A,10855,OTS 2,ESA,5/11/78
+1978-062A,10953,GOES 3,US,6/16/78
+1978-068A,10975,COMSTAR 3,US,6/29/78
+1978-071A,10981,GEOS 2,ESA,7/14/78
+1978-073A,10987,RADUGA 4,CIS,7/18/78
+1978-106A,11115,NATO 3C,NATO,11/19/78
+1978-113A,11144,OPS 9441 (DSCS 2-11),US,12/14/78
+1978-116A,11153,ANIK B1 (TELESAT-4),CA,12/16/78
+1979-015A,11273,EKRAN 3,CIS,2/21/79
+1979-035A,11343,RADUGA 5,CIS,4/25/79
+1979-038A,11353,OPS 6392 (FLTSATCOM 2),US,5/4/79
+1979-062A,11440,GORIZONT 2,CIS,7/5/79
+1979-072A,11484,WESTAR 3,US,8/10/79
+1979-087A,11561,EKRAN 4,CIS,10/3/79
+1979-098A,11621,OPS 9443 (DSCS 2-13),US,11/21/79
+1979-105A,11648,GORIZONT 3,CIS,12/28/79
+1980-004A,11669,OPS 6393 (FLTSATCOM 3),US,1/18/80
+1980-016A,11708,RADUGA 6,CIS,2/20/80
+1980-049A,11841,GORIZONT 4,CIS,6/14/80
+1980-060A,11890,EKRAN 5,CIS,7/15/80
+1980-074A,11964,GOES 4,US,9/9/80
+1980-081A,12003,RADUGA 7,CIS,10/5/80
+1980-091A,12065,SBS 1,US,11/15/80
+1980-098A,12089,INTELSAT 502,ITSO,12/6/80
+1980-104A,12120,EKRAN 6,CIS,12/26/80
+1981-018A,12309,ESIAFI 1 (COMSTAR 4),US,2/21/81
+1981-027A,12351,RADUGA 8,CIS,3/18/81
+1981-049A,12472,GOES 5,US,5/22/81
+1981-050A,12474,INTELSAT 501,ITSO,5/23/81
+1981-057A,12544,METEOSAT 2,ESA,6/19/81
+1981-057B,12545,APPLE,IND,6/19/81
+1981-061A,12564,EKRAN 7,CIS,6/26/81
+1981-069A,12618,RADUGA 9,CIS,7/30/81
+1981-073A,12635,FLTSATCOM 5,US,8/6/81
+1981-076A,12677,HIMAWARI 2 (GMS 2),JPN,8/10/81
+1981-096A,12855,SBS 2,US,9/24/81
+1981-102A,12897,RADUGA 10,CIS,10/9/81
+1981-114A,12967,SATCOM 3R,US,11/20/81
+1981-119A,12994,INTELSAT 503,ITSO,12/15/81
+1982-004A,13035,SATCOM 4,US,1/16/82
+1982-009A,13056,EKRAN 8,CIS,2/5/82
+1982-014A,13069,WESTAR 4,US,2/26/82
+1982-017A,13083,INTELSAT 504,ITSO,3/5/82
+1982-020A,13092,GORIZONT 5,CIS,3/15/82
+1982-031A,13129,INSAT 1A,IND,4/10/82
+1982-044A,13177,COSMOS 1366,CIS,5/17/82
+1982-058A,13269,WESTAR 5,US,6/9/82
+1982-082A,13431,ANIK D1 (TELESAT 6),CA,8/26/82
+1982-093A,13554,EKRAN 9,CIS,9/16/82
+1982-097A,13595,INTELSAT 505,ITSO,9/28/82
+1982-103A,13624,GORIZONT 6,CIS,10/20/82
+1982-105A,13631,SATCOM C5,US,10/28/82
+1982-106A,13636,DSCS 2-15,US,10/30/82
+1982-110B,13651,SBS 3,US,11/11/82
+1982-110C,13652,ANIK C3 (TELESAT-5),CA,11/11/82
+1982-113A,13669,RADUGA 11,CIS,11/26/82
+1983-006A,13782,SAKURA 2A (CS-2A),JPN,2/4/83
+1983-016A,13878,EKRAN 10,CIS,3/12/83
+1983-026B,13969,TDRS 1,US,4/4/83
+1983-028A,13974,RADUGA 12,CIS,4/8/83
+1983-030A,13984,SATCOM 1R,US,4/11/83
+1983-041A,14050,GOES 6,US,4/28/83
+1983-047A,14077,INTELSAT 506,ITSO,5/19/83
+1983-058A,14128,EUTELSAT 1-F1 (ECS 1),EUTE,6/16/83
+1983-059C,14134,PALAPA B1,INDO,6/18/83
+1983-065A,14158,GALAXY 1,US,6/28/83
+1983-066A,14160,GORIZONT 7,CIS,6/30/83
+1983-077A,14234,ARABSAT 1DR (TELSTAR 3A),AB,7/28/83
+1983-081A,14248,SAKURA 2B (CS-2B),JPN,8/5/83
+1983-088A,14307,RADUGA 13,CIS,8/25/83
+1983-089B,14318,INSAT 1B,IND,8/30/83
+1983-094A,14328,SATCOM 2R,US,9/8/83
+1983-098A,14365,GALAXY 2,US,9/22/83
+1983-100A,14377,EKRAN 11,CIS,9/29/83
+1983-105A,14421,INTELSAT 507,ITSO,10/19/83
+1983-118A,14532,GORIZONT 8,CIS,11/30/83
+1984-005A,14659,YURI 2A (BS-2A),JPN,1/23/84
+1984-016A,14725,RADUGA 14,CIS,2/15/84
+1984-022A,14783,COSMOS 1540,CIS,3/2/84
+1984-023A,14786,INTELSAT 508,ITSO,3/5/84
+1984-028A,14821,EKRAN 12,CIS,3/16/84
+1984-031A,14867,COSMOS 1546,CIS,3/29/84
+1984-035A,14899,STTW-T2,PRC,4/8/84
+1984-041A,14940,GORIZONT 9,CIS,4/22/84
+1984-049A,14985,CHINASAT 5 (SPACENET 1),PRC,5/23/84
+1984-063A,15057,RADUGA 15,CIS,6/22/84
+1984-078A,15144,GORIZONT 10,CIS,8/1/84
+1984-080A,15152,HIMAWARI 3 (GMS 3),JPN,8/2/84
+1984-081A,15158,EUTELSAT 1-F2 (ECS 2),EUTE,8/4/84
+1984-090A,15219,EKRAN 13,CIS,8/24/84
+1984-093D,15237,TELSTAR 302,US,8/30/84
+1984-101A,15308,GALAXY 3,US,9/21/84
+1984-114A,15385,SPACENET 2,US,11/10/84
+1984-115A,15391,NATO 3D,NATO,11/14/84
+1985-007A,15484,GORIZONT 11,CIS,1/18/85
+1985-015A,15560,ARABSAT 1A,AB,2/8/85
+1985-016A,15574,COSMOS 1629,CIS,2/21/85
+1985-024A,15626,EKRAN 14,CIS,3/22/85
+1985-025A,15629,INTELSAT 510,ITSO,3/22/85
+1985-035A,15677,GSTAR 1,US,5/8/85
+1985-035B,15678,TELECOM 1B,FR,5/8/85
+1985-048C,15825,ARABSAT 1B,AB,6/17/85
+1985-048D,15826,TELSTAR 303,US,6/17/85
+1985-055A,15873,INTELSAT 511,ITSO,6/30/85
+1985-070A,15946,RADUGA 16,CIS,8/8/85
+1985-076B,15993,OPTUS A1 (AUSSAT 1),AUS,8/27/85
+1985-076C,15994,ASC 1,US,8/27/85
+1985-087A,16101,INTELSAT 512,ITSO,9/28/85
+1985-102A,16199,COSMOS 1700,CIS,10/25/85
+1985-107A,16250,RADUGA 17,CIS,11/15/85
+1985-109C,16275,OPTUS A2 (AUSSAT 2),AUS,11/27/85
+1986-007A,16497,RADUGA 18,CIS,1/17/86
+1986-010A,16526,STTW-1,PRC,2/1/86
+1986-016A,16597,BS-2B (YURI 2B),JPN,2/12/86
+1986-026A,16649,GSTAR 2,US,3/28/86
+1986-026B,16650,BRAZILSAT 2,BRAZ,3/28/86
+1986-027A,16667,COSMOS 1738,CIS,4/4/86
+1986-038A,16729,EKRAN 15,CIS,5/24/86
+1986-044A,16769,GORIZONT 12,CIS,6/10/86
+1986-082A,17046,RADUGA 19,CIS,10/25/86
+1986-090A,17083,GORIZONT 13,CIS,11/18/86
+1986-096A,17181,FLTSATCOM 7 (USA 20),US,12/5/86
+1987-022A,17561,GOES 7,US,2/26/87
+1987-028A,17611,RADUGA 20,CIS,3/19/87
+1987-029A,17706,AGILA 1 (PALAPA B2P),RP,3/20/87
+1987-040A,17969,GORIZONT 14,CIS,5/11/87
+1987-070A,18316,KIKU 5 (ETS 5),JPN,8/27/87
+1987-073A,18328,EKRAN 16,CIS,9/3/87
+1987-078A,18350,OPTUS A3 (AUSSAT 3),AUS,9/16/87
+1987-084A,18384,COSMOS 1888,CIS,10/1/87
+1987-091A,18443,COSMOS 1894,CIS,10/28/87
+1987-095A,18570,TVSAT 1,GER,11/21/87
+1987-096A,18575,COSMOS 1897,CIS,11/26/87
+1987-100A,18631,RADUGA 21,CIS,12/10/87
+1987-109A,18715,EKRAN 17,CIS,12/27/87
+1988-012A,18877,CS 3A,JPN,2/19/88
+1988-014A,18922,STTW-2,PRC,3/7/88
+1988-018A,18951,SPACENET 3R,US,3/11/88
+1988-028A,19017,GORIZONT 15,CIS,3/31/88
+1988-034A,19073,COSMOS 1940,CIS,4/26/88
+1988-036A,19090,EKRAN 18,CIS,5/6/88
+1988-040A,19121,NSS 513 (INTELSAT 513),NETH,5/17/88
+1988-051A,19215,METEOSAT 3,ESA,6/15/88
+1988-063A,19330,INSAT 1C,IND,7/21/88
+1988-066A,19344,COSMOS 1961,CIS,8/1/88
+1988-071A,19397,GORIZONT 16,CIS,8/18/88
+1988-081A,19483,GSTAR 3,US,9/8/88
+1988-081B,19484,SBS 5,US,9/8/88
+1988-086A,19508,CS 3B,JPN,9/16/88
+1988-091B,19548,TDRS 3,US,9/29/88
+1988-095A,19596,RADUGA 22,CIS,10/20/88
+1988-098A,19621,TDF 1,FR,10/28/88
+1988-108A,19683,EKRAN 19,CIS,12/10/88
+1988-109A,19687,SKYNET 4B,UK,12/11/88
+1988-111A,19710,STTW-3,PRC,12/22/88
+1989-004A,19765,GORIZONT 17,CIS,1/26/89
+1989-006A,19772,INTELSAT 515,ITSO,1/27/89
+1989-020A,19874,JCSAT 1,JPN,3/6/89
+1989-021B,19883,TDRS 4,US,3/13/89
+1989-027A,19919,TELE-X,SWED,4/2/89
+1989-030A,19928,RADUGA 23,CIS,4/14/89
+1989-041A,20040,SUPERBIRD A,JPN,6/5/89
+1989-041B,20041,DFS 1,GER,6/5/89
+1989-048A,20083,RADUGA 1-1,CIS,6/21/89
+1989-052A,20107,GORIZONT 18,CIS,7/5/89
+1989-053A,20122,OLYMPUS 1,ESA,7/12/89
+1989-062A,20168,TVSAT 2,GER,8/8/89
+1989-067A,20193,SIRIUS W (MARCOPOLO 1),SWED,8/27/89
+1989-070A,20217,HIMAWARI 4 (GMS 4),JPN,9/5/89
+1989-077A,20253,FLTSATCOM 8 (USA 46),US,9/25/89
+1989-081A,20263,GORIZONT 19,CIS,9/28/89
+1989-087A,20315,INTELSAT 602,ITSO,10/27/89
+1989-098A,20367,RADUGA 24,CIS,12/15/89
+1989-101A,20391,COSMOS 2054,CIS,12/27/89
+1990-001A,20401,SKYNET 4A,UK,1/1/90
+1990-002B,20410,LEASAT 5,US,1/9/90
+1990-011A,20473,STTW-4,PRC,2/4/90
+1990-016A,20499,RADUGA 25,CIS,2/15/90
+1990-021A,20523,INTELSAT 603,ITSO,3/14/90
+1990-030A,20558,ASIASAT 1,AC,4/7/90
+1990-034A,20570,NEWSAT-1 (PALAPA B2R),US,4/13/90
+1990-051A,20643,INSAT 1D,IND,6/12/90
+1990-054A,20659,GORIZONT 20,CIS,6/20/90
+1990-056A,20667,INTELSAT 604,ITSO,6/23/90
+1990-061A,20693,COSMOS 2085,CIS,7/18/90
+1990-063A,20705,TDF 2,FR,7/24/90
+1990-074A,20762,THOR 1 (MARCOPOLO 2),NOR,8/18/90
+1990-077A,20771,BS-3A (YURI 3A),JPN,8/28/90
+1990-079A,20776,SKYNET 4C,UK,8/30/90
+1990-091A,20872,SBS 6,US,10/12/90
+1990-091B,20873,GALAXY 6,US,10/12/90
+1990-093A,20918,INMARSAT 2-F1,IM,10/30/90
+1990-094A,20923,GORIZONT 21,CIS,11/3/90
+1990-100A,20945,SATCOM C1,US,11/20/90
+1990-102A,20953,GORIZONT 22,CIS,11/23/90
+1990-112A,21016,RADUGA 26,CIS,12/20/90
+1990-116A,21038,RADUGA 1-2,CIS,12/27/90
+1991-001A,21047,NATO 4A,NATO,1/8/91
+1991-003A,21055,ITALSAT 1,IT,1/15/91
+1991-010A,21111,COSMOS 2133,CIS,2/14/91
+1991-014A,21132,RADUGA 27,CIS,2/28/91
+1991-015A,21139,ASTRA 1B,SES,3/2/91
+1991-018A,21149,INMARSAT 2-F2,IM,3/8/91
+1991-026A,21222,ANIK E2,CA,4/4/91
+1991-028A,21227,SPACENET 4 (ASC 2),US,4/13/91
+1991-037A,21392,AURORA 2,US,5/29/91
+1991-046A,21533,GORIZONT 23,CIS,7/1/91
+1991-054B,21639,TDRS 5,US,8/2/91
+1991-055A,21653,INTELSAT 605,ITSO,8/14/91
+1991-060A,21668,BS-3B (YURI 3B),JPN,8/25/91
+1991-064A,21702,COSMOS 2155,CIS,9/13/91
+1991-067A,21726,ANIK E1,CA,9/26/91
+1991-074A,21759,GORIZONT 24,CIS,10/23/91
+1991-075A,21765,INTELSAT 601,ITSO,10/29/91
+1991-079A,21789,COSMOS 2172,CIS,11/22/91
+1991-083A,21803,EUTELSAT 2-F3,EUTE,12/7/91
+1991-084A,21813,TELECOM 2A,FR,12/16/91
+1991-087A,21821,RADUGA 28,CIS,12/19/91
+1992-010A,21893,SUPERBIRD B1,JPN,2/26/92
+1992-013A,21906,GALAXY 5,US,3/14/92
+1992-017A,21922,GORIZONT 25,CIS,4/2/92
+1992-021A,21939,TELECOM 2B,FR,4/15/92
+1992-021B,21940,INMARSAT 2-F4,IM,4/15/92
+1992-027A,21964,PALAPA B4,INDO,5/14/92
+1992-032A,21989,NSS K (INTELSAT K),NETH,6/10/92
+1992-041A,22027,INSAT 2A,IND,7/9/92
+1992-043A,22041,GORIZONT 26,CIS,7/14/92
+1992-054A,22087,OPTUS B1 (AUSSAT B1),AUS,8/13/92
+1992-057A,22096,SATCOM C4,US,8/31/92
+1992-059A,22112,COSMOS 2209,CIS,9/10/92
+1992-060A,22116,HISPASAT 1A,SPN,9/10/92
+1992-060B,22117,SATCOM C3,US,9/10/92
+1992-066A,22175,HELLAS SAT 1 (DFS 3),GREC,10/12/92
+1992-072A,22205,GALAXY 7,US,10/28/92
+1992-074A,22210,EKRAN 20,CIS,10/30/92
+1992-082A,22245,GORIZONT 27,CIS,11/27/92
+1992-084A,22253,SUPERBIRD A1,JPN,12/1/92
+1992-088A,22269,COSMOS 2224,CIS,12/17/92
+1993-003B,22314,TDRS 6,US,1/13/93
+1993-013A,22557,RADUGA 29,CIS,3/25/93
+1993-015A,22563,UFO 1 (USA 98),US,3/25/93
+1993-031A,22653,ASTRA 1C,SES,5/12/93
+1993-039A,22694,HGS 4 (GALAXY 4),US,6/25/93
+1993-048A,22723,HISPASAT 1B,SPN,7/22/93
+1993-048B,22724,INSAT 2B,IND,7/22/93
+1993-056A,22787,UFO 2 (USA 95),US,9/3/93
+1993-058B,22796,ACTS,US,9/12/93
+1993-062A,22836,RADUGA 30,CIS,9/30/93
+1993-066A,22871,INTELSAT 701,ITSO,10/22/93
+1993-069A,22880,GORIZONT 28,CIS,10/28/93
+1993-072A,22907,GORIZONT 29,CIS,11/18/93
+1993-073A,22911,SOLIDARIDAD 1,MEX,11/20/93
+1993-073B,22912,METEOSAT 6,EUME,11/20/93
+1993-076A,22921,NATO 4B,NATO,12/8/93
+1993-077A,22927,TELSTAR 401,US,12/16/93
+1993-078A,22930,DIRECTV 1 (DBS 1),US,12/18/93
+1993-078B,22931,THAICOM 1,THAI,12/18/93
+1994-002A,22963,GALS 1,CIS,1/20/94
+1994-008A,22981,RADUGA 1-3,CIS,2/5/94
+1994-009A,22988,USA 99,US,2/7/94
+1994-012A,23010,RADUGA 31,CIS,2/18/94
+1994-013A,23016,GALAXY 1R,US,2/19/94
+1994-022A,23051,GOES 8,US,4/13/94
+1994-030A,23108,GORIZONT 30,CIS,5/20/94
+1994-034A,23124,INTELSAT 702,ITSO,6/17/94
+1994-035A,23132,UFO 3 (USA 104),US,6/24/94
+1994-038A,23168,COSMOS 2282,CIS,7/6/94
+1994-040A,23175,INTELSAT 2 (PAS 2),US,7/8/94
+1994-040B,23176,BS-3N,JPN,7/8/94
+1994-043A,23185,APSTAR 1,PRC,7/21/94
+1994-047A,23192,DIRECTV 2 (DBS 2),US,8/3/94
+1994-049A,23199,BRAZILSAT B1,BRAZ,8/10/94
+1994-055A,23227,OPTUS B3,AUS,8/27/94
+1994-060A,23267,COSMOS 2291,CIS,9/21/94
+1994-064A,23305,NSS 703 (INTELSAT 703),SES,10/6/94
+1994-065A,23313,SOLIDARIDAD 2,MEX,10/8/94
+1994-065B,23314,THAICOM 2,THAI,10/8/94
+1994-067A,23319,EXPRESS 1,CIS,10/13/94
+1994-069A,23327,ELEKTRO (GOMS),CIS,10/31/94
+1994-070A,23331,ASTRA 1D,SES,11/1/94
+1994-079A,23413,TELSTAR 11 (ORION 1),US,11/29/94
+1994-080A,23415,DFH-3 1,PRC,11/29/94
+1994-082A,23426,LUCH,CIS,12/16/94
+1994-084A,23435,USA 107,US,12/22/94
+1994-087A,23448,RADUGA 32,CIS,12/28/94
+1995-001A,23461,INTELSAT 704,ITSO,1/10/95
+1995-003A,23467,UFO 4 (USA 108),US,1/29/95
+1995-013A,23528,INTELSAT 705,ITSO,3/22/95
+1995-016A,23536,BRAZILSAT B2,BRAZ,3/28/95
+1995-019A,23553,AMSC 1,US,4/7/95
+1995-023A,23571,INTELSAT 706,ITSO,5/17/95
+1995-025A,23581,GOES 9,US,5/23/95
+1995-029A,23598,DIRECTV 3 (DBS/NIMIQ 3),US,6/10/95
+1995-035B,23613,TDRS 7,US,7/13/95
+1995-038A,23628,USA 113,US,7/31/95
+1995-040A,23636,INTELSAT 4 (PAS 4),ITSO,8/3/95
+1995-041A,23639,KOREASAT 1,SKOR,8/5/95
+1995-043A,23649,JCSAT 3,JPN,8/29/95
+1995-044A,23651,NSTAR A,JPN,8/29/95
+1995-045A,23653,COSMOS 2319,CIS,8/30/95
+1995-049A,23670,TELSTAR 4 (TELSTAR 402R),US,9/24/95
+1995-054A,23680,LUCH 1,CIS,10/11/95
+1995-055A,23686,ASTRA 1E,SES,10/19/95
+1995-057A,23696,UFO 6 (USA 114),US,10/22/95
+1995-060A,23712,USA 115,US,11/6/95
+1995-063A,23717,GALS 2,CIS,11/17/95
+1995-064A,23723,AMOS 5I (ASIASAT 2),ISRA,11/28/95
+1995-067A,23730,TELECOM 2C,FR,12/6/95
+1995-067B,23731,INSAT 2C,IND,12/6/95
+1995-069A,23741,GALAXY 3R,US,12/15/95
+1995-073A,23754,ECHOSTAR 1,US,12/28/95
+1996-002A,23764,INTELSAT 3R (PAS 3R),US,1/12/96
+1996-002B,23765,AFRICASAT 1 (MEASAT 1),MALA,1/12/96
+1996-003A,23768,ABS 1A (KOREASAT 2),SKOR,1/14/96
+1996-005A,23775,GORIZONT 31,CIS,1/25/96
+1996-006A,23779,PAKSAT 1 (ANATOLIA 1),PAKI,2/1/96
+1996-007A,23781,NSTAR B,JPN,2/5/96
+1996-015A,23816,INTELSAT 707,ITSO,3/14/96
+1996-020A,23839,INMARSAT 3-F1,IM,4/3/96
+1996-021A,23842,ASTRA 1F,SES,4/8/96
+1996-022A,23846,MSAT M1,CA,4/20/96
+1996-030A,23864,PALAPA C2,INDO,5/16/96
+1996-030B,23865,INTELSAT 24 (AMOS 1),ITSO,5/16/96
+1996-033A,23877,GALAXY 9,US,5/24/96
+1996-034A,23880,GORIZONT 32,CIS,5/25/96
+1996-035A,23915,INTELSAT 709,ITSO,6/15/96
+1996-039A,23943,APSTAR 1A,PRC,7/3/96
+1996-040A,23948,ARABSAT 2A,AB,7/9/96
+1996-040B,23949,TURKSAT 1C,TURK,7/9/96
+1996-042A,23967,UFO 7 (USA 127),US,7/25/96
+1996-044A,24208,ITALSAT 2,IT,8/8/96
+1996-044B,24209,TELECOM 2D,FR,8/8/96
+1996-048A,24282,CHINASAT 7,PRC,8/18/96
+1996-053A,24307,INMARSAT 3-F2,IM,9/6/96
+1996-054A,24315,AMC-1 (GE-1),SES,9/8/96
+1996-055A,24313,ECHOSTAR 2,US,9/11/96
+1996-058A,24435,EXPRESS 2,CIS,9/26/96
+1996-063A,24652,ARABSAT 2B,AB,11/13/96
+1996-063B,24653,MEASAT 2,MALA,11/13/96
+1996-067A,24665,EUTE 48A (HB2),EUTE,11/21/96
+1996-070A,24674,INMARSAT 3-F3,IM,12/18/96
+1997-002A,24713,AMC-2 (GE-2),SES,1/30/97
+1997-002B,24714,NAHUEL 1A,ARGN,1/30/97
+1997-007A,24732,INTELSAT 26 (JCSAT 4),ITSO,2/17/97
+1997-008A,24737,USA 130,US,2/23/97
+1997-009A,24742,INTELSAT 801,ITSO,3/1/97
+1997-011A,24748,DIRECTV 6 (TEMPO 2),US,3/8/97
+1997-016A,24768,THAICOM 3,THAI,4/16/97
+1997-016B,24769,BSAT-1A,JPN,4/16/97
+1997-019A,24786,GOES 10,US,4/25/97
+1997-021A,24798,DFH-3 2,PRC,5/11/97
+1997-025A,24808,THOR 2A,NOR,5/20/97
+1997-026A,24812,GALAXY 25 (TELSTAR 5),US,5/24/97
+1997-027A,24819,INMARSAT 3-F4,IM,6/3/97
+1997-029A,24834,FENGYUN 2A,PRC,6/10/97
+1997-031A,24846,INTELSAT 802,ITSO,6/25/97
+1997-036A,24880,SUPERBIRD C,JPN,7/28/97
+1997-041A,24894,COSMOS 2345,CIS,8/14/97
+1997-042A,24901,ABS 3 (AGILA 2),PRC,8/19/97
+1997-046A,24916,INTELSAT 5 (PAS 5),US,8/28/97
+1997-049A,24931,W75/ABS-1B (HOT BIRD 3),EUTE,9/2/97
+1997-049B,24932,METEOSAT 7,EUME,9/2/97
+1997-050A,24936,AMC-3 (GE-3),SES,9/4/97
+1997-053A,24957,NSS 5 (INTELSAT 803),NETH,9/23/97
+1997-059A,25004,ECHOSTAR 3,US,10/5/97
+1997-062A,25010,APSTAR 2R (TELSTAR 10),PRC,10/16/97
+1997-065A,25019,USA 134,US,10/25/97
+1997-071A,25049,SIRIUS 2 (GE-1E),SWED,11/11/97
+1997-071B,25050,INDOSTAR 1,INDO,11/11/97
+1997-070A,25045,KUPON,CIS,11/12/97
+1997-075A,25067,JCSAT 5,JPN,12/2/97
+1997-076A,25071,ASTRA 1G,SES,12/2/97
+1997-078A,25086,GALAXY 8,US,12/8/97
+1997-083A,25110,INTELSAT 804,ITSO,12/21/97
+1997-086A,25126,HGS-1 (ASIASAT 3),US,12/24/97
+1998-002A,25134,SKYNET 4D,UK,1/10/98
+1998-006A,25152,BRAZILSAT B3,BRAZ,2/4/98
+1998-006B,25153,INMARSAT 3-F5,IM,2/4/98
+1998-013A,25237,EUTE 16B (HB 4),EUTE,2/27/98
+1998-014A,25239,NSS 806 (INTELSAT 806),SES,2/28/98
+1998-016A,25258,UFO 8 (USA 138),US,3/16/98
+1998-024A,25311,NILESAT,EGYP,4/28/98
+1998-024B,25312,BSAT-1B,JPN,4/28/98
+1998-025A,25315,COSMOS 2350,CIS,4/29/98
+1998-028A,25331,ECHOSTAR 4,US,5/7/98
+1998-033A,25354,CHINASAT 5A (CHINASTAR1),PRC,5/30/98
+1998-035A,25358,THOR 3,NOR,6/10/98
+1998-037A,25371,INTELSAT 805,ITSO,6/18/98
+1998-044A,25404,CHINASAT 5B (SINOSAT 1),PRC,7/18/98
+1998-049A,25460,ST 1,STCT,8/25/98
+1998-050A,25462,ASTRA 2A,SES,8/30/98
+1998-052A,25473,INTELSAT 7 (PAS 7),US,9/16/98
+1998-056A,25491,EUTELSAT W2,EUTE,10/5/98
+1998-056B,25492,SIRIUS 3,SES,10/5/98
+1998-057A,25495,EUTE 25A (HB 5),EUTE,10/9/98
+1998-063A,25515,AFRISTAR,US,10/28/98
+1998-063B,25516,AMC-5 (GE-5),SES,10/28/98
+1998-065A,25522,INTELSAT 8 (PAS 8),US,11/4/98
+1998-068A,25546,BONUM 1,CIS,11/22/98
+1998-070A,25558,EUTE 115 WEST A(SATMEX 5,EUTE,12/6/98
+1998-075A,25585,INTELSAT 6B (PAS 6B),US,12/22/98
+1999-005A,25626,GALAXY 26 (TELSTAR 6),US,2/15/99
+1999-006A,25630,JCSAT 6,JPN,2/16/99
+1999-009A,25638,ARABSAT 3A,AB,2/26/99
+1999-009B,25639,SKYNET 4E,UK,2/26/99
+1999-010A,25642,RADUGA 1-4,CIS,2/28/99
+1999-013A,25657,ASIASAT 3S,AC,3/21/99
+1999-016A,25666,INSAT 2E (APR-1),IND,4/2/99
+1999-018A,25673,EUTE 21A (EUTE W3),EUTE,4/12/99
+1999-027A,25740,NIMIQ 1,CA,5/20/99
+1999-033A,25785,ASTRA 1H,SES,6/18/99
+1999-042A,25880,TELKOM 1,INDO,8/12/99
+1999-046A,25894,ABS 7 (KOREASAT 3),SKOR,9/4/99
+1999-047A,25896,YAMAL 101,CIS,9/6/99
+1999-047B,25897,YAMAL 102,CIS,9/6/99
+1999-050A,25913,ECHOSTAR 5,US,9/23/99
+1999-052A,25922,GALAXY 27 (TELSTAR 7),ITSO,9/25/99
+1999-053A,25924,ABS 6 (LMI 1),PRC,9/26/99
+1999-056A,25937,DIRECTV 1R,US,10/10/99
+1999-059A,25949,TELSTAR 12 (ORION 2),US,10/19/99
+1999-060A,25954,AMC-4 (GE-4),SES,11/13/99
+1999-063A,25967,UFO 10 (USA 146),US,11/23/99
+1999-071A,26038,GALAXY 11,US,12/22/99
+2000-001A,26052,USA 148,US,1/21/00
+2000-002A,26056,GALAXY 10R,US,1/25/00
+2000-003A,26058,CHINASAT 22,PRC,1/25/00
+2000-007A,26071,HISPASAT 1C,SPN,2/3/00
+2000-011A,26089,GARUDA 1,INDO,2/12/00
+2000-012A,26095,SUPERBIRD 4,JPN,2/18/00
+2000-013A,26098,EXPRESS 2A,CIS,3/12/00
+2000-016A,26107,ASIASTAR,US,3/21/00
+2000-016B,26108,INSAT 3B,IND,3/21/00
+2000-019A,26243,EUTE 16C (SESAT 1),EUTE,4/17/00
+2000-020A,26298,GALAXY 4R,US,4/19/00
+2000-022A,26352,GOES 11,US,5/3/00
+2000-024A,26356,USA 149,US,5/8/00
+2000-028A,26369,EUTE 36A (EUTE W4),EUTE,5/24/00
+2000-029A,26372,GORIZONT 33,CIS,6/6/00
+2000-031A,26378,EXPRESS 3A,CIS,6/24/00
+2000-032A,26382,FENGYUN 2B,PRC,6/25/00
+2000-034A,26388,TDRS 8,US,6/30/00
+2000-036A,26394,COSMOS 2371,CIS,7/4/00
+2000-038A,26402,ECHOSTAR 6,US,7/14/00
+2000-043A,26451,INTELSAT 9 (PAS 9),US,7/28/00
+2000-046A,26469,BRAZILSAT B4,BRAZ,8/17/00
+2000-046B,26470,NILESAT 102,EGYP,8/17/00
+2000-049A,26477,RADUGA 1-5,CIS,8/28/00
+2000-052A,26487,EUROBIRD 4A(EUTELSAT W1),EUTE,9/6/00
+2000-054A,26494,ASTRA 2B,SES,9/14/00
+2000-054B,26495,AMC-7 (GE-7),SES,9/14/00
+2000-059A,26554,NSS 11 (AAP-1),SES,10/1/00
+2000-060A,26559,NSAT 110,JPN,10/6/00
+2000-065A,26575,USA 153,US,10/20/00
+2000-066A,26578,THURAYA 1,UAE,10/21/00
+2000-067A,26580,AMC-6 (GE-6),SES,10/21/00
+2000-068A,26590,INTELSAT 12 (PAS 12),ESA,10/29/00
+2000-069A,26599,CHINASAT 32 (BEIDOU 1),PRC,10/30/00
+2000-072A,26608,INTELSAT 1R (PAS 1R),US,11/16/00
+2000-076A,26624,ANIK F1,CA,11/21/00
+2000-081A,26638,ASTRA 2D,SES,12/20/00
+2000-082A,26643,CHINASAT 31 (BEIDOU 1B),PRC,12/20/00
+2000-081B,26639,AMC-8 (GE-8),SES,12/20/00
+2001-002A,26666,TURKSAT 2A,TURK,1/10/01
+2001-005B,26695,SKYNET 4F,UK,2/7/01
+2001-009A,26715,USA 157,US,2/27/01
+2001-011A,26719,EUTE 28A (EB 1),EUTE,3/8/01
+2001-011B,26720,BSAT-2A,JPN,3/8/01
+2001-012A,26724,XM-2,US,3/18/01
+2001-014A,26736,EKRAN 21,CIS,4/7/01
+2001-015A,26745,GSAT 1,IND,4/18/01
+2001-018A,26761,XM-1,US,5/8/01
+2001-019A,26766,INTELSAT 10 (PAS 10),US,5/15/01
+2001-024A,26824,INTELSAT 901,ITSO,6/9/01
+2001-025A,26853,ASTRA 2C,SES,6/16/01
+2001-029A,26863,ARTEMIS,ESA,7/12/01
+2001-031A,26871,GOES 12,US,7/23/01
+2001-033A,26880,USA 159,US,8/6/01
+2001-037A,26892,COSMOS 2379,CIS,8/24/01
+2001-039A,26900,INTELSAT 902,ITSO,8/30/01
+2001-042A,26927,EUTELSAT 12 WEST B,EUTE,9/25/01
+2001-045A,26936,RADUGA 1-6,CIS,10/6/01
+2001-052A,26985,DIRECTV 4S,US,11/27/01
+2002-001A,27168,USA 164,US,1/14/02
+2002-002A,27298,INSAT 3C,IND,1/23/02
+2002-006A,27378,ECHOSTAR 7,US,2/21/02
+2002-007A,27380,INTELSAT 904,ITSO,2/23/02
+2002-011A,27389,TDRS 9,US,3/8/02
+2002-015A,27399,JCSAT 2A,JPN,3/29/02
+2002-015B,27400,ASTRA 3A,SES,3/29/02
+2002-016A,27403,INTELSAT 903,ITSO,3/30/02
+2002-019A,27414,NSS 7,SES,4/16/02
+2002-023A,27426,DIRECTV 5 (TEMPO 1),US,5/7/02
+2002-027A,27438,INTELSAT 905,ITSO,6/5/02
+2002-029A,27441,EXPRESS 4A,CIS,6/10/02
+2002-030A,27445,GALAXY 3C,US,6/15/02
+2002-035A,27460,EUTE 5 WEST A (STELLAT5),EUTE,7/5/02
+2002-035B,27461,NSTAR C,JPN,7/5/02
+2002-038A,27499,EUTE 8 WEST C (HB 6),EUTE,8/21/02
+2002-039A,27501,ECHOSTAR 8,US,8/22/02
+2002-040A,27508,EUTE 12 WEST A (AB 1),EUTE,8/28/02
+2002-040B,27509,METEOSAT 8 (MSG 1),EUME,8/28/02
+2002-041A,27513,INTELSAT 906,ITSO,9/6/02
+2002-042B,27516,DRTS,JPN,9/10/02
+2002-043A,27525,KALPANA 1 (METSAT 1),IND,9/12/02
+2002-044A,27528,HISPASAT 1D,SPN,9/18/02
+2002-048A,27540,INTEGRAL,ESA,10/17/02
+2002-051A,27554,EUTE 25C (EUTE W5),EUTE,11/20/02
+2002-055A,27566,TDRS 10,US,12/5/02
+2002-057A,27603,NSS 6,SES,12/17/02
+2002-062A,27632,NIMIQ 2,CA,12/29/02
+2003-007A,27683,INTELSAT 907,ITSO,2/15/03
+2003-008A,27691,USA 167,US,3/11/03
+2003-012A,27711,USA 169,US,4/8/03
+2003-013A,27714,INSAT 3A,IND,4/9/03
+2003-013B,27715,GALAXY 12,ITSO,4/9/03
+2003-014A,27718,ASIASAT 4,AC,4/12/03
+2003-015A,27775,COSMOS 2397,CIS,4/24/03
+2003-018A,27807,GSAT 2,IND,5/8/03
+2003-020A,27811,HELLAS-SAT 2,GREC,5/13/03
+2003-021A,27813,BD 1 03,PRC,5/24/03
+2003-024A,27820,AMC-9 (GE-12),SES,6/6/03
+2003-026A,27825,THURAYA 2,UAE,6/10/03
+2003-028A,27830,BSAT-2C,JPN,6/11/03
+2003-028B,27831,OPTUS C1,AUS,6/11/03
+2003-033A,27852,ECHOSTAR 12 (RAINBOW 1),US,7/17/03
+2003-034A,27854,GALAXY 23 (TELSTAR 13),US,8/8/03
+2003-040A,27875,USA 170,US,8/29/03
+2003-043A,27948,EUTE 33A (EB 3),EUTE,9/27/03
+2003-043E,27951,INSAT 3E,IND,9/27/03
+2003-044A,27954,HORIZONS 1 (GALAXY 13),US,10/1/03
+2003-052A,28082,CHINASAT 20,PRC,11/14/03
+2003-053A,28089,YAMAL 202,CIS,11/24/03
+2003-053B,28094,YAMAL 201,CIS,11/24/03
+2003-057A,28117,UFO 11 (USA 174),US,12/18/03
+2003-059A,28132,AMOS 2,ISRA,12/27/03
+2003-060A,28134,SESAT 2 (EXPRESS AM-22),EUTE,12/28/03
+2004-001A,28137,ESTRELA DU SOL-TELSTAR14,USBZ,1/11/04
+2004-003A,28154,AMC-10 (GE-10),SES,2/5/04
+2004-004A,28158,USA 176,US,2/14/04
+2004-007A,28184,MBSAT,PRC,3/13/04
+2004-008A,28187,EUTE 7A (EUTE W3A),EUTE,3/15/04
+2004-010A,28194,RADUGA 1-7,CIS,3/27/04
+2004-011A,28218,SUPERBIRD 6,JPN,4/16/04
+2004-015A,28234,EXPRESS AM-11,CIS,4/26/04
+2004-016A,28238,DIRECTV 7S,US,5/4/04
+2004-017A,28252,AMC-11 (GE-11),SES,5/19/04
+2004-022A,28358,INTELSAT 1002,ITSO,6/16/04
+2004-024A,28364,APSTAR 5 (TELSTAR 18),PRC,6/29/04
+2004-027A,28378,ANIK F2,CA,7/18/04
+2004-031A,28393,AMAZONAS,SPN,8/4/04
+2004-036A,28417,GSAT 3 (EDUSAT),IND,9/20/04
+2004-041A,28446,AMC-15,SES,10/14/04
+2004-042A,28451,FENGYUN 2C,PRC,10/19/04
+2004-043A,28463,EXPRESS AM-1,CIS,10/29/04
+2004-048A,28472,AMC-16,SES,12/17/04
+2005-003A,28526,NSS 10 (AMC-12),SES,2/3/05
+2005-005A,28542,XTAR-EUR,US,2/12/05
+2005-006A,28622,MTSAT 1R,JPN,2/26/05
+2005-008A,28626,XM-3,US,3/1/05
+2005-009A,28628,INMARSAT 4-F1,IM,3/11/05
+2005-010A,28629,EXPRESS AM-2,CIS,3/29/05
+2005-012A,28638,APSTAR 6,PRC,4/12/05
+2005-015A,28644,SPACEWAY 1,US,4/26/05
+2005-019A,28659,DIRECTV 8,US,5/22/05
+2005-022A,28702,GALAXY 28 (IA 8),ITSO,6/23/05
+2005-023A,28707,EXPRESS AM-3,CIS,6/24/05
+2005-028A,28786,IPSTAR 1,THAI,8/11/05
+2005-030A,28790,GALAXY 14,US,8/13/05
+2005-036A,28868,ANIK F1-R,CA,9/8/05
+2005-041A,28884,GALAXY 15,ITSO,10/13/05
+2005-041B,28885,SYRACUSE 3A,FR,10/13/05
+2005-044A,28899,INMARSAT 4-F2,IM,11/8/05
+2005-046A,28902,TELKOM 2,INDO,11/16/05
+2005-046B,28903,SPACEWAY 2,US,11/16/05
+2005-049A,28911,INSAT 4A,IND,12/21/05
+2005-049B,28912,METEOSAT 9 (MSG 2),EUME,12/21/05
+2005-052A,28924,EUTE 172A (GE 23),EUTE,12/29/05
+2006-003A,28935,ECHOSTAR 10,US,2/15/06
+2006-004A,28937,MTSAT 2,JPN,2/18/06
+2006-007A,28945,SPAINSAT,SPN,3/11/06
+2006-007B,28946,EUTELSAT HOTBIRD 13E,EUTE,3/11/06
+2006-010A,29045,JCSAT 9,JPN,4/12/06
+2006-012A,29055,ASTRA 1KR,SES,4/20/06
+2006-018A,29155,GOES 13,US,5/24/06
+2006-020A,29162,EUTE 113 WEST A(SATMEX 6,EUTE,5/27/06
+2006-020B,29163,THAICOM 5,THAI,5/27/06
+2006-022A,29230,KAZSAT 1,KAZ,6/17/06
+2006-023A,29236,GALAXY 16,US,6/18/06
+2006-032A,29270,EUTE HOT BIRD 13B (HB 8),EUTE,8/4/06
+2006-033A,29272,JCSAT 10,JPN,8/11/06
+2006-033B,29273,SYRACUSE 3B,FR,8/11/06
+2006-034A,29349,KOREASAT 5,SKOR,8/22/06
+2006-038A,29398,CHINASAT 22A,PRC,9/12/06
+2006-043A,29494,DIRECTV 9S,US,10/13/06
+2006-043B,29495,OPTUS D1,AUS,10/13/06
+2006-049A,29520,XM-4,US,10/30/06
+2006-051A,29526,ARABSAT 4B,AB,11/8/06
+2006-053A,29640,FENGYUN 2D,PRC,12/8/06
+2006-054A,29643,WILDBLUE 1,US,12/8/06
+2006-054B,29644,AMC-18,SES,12/8/06
+2006-056A,29648,MEASAT 3,MALA,12/11/06
+2006-059A,29656,ETS 8,JPN,12/18/06
+2007-003A,30323,BEIDOU 1D,PRC,2/2/07
+2007-007A,30793,INSAT 4B,IND,3/11/07
+2007-007B,30794,SKYNET 5A,UK,3/11/07
+2007-009A,31102,ANIK F3,CA,4/9/07
+2007-016A,31306,ASTRA 1L,SES,5/4/07
+2007-016B,31307,GALAXY 17,US,5/4/07
+2007-018A,31395,NIGCOMSAT 1,NIG,5/13/07
+2007-021A,31577,EUTE 8A (SINOSAT 3),EUTE,5/31/07
+2007-031A,31800,CHINASAT 6B,PRC,7/5/07
+2007-032A,31862,DIRECTV 10,US,7/7/07
+2007-036A,32018,SPACEWAY 3,US,8/14/07
+2007-036B,32019,BSAT-3A,JPN,8/14/07
+2007-037A,32050,INSAT 4CR,IND,9/2/07
+2007-044A,32252,OPTUS D2,AUS,10/5/07
+2007-044B,32253,INTELSAT 11 (PAS 11),ITSO,10/5/07
+2007-046A,32258,WGS F1 (USA 195),US,10/11/07
+2007-056A,32293,STAR ONE C1,BRAZ,11/14/07
+2007-056B,32294,SKYNET 5B,UK,11/14/07
+2007-057A,32299,ASTRA 4A (SIRIUS 4),SES,11/17/07
+2007-058A,32373,RADUGA 1M-1,CIS,12/9/07
+2007-063A,32387,RASCOM 1,RASC,12/21/07
+2007-063B,32388,HORIZONS 2,ITSO,12/21/07
+2008-001A,32404,THURAYA 3,UAE,1/15/08
+2008-003A,32478,EXPRESS AM-33,CIS,1/28/08
+2008-006A,32487,THOR 5,NOR,2/11/08
+2008-007A,32500,WINDS (KIZUNA),JPN,2/23/08
+2008-011A,32708,AMC-14,US,3/14/08
+2008-013A,32729,DIRECTV 11,US,3/19/08
+2008-016A,32763,ICO G-1,US,4/14/08
+2008-018A,32767,VINASAT 1,VTNM,4/18/08
+2008-018B,32768,STAR ONE C2,BRAZ,4/18/08
+2008-019A,32779,TIANLIAN 1-01,PRC,4/25/08
+2008-022A,32794,AMOS 3,ISRA,4/28/08
+2008-024A,32951,GALAXY 18,US,5/21/08
+2008-028A,33051,CHINASAT 9,PRC,6/9/08
+2008-030A,33055,SKYNET 5C,UK,6/12/08
+2008-030B,33056,TURKSAT 3A,TURK,6/12/08
+2008-033A,33108,COSMOS 2440,CIS,6/27/08
+2008-034A,33153,INTELSAT 25(PROTOSTAR 1),ITSO,7/7/08
+2008-034B,33154,BADR 6,AB,7/7/08
+2008-035A,33207,ECHOSTAR 11,US,7/16/08
+2008-038A,33274,SUPERBIRD 7,JPN,8/14/08
+2008-038B,33275,AMC-21,SES,8/14/08
+2008-039A,33278,INMARSAT 4-F3,IM,8/18/08
+2008-044A,33373,NIMIQ 4,CA,9/19/08
+2008-045A,33376,GALAXY 19,US,9/24/08
+2008-055A,33414,VENESAT-1,VENZ,10/29/08
+2008-057A,33436,ASTRA 1M,SES,11/5/08
+2008-063A,33453,CIEL-2,CA,12/10/08
+2008-065A,33459,EUTE HOT BIRD 13C (HB 9),EUTE,12/20/08
+2008-065B,33460,EUTE 28B (EUTE W2M),EUTE,12/20/08
+2008-066A,33463,FENGYUN 2E,PRC,12/23/08
+2009-007A,33595,EXPRESS AM-44,CIS,2/11/09
+2009-007B,33596,EXPRESS MD1,CIS,2/11/09
+2009-008A,33749,NSS 9,SES,2/12/09
+2009-008B,33750,EUTE 33E,EUTE,2/12/09
+2009-009A,34111,TELSTAR 11N,CA,2/26/09
+2009-010A,34264,RADUGA-1 8,CIS,2/28/09
+2009-016A,34710,EUTE 10A (EUTE W2A),EUTE,4/3/09
+2009-017A,34713,WGS F2 (USA 204),US,4/4/09
+2009-018A,34779,COMPASS G2,PRC,4/14/09
+2009-027A,34941,SES 7 (PROTOSTAR 2),SES,5/16/09
+2009-032A,35362,MEASAT 3A,MALA,6/21/09
+2009-033A,35491,GOES 14,US,6/27/09
+2009-034A,35493,SIRIUS FM-5,US,6/30/09
+2009-035A,35496,TERRESTAR 1,US,7/1/09
+2009-042A,35696,ASIASAT 5,AC,8/11/09
+2009-044A,35755,JCSAT 12,JPN,8/21/09
+2009-044B,35756,OPTUS D3,AUS,8/21/09
+2009-046A,35812,PALAPA D,INDO,8/31/09
+2009-050A,35873,NIMIQ 5,CA,9/17/09
+2009-054A,35942,AMAZONAS 2,SPN,9/30/09
+2009-054B,35943,COMSATBW-1,GER,9/30/09
+2009-058A,36032,NSS 12,SES,10/29/09
+2009-058B,36033,THOR 6,NOR,10/29/09
+2009-064A,36097,INTELSAT 14,ITSO,11/23/09
+2009-065A,36101,EUTE 36B (EUTE W7),EUTE,11/24/09
+2009-067A,36106,INTELSAT 15,ITSO,11/30/09
+2009-068A,36108,WGS F3 (USA 211),US,12/6/09
+2009-075A,36131,DIRECTV 12,US,12/29/09
+2010-001A,36287,BEIDOU 3,PRC,1/16/10
+2010-002A,36358,RADUGA 1M-2,CIS,1/28/10
+2010-005A,36395,SDO,US,2/11/10
+2010-006A,36397,INTELSAT 16,ITSO,2/12/10
+2010-008A,36411,GOES 15,US,3/4/10
+2010-010A,36499,ECHOSTAR 14,US,3/20/10
+2010-016A,36516,SES 1,SES,4/24/10
+2010-021A,36581,ASTRA 3B,SES,5/21/10
+2010-021B,36582,COMSATBW-2,GER,5/21/10
+2010-024A,36590,BEIDOU 4,PRC,6/2/10
+2010-025A,36592,BADR-5 (ARABSAT 5B),AB,6/3/10
+2010-032A,36744,COMS 1,SKOR,6/26/10
+2010-032B,36745,ARABSAT 5A,AB,6/26/10
+2010-034A,36792,ECHOSTAR 15,US,7/10/10
+2010-036A,36828,BEIDOU 5,PRC,7/31/10
+2010-037A,36830,NILESAT 201,EGYP,8/4/10
+2010-037B,36831,RASCOM QAF 1R,RASC,8/4/10
+2010-039A,36868,AEHF 1 (USA 214),US,8/14/10
+2010-042A,37150,CHINASAT 6A,PRC,9/4/10
+2010-053A,37185,XM-5,US,10/14/10
+2010-056B,37207,BSAT-3B,JPN,10/28/10
+2010-057A,37210,BEIDOU 6,PRC,10/31/10
+2010-061A,37218,SKYTERRA 1,US,11/14/10
+2010-064A,37234,CHINASAT 20A,PRC,11/24/10
+2010-065A,37237,HYLAS 1,UK,11/26/10
+2010-065B,37238,INTELSAT 17,ITSO,11/26/10
+2010-068A,37256,BEIDOU 7,PRC,12/17/10
+2010-069A,37258,EUTE KA SAT 9A (KA SAT),EUTE,12/26/10
+2010-070A,37264,HISPASAT 1E,SPN,12/29/10
+2010-070B,37265,KOREASAT 6,SKOR,12/29/10
+2011-001A,37344,ELEKTRO-L,CIS,1/20/11
+2011-013A,37384,BEIDOU 8,PRC,4/9/11
+2011-016A,37392,INTELSAT NEW DAWN,ITSO,4/22/11
+2011-016B,37393,YAHSAT 1A,UAE,4/22/11
+2011-019A,37481,SBIRS GEO 1 (USA 230),US,5/7/11
+2011-021A,37602,TELSTAR 14R,CA,5/20/11
+2011-022A,37605,GSAT 8,IND,5/20/11
+2011-022B,37606,ST 2,STCT,5/20/11
+2011-026A,37677,CHINASAT 10,PRC,6/20/11
+2011-032A,37737,TIANLIAN 1-02,PRC,7/11/11
+2011-034A,37746,GSAT 12,IND,7/15/11
+2011-035A,37748,SES 3,US,7/15/11
+2011-035B,37749,KAZSAT 2,KAZ,7/15/11
+2011-038A,37763,BEIDOU 9,PRC,7/26/11
+2011-041A,37775,ASTRA 1N,SES,8/6/11
+2011-041B,37776,BSAT-3C,JPN,8/6/11
+2011-042A,37779,PAKSAT 1R,PAKI,8/11/11
+2011-047A,37804,CHINASAT 1A,PRC,9/17/11
+2011-048A,37806,COSMOS 2473,CIS,9/20/11
+2011-049A,37809,SES 2,SES,9/21/11
+2011-049B,37810,ARABSAT 5C,AB,9/21/11
+2011-051A,37816,EUTE 7 WEST A (AB 7),EUTE,9/24/11
+2011-054A,37826,QUETZSAT 1,MEX,9/29/11
+2011-056A,37834,INTELSAT 18,ITSO,10/5/11
+2011-057A,37836,EUTE 16A (EUTE W3C),EUTE,10/7/11
+2011-059A,37843,VIASAT 1,US,10/19/11
+2011-069A,37933,ASIASAT 7,AC,11/25/11
+2011-073A,37948,BEIDOU 10,PRC,12/1/11
+2011-074A,37950,AMOS 5,ISRA,12/11/11
+2011-074B,37951,LUCH 5A,CIS,12/11/11
+2011-077A,38014,NIGCOMSAT 1R,NIG,12/19/11
+2012-002A,38049,FENGYUN 2F,PRC,1/13/12
+2012-003A,38070,WGS F4 (USA 233),US,1/20/12
+2012-007A,38087,SES 4,SES,2/14/12
+2012-008A,38091,BEIDOU 11,PRC,2/24/12
+2012-011A,38098,INTELSAT 22,ITSO,3/25/12
+2012-012A,38101,COSMOS 2479,CIS,3/30/12
+2012-013A,38107,APSTAR 7,PRC,3/31/12
+2012-016A,38245,YAHSAT 1B,UAE,4/23/12
+2012-019A,38254,AEHF 2 (USA 235),US,5/4/12
+2012-023A,38331,JCSAT 13,JPN,5/15/12
+2012-023B,38332,VINASAT 2,VTNM,5/15/12
+2012-026A,38342,NIMIQ 6,CA,5/17/12
+2012-028A,38352,CHINASAT 2A,PRC,5/26/12
+2012-030A,38356,INTELSAT 19,ITSO,6/1/12
+2012-035A,38551,ECHOSTAR 17,US,7/5/12
+2012-035B,38552,METEOSAT 10 (MSG 3),EUME,7/5/12
+2012-036A,38652,SES 5,SES,7/9/12
+2012-040A,38730,TIANLIAN 1-03,PRC,7/25/12
+2012-043A,38740,INTELSAT 20,ITSO,8/2/12
+2012-043B,38741,HYLAS 2,UK,8/2/12
+2012-045A,38749,INTELSAT 21,ITSO,8/19/12
+2012-051A,38778,ASTRA 2F,SES,9/28/12
+2012-051B,38779,GSAT 10,IND,9/28/12
+2012-057A,38867,INTELSAT 23,ITSO,10/14/12
+2012-059A,38953,BEIDOU 16,PRC,10/25/12
+2012-061A,38977,LUCH 5B,CIS,11/2/12
+2012-061B,38978,YAMAL 300K,CIS,11/2/12
+2012-062A,38991,STARONE C3,BRAZ,11/10/12
+2012-062B,38992,EUTE 21B,EUTE,11/10/12
+2012-065A,39008,ECHOSTAR 16,US,11/20/12
+2012-067A,39017,CHINASAT 12,PRC,11/27/12
+2012-069A,39020,EUTE 70B,EUTE,12/3/12
+2012-070A,39022,YAMAL 402,CIS,12/8/12
+2012-075A,39034,SKYNET 5D,UK,12/19/12
+2012-075B,39035,MEXSAT 3,MEX,12/19/12
+2013-004A,39070,TDRS 11,US,1/31/13
+2013-006A,39078,AMAZONAS 3,SPN,2/7/13
+2013-006B,39079,AZERSPACE 1,AZER,2/7/13
+2013-011A,39120,SBIRS GEO 2 (USA 241),US,3/19/13
+2013-012A,39122,EUTE 117 WEST A(SATMEX 8,EUTE,3/26/13
+2013-014A,39127,ANIK G1,CA,4/15/13
+2013-020A,39157,CHINASAT 11,PRC,5/1/13
+2013-022A,39163,EUTE 7B (EUTE 3D),EUTE,5/14/13
+2013-024A,39168,WGS 5 (USA 243),US,5/25/13
+2013-026A,39172,SES 6,SES,6/3/13
+2013-034A,39199,IRNSS R1A,IND,7/1/13
+2013-038A,39215,ALPHASAT (I-4A F4),IM,7/25/13
+2013-038B,39216,INSAT 3D,IND,7/25/13
+2013-041A,39222,WGS 6 (USA 244),US,8/8/13
+2013-044A,39233,EUTE 25B,EUTE,8/29/13
+2013-044B,39234,GSAT 7,IND,8/29/13
+2013-045A,39237,AMOS 4,ISRA,8/31/13
+2013-050A,39256,AEHF 3 (USA 246),US,9/18/13
+2013-056A,39285,ASTRA 2E,SES,9/29/13
+2013-058A,39360,SIRIUS FM-6,US,10/25/13
+2013-062A,39375,RADUGA 1M-3,CIS,11/11/13
+2013-071A,39460,SES 8,SES,12/3/13
+2013-073A,39476,INMARSAT 5-F1,IM,12/8/13
+2013-075A,39481,TKSAT 1,BOL,12/20/13
+2013-077A,39487,EXPRESS AM-5,CIS,12/26/13
+2014-001A,39498,GSAT 14,IND,1/5/14
+2014-002A,39500,THAICOM 6,THAI,1/6/14
+2014-004A,39504,TDRS 12,US,1/24/14
+2014-006A,39508,ABS 2,PRC,2/6/14
+2014-006B,39509,ATHENA-FIDUS,FRIT,2/6/14
+2014-007A,39522,TURKSAT 4A,TURK,2/14/14
+2014-010A,39612,EXPRESS AT1,CIS,3/15/14
+2014-010B,39613,EXPRESS AT2,CIS,3/15/14
+2014-011A,39616,AMAZONAS 4A,SPN,3/22/14
+2014-011B,39617,ASTRA 5B,SES,3/22/14
+2014-017A,39635,IRNSS 1B,IND,4/4/14
+2014-023A,39727,LUCH 5V,CIS,4/28/14
+2014-023B,39728,KAZSAT 3,KAZ,4/28/14
+2014-030A,39773,EUTE 3B,EUTE,5/26/14
+2014-043A,40099,USA 253,US,7/28/14
+2014-043B,40100,USA 254,US,7/28/14
+2014-046A,40107,ASIASAT 8,AC,8/5/14
+2014-052A,40141,ASIASAT 6,AC,9/7/14
+2014-054A,40146,OPTUS 10,AUS,9/11/14
+2014-054B,40147,MEASAT 3B,MALA,9/11/14
+2014-058A,40258,LUCH (OLYMP),CIS,9/27/14
+2014-060A,40267,HIMAWARI 8,JPN,10/7/14
+2014-061A,40269,IRNSS 1C,IND,10/15/14
+2014-062A,40271,INTELSAT 30,ITSO,10/16/14
+2014-062B,40272,ARSAT 1,ARGN,10/16/14
+2014-064A,40277,EXPRESS AM-6,CIS,10/21/14
+2014-078A,40332,GSAT 16,IND,12/6/14
+2014-078B,40333,DIRECTV 14,US,12/6/14
+2014-082A,40345,YAMAL 401,CIS,12/15/14
+2014-089A,40364,ASTRA 2G,SES,12/27/14
+2014-090A,40367,FENGYUN 2G,PRC,12/31/14
+2015-005A,40384,INMARSAT 5-F2,IM,2/1/15
+2015-010A,40424,ABS 3A,PRC,3/2/15
+2015-010B,40425,EUTE 115 WEST B(SATMEX 7,EUTE,3/2/15
+2015-012A,40505,EXPRESS AM-7,CIS,3/18/15
+2015-018A,40547,IRNSS 1D,IND,3/28/15
+2015-019A,40549,BD-17,PRC,3/30/15
+2015-022A,40613,THOR 7,NOR,4/26/15
+2015-023A,40617,TURKMENALEM 52E/MONACOSA,TMMC,4/27/15
+2015-026A,40663,DIRECTV 15,US,5/27/15
+2015-026B,40664,SKY MEXICO-1,MEX,5/27/15
+2015-034A,40732,METEOSAT 11 (MSG 4),EUME,7/15/15
+2015-034B,40733,STARONE C4,BRAZ,7/15/15
+2015-036A,40746,WGS 7 (USA 263),US,7/24/15
+2015-039A,40874,INTELSAT 34,ITSO,8/20/15
+2015-039B,40875,EUTE 8 WEST B,EUTE,8/20/15
+2015-041A,40880,GSAT 6,IND,8/27/15
+2015-042A,40882,INMARSAT 5-F3,IM,8/28/15
+2015-044A,40887,MUOS 4,US,9/2/15
+2015-046A,40892,TJS-1,PRC,9/12/15
+2015-048A,40895,EXPRESS AM-8,CIS,9/14/15
+2015-053A,40938,BD-20,PRC,9/29/15
+2015-054A,40940,SKY MUSTER,AUS,9/30/15
+2015-054B,40941,ARSAT 2,ARGN,9/30/15
+2015-056A,40946,MORELOS 3,MEX,10/2/15
+2015-059A,40982,APSTAR 9,PRC,10/16/15
+2015-060A,40984,TURKSAT 4B,TURK,10/16/15
+2015-063A,41021,CHINASAT 2C,PRC,11/3/15
+2015-065A,41028,GSAT 15,IND,11/10/15
+2015-065B,41029,BADR 7,AB,11/10/15
+2015-067A,41034,LAOSAT 1,LAOS,11/20/15
+2015-068A,41036,TELSTAR 12V,CA,11/24/15
+2015-073A,41103,CHINASAT 1C,PRC,12/9/15
+2015-074A,41105,ELEKTRO-L 2,CIS,12/11/15
+2015-075A,41121,COSMOS 2513,CIS,12/13/15
+2015-082A,41191,EXPRESS AMU1,CIS,12/24/15
+2015-083A,41194,GAOFEN 4,PRC,12/28/15
+2016-001A,41238,BELINTERSAT 1,BELA,1/15/16
+2016-003A,41241,IRNSS-1E,IND,1/20/16
+2016-004A,41308,INTELSAT 29E,ITSO,1/27/16
+2016-005A,41310,EUTE 9B,EUTE,1/29/16
+2016-013A,41380,SES 9,SES,3/4/16
+2016-014A,41382,EUTE 65W,EUTE,3/9/16
+2016-015A,41384,IRNSS 1F,IND,3/10/16
+2016-021A,41434,BEIDOU IGSO-6,PRC,3/29/16
+2016-027A,41469,IRNSS 1G,IND,4/28/16
+2016-028A,41471,JCSAT 2B,JPN,5/6/16
+2016-031A,41552,THAICOM 8,THAI,5/27/16
+2016-035A,41581,INTELSAT 31,ITSO,6/9/16
+2016-037A,41586,BD-2-G7,PRC,6/12/16
+2016-038A,41588,ABS 2A,BERM,6/15/16
+2016-038B,41589,EUTE 117W B,EUTE,6/15/16
+2016-039A,41591,BRISAT,INDO,6/18/16
+2016-039B,41592,ECHOSTAR 18,US,6/18/16
+2016-048A,41725,TIANTONG-1 1,PRC,8/5/16
+2016-050A,41729,JCSAT 16,JPN,8/14/16
+2016-052A,41744,USA 270,US,8/19/16
+2016-052B,41745,USA 271,US,8/19/16
+2016-053A,41747,INTELSAT 36,ITSO,8/24/16
+2016-053B,41748,INTELSAT 33E,ITSO,8/24/16
+2016-054A,41752,INSAT 3DR,IND,9/8/16
+2016-060A,41793,GSAT 18,IND,10/5/16
+2016-060B,41794,SKY MUSTER 2,AUS,10/5/16
+2016-064A,41836,HIMAWARI 9,JPN,11/2/16
+2016-065A,41838,SJ-17,PRC,11/3/16
+2016-071A,41866,GOES 16,US,11/19/16
+2016-072A,41869,TIANLIAN 1-04,PRC,11/22/16
+2016-075A,41879,WGS 8 (USA 272),US,12/7/16
+2016-077A,41882,FENGYUN 4A,PRC,12/10/16
+2016-079A,41893,ECHOSTAR 19,US,12/18/16
+2016-082A,41903,JCSAT 15,JPN,12/21/16
+2016-082B,41904,STARONE D1,BRAZ,12/21/16
+2017-001A,41911,TJS-2,PRC,1/5/17
+2017-004A,41937,SBIRS GEO 4 (USA 273),US,1/21/17
+2017-006A,41942,HISPASAT 36W-1,SPN,1/28/17
+2017-007A,41944,TELKOM 3S,INDO,2/14/17
+2017-007B,41945,INTELSAT 32E,ITSO,2/14/17
+2017-014A,42070,ECHOSTAR 23,US,3/16/17
+2017-016A,42075,WGS 9 (USA 275),US,3/19/17
+2017-017A,42432,SES 10,SES,3/30/17
+2017-018A,42662,CHINASAT 16,PRC,4/12/17
+2017-023A,42691,KOREASAT 7,SKOR,5/4/17
+2017-023B,42692,SGDC,BRAZ,5/4/17
+2017-024A,42695,GSAT 9,IND,5/5/17
+2017-025A,42698,INMARSAT 5-F4,IM,5/15/17
+2017-026A,42709,SES 15,SES,5/18/17
+2017-029A,42740,VIASAT 2,US,6/1/17
+2017-029B,42741,EUTE 172B,EUTE,6/1/17
+2017-031A,42747,GSAT 19,IND,6/5/17
+2017-032A,42749,ECHOSTAR 21,US,6/8/17
+2017-035A,42763,CHINASAT 9A,PRC,6/18/17
+2017-038A,42801,BULGARIASAT-1,BGR,6/23/17
+2017-040A,42814,HELLAS-SAT 3,ESA,6/28/17
+2017-040B,42815,GSAT 17,IND,6/28/17
+2017-041A,42818,INTELSAT 35E,ITSO,7/5/17
+2017-046A,42907,COSMOS 2520,CIS,8/16/17
+2017-047A,42915,TDRS 13,US,8/18/17
+2017-048A,42917,QZS-3,JPN,8/19/17
+2017-053A,42934,AMAZONAS 5,SPN,9/11/17
+2017-057A,42942,ASIASAT 9,AC,9/28/17
+2017-059A,42950,INTELSAT 37E,ITSO,9/29/17
+2017-059B,42951,BSAT-4A,JPN,9/29/17
+2017-063A,42967,ECHOSTAR 105/SES 11,SES,10/11/17
+2017-067A,42984,KOREASAT 5A,SKOR,10/30/17
+2017-078A,43039,ALCOMSAT 1,ALG,12/10/17
+2017-086A,43087,ANGOSAT 1,AGO,12/26/17
+2018-009A,43162,SBIRS GEO 3 (USA 282),US,1/20/18
+2018-012A,43174,AL YAH 3,UAE,1/25/18
+2018-012B,43175,SES 14,SES,1/25/18
+2018-022A,43226,GOES S,US,3/1/18
+2018-023A,43228,HISPASAT 30W-6,SPN,3/6/18
+2018-033A,43271,SUPERBIRD 8,JPN,4/5/18
+2018-033B,43272,HYLAS 4,UK,4/5/18
+2018-035A,43286,IRNSS 1I,IND,4/11/18
+2018-036A,43339,USA 283,US,4/14/18
+2018-037A,43432,COSMOS 2526,CIS,4/18/18
+2018-041A,43450,APSTAR 6C,PRC,5/3/18
+2018-044A,43463,BANGABANDHUSAT-1,BGD,5/11/18
+2018-049A,43488,SES-12,SES,6/4/18
+2018-050A,43491,FENGYUN 2H,PRC,6/5/18
+2018-057A,43539,BEIDOU IGSO-7,PRC,7/9/18
+2018-059A,43562,TELSTAR 19V,CA,7/22/18
+2018-064A,43587,TELKOM-4,INDO,8/7/18
+2018-069A,43611,TELSTAR 18V,CA,9/10/18
+2018-074A,43632,AZERSPACE 2/INTELSAT 38,AZER,9/25/18
+2018-074B,43633,HORIZONS 3E,ITSO,9/25/18
+2018-079A,43651,AEHF 4 (USA 288),US,10/17/18
+2018-085A,43683,BEIDOU 3G1,PRC,11/1/18
+2018-089A,43698,GSAT 29,IND,11/14/18
+2018-090A,43700,ES'HAIL 2,QAT,11/15/18
+2018-100A,43823,GEO-KOMPSAT-2A,SKOR,12/4/18
+2018-100B,43824,GSAT 11,IND,12/4/18
+2018-105A,43864,GSAT 7A,IND,12/19/18
+2018-107A,43867,OBJECT A,CIS,12/21/18
+2018-110A,43874,TJS-3,PRC,12/24/18
+2019-001A,43920,CHINASAT 2D,PRC,1/10/19
+2019-007A,44034,SAUDIGEOSAT1/HELLASSAT4,GREC,2/5/19
+2019-007B,44035,GSAT 31,IND,2/5/19
+2019-009A,44048,NUSANTARA SATU,INDO,2/22/19
+2019-012A,44067,CHINASAT 6C,PRC,3/9/19
+2019-014A,44071,WGS 10 (USA 291),US,3/16/19
+2019-017A,44076,TIANLIAN 2-01,PRC,3/31/19
+2019-021A,44186,ARABSAT 6A,AB,4/11/19
+2019-023A,44204,BEIDOU 3 IGSO-1,PRC,4/20/19
+2019-027A,44231,BEIDOU 2 G8,PRC,5/17/19
+2019-031A,44307,YAMAL 601,CIS,5/30/19
+2019-034A,44333,AT&T T-16,US,6/20/19
+2019-034B,44334,EUTE 7C,EUTE,6/20/19
+2019-035A,44337,BEIDOU 3 IGSO-2,PRC,6/24/19
+2019-048A,44457,COSMOS 2539,CIS,8/5/19
+2019-049A,44475,EDRS-C,ESA,8/6/19
+2019-050A,44479,AMOS 17,ISRA,8/6/19
+2019-049B,44476,INTELSAT 39,ITSO,8/6/19
+2019-051A,44481,AEHF 5 (USA 292),US,8/8/19
+2019-067A,44624,EUTELSAT 5 WEST B,EUTE,10/9/19
+2019-067B,44625,MEV-1,US,10/9/19
+2019-070A,44637,TJS-4,PRC,10/17/19
+2019-073A,44709,BEIDOU 3 IGSO-3,PRC,11/4/19
+2019-080A,44800,TIBA-1,EGYP,11/26/19
+2019-080B,44801,INMARSAT GX5,IM,11/26/19
+2019-091A,44868,JCSAT 18,JPN,12/17/19
+2019-095A,44903,ELEKTRO-L 3,CIS,12/24/19
+2019-097A,44910,SJ-20,PRC,12/27/19
+2020-002A,44978,TJS-5,PRC,1/7/20
+2020-005A,45026,GSAT 30,IND,1/16/20
+2020-005B,45027,EUTE KONNECT,EUTE,1/16/20
+2020-013A,45245,JCSAT 17,JPN,2/18/20
+2020-013B,45246,GEO-KOMPSAT-2B,SKOR,2/18/20
+2020-017A,45344,BEIDOU 3 G2,PRC,3/9/20
+2020-022B,45465,AEHF 6 (USA 298),US,3/26/20
+2020-040A,45807,BEIDOU 3 G3,PRC,6/23/20
+2020-045A,45863,APSTAR 6D,PRC,7/9/20
+2020-048A,45920,KOREASAT 116,SKOR,7/20/20
+2020-053A,45985,OBJECT A,CIS,7/30/20
+2020-053B,45986,EXPRESS 80,CIS,7/30/20
+2020-056A,46112,BSAT-4B,JPN,8/15/20
+2020-056B,46113,MEV-2,US,8/15/20
+2020-056C,46114,GALAXY 30,US,8/15/20
+2020-071A,46610,GAOFEN 13,PRC,10/11/20
+2020-082A,46916,TIANTONG-1 2,PRC,11/12/20
+2020-089A,47202,LUCAS (JDRS-1),JPN,11/29/20
+2020-096A,47240,SIRIUSXM-7,US,12/13/20
+2020-097A,47242,IPM 2/BREEZE-M,CIS,12/14/20
+2020-099A,47256,CMS-01,IND,12/17/20
+2021-001A,47306,TURKSAT 5A,TURK,1/8/21
+2021-003A,47321,TIANTONG-1 3,PRC,1/19/21
+2021-010A,47613,TJS-6,PRC,2/4/21
+2021-042A,48618,SBIRS GEO 5 (USA 315),US,5/18/21
+2021-047A,48808,FENGYUN 4B,PRC,6/2/21
+2021-049A,48838,XM-8,US,6/6/21
+2021-063A,49011,TIANLIAN 1-O5,PRC,7/6/21
+2021-069A,49055,STARONE D2,BRAZ,7/30/21
+2021-069B,49056,EUTELSAT QUANTUM,EUTE,7/30/21
+2021-071A,49062,CHINASAT 2E,PRC,8/5/21
+2021-077A,49115,TJS-7,PRC,8/24/21
+2021-080A,49125,CHINASAT 9B,PRC,9/9/21
+2021-094A,49330,SJ-21,PRC,10/24/21
+2021-114A,49505,CHINASAT 1D,PRC,11/26/21
+2021-118A,49817,STPSAT-6,US,12/7/21
+2021-124A,50005,TIANLIAN 2-02,PRC,12/13/21
+2021-129A,50321,SHIYAN 12 01 (SY-12 01),PRC,12/23/21
+2021-129B,50322,SHIYAN 12 02 (SY-12 02),PRC,12/23/21
+1994-054A,23223,USA 105,US,8/27/94
+1996-026A,23855,USA 118,US,4/24/96
+1998-029A,25336,USA 139,US,5/9/98
+2003-041A,27937,USA 171,US,9/9/03
+2009-001A,33490,USA 202,US,1/18/09
+2009-020A,34810,SICRAL 1B,IT,4/20/09
+2009-047A,35815,USA 207,US,9/8/09
+2010-063A,37232,USA 223,US,11/21/10
+2011-011A,37377,USA 227,US,3/11/11
+2012-009A,38093,MUOS 1,US,2/24/12
+2012-033A,38466,USA 236,US,6/20/12
+2012-034A,38528,USA 237,US,6/29/12
+2013-036A,39206,MUOS 2,US,7/19/13
+2014-020A,39652,USA 250,US,4/10/14
+2014-027A,39751,USA 252,US,5/22/14
+2014-055A,40208,USA 257,US,9/17/14
+2015-002A,40374,MUOS 3,US,1/21/15
+2015-022B,40614,SICRAL 2,FRIT,4/26/15
+2016-036A,41584,USA 268,US,6/11/16
+2016-041A,41622,MUOS 5,US,6/24/16
+2016-047A,41724,USA 269,US,7/28/16
+2017-005A,41940,DSN-2,JPN,1/24/17
+2017-066A,42949,USA 279,US,10/15/17
+2018-013A,43178,SES-16/GOVSAT-1,SES,1/31/18
+2018-036B,43340,USA 284,US,4/14/18
+2018-036G,43465,USA 287,US,4/14/18
+2020-095A,47237,USA 311,US,12/11/20
+2020-101A,47294,USA 312,US,12/19/20
+2020-101B,47295,USA 313,US,12/19/20
+2021-019A,47851,SHIYAN 9 (SY-9),PRC,3/11/21
+2021-087A,49258,SHIYAN 10 (SY-10),PRC,9/27/21
+2021-095A,49332,SES 17,SES,10/24/21
+2021-095B,49333,SYRACUSE 4A,FR,10/24/21
+2021-118B,49818,LDPE-1,US,12/7/21
+2021-123A,50001,EXPRESS AMU-7,CIS,12/13/21
+2021-123B,50002,EXPRESS AMU-3,CIS,12/13/21
+2021-126A,50212,TURKSAT 5B,TURK,12/19/21
+2021-128A,50319,INMARSAT 6-F1,IM,12/22/21
+2021-135A,50574,TJS-9,PRC,12/29/21
+2022-006B,51281,USA 325,US,1/21/22
+2021-118E,51287,ASCENT,US,12/7/21
+2022-021A,51850,GOES 18,US,3/1/22
+2022-038A,52255,CHINASAT 6D,PRC,4/15/22
+2022-061A,52817,NILESAT 301,EGYP,6/8/22
+2022-067A,52903,CMS-02,IND,6/22/22
+2022-067B,52904,MEASAT 3D,MALA,6/22/22
+2022-071A,52933,SES 22,SES,6/29/22
+2022-073A,52940,WFOV (USA 332),US,7/1/22
+2022-078A,53100,TIANLIAN-2 03,PRC,7/12/22
+2022-092A,53355,SBIRS-GEO 6 (USA 336),US,8/4/22
+2022-110A,53765,EUTE KONNECT VHTS,EUTE,9/7/22
+2022-112A,53813,CHINASAT 1E,PRC,9/13/22
+2022-123A,53960,SES 20,SES,10/4/22
+2022-123B,53961,SES 21,SES,10/4/22
+2022-128A,54026,GALAXY 33,US,10/8/22
+2022-128B,54027,GALAXY 34,US,10/8/22
+2022-131A,54033,ANGOSAT 2,AGO,10/12/22
+2022-134A,54048,HOTBIRD 13F,EUTE,10/15/22
+2022-144B,54220,USA 339,US,11/1/22
+2022-146A,54225,HOTBIRD 13G,EUTE,11/3/22
+2022-148A,54230,CHINASAT 19,PRC,11/5/22
+2022-153A,54243,GALAXY 31,US,11/12/22
+2022-153B,54244,GALAXY 32,US,11/12/22
+2022-157A,54259,EUTELSAT 10B,EUTE,11/23/22
+2022-170A,54741,GALAXY 35,US,12/13/22
+2022-170B,54742,GALAXY 36,US,12/13/22
+2022-170C,54743,METEOSAT 12 (MTG I1),EUME,12/13/22
+2023-002A,55131,SJ-23,PRC,1/8/23
+2022-144E,55138,USA 340,US,11/1/22
+2022-144F,55139,USA 341,US,11/1/22
+2023-002C,55180,SJ-23 AKM,PRC,1/8/23
+2023-005A,55239,APSTAR 6E,PRC,1/12/23
+2023-008A,55263,USA 342,US,1/15/23
+2023-016A,55506,ELEKTRO-L 4,CIS,2/5/23
+2023-017A,55508,AMAZONAS 6,BRAZ,2/7/23
+2023-022A,55683,INMARSAT 6-F2,IM,2/18/23
+2023-023A,55686,CHINASAT-26,PRC,2/23/23
+2023-031A,55841,LUCH (OLYMP) 2,CIS,3/12/23
+2023-036A,55912,GAOFEN 13 02,PRC,3/17/23
+2023-038A,55970,SES 18,SES,3/17/23
+2023-038B,55971,SES 19,SES,3/17/23
+2023-052A,56174,INTELSAT 40E,ITSO,4/7/23
+2023-060A,56370,VIASAT 3,US,5/1/23
+2023-060B,56371,ARCTURUS,US,5/1/23
+2023-060C,56372,GS-1,US,5/1/23
+2023-075A,56757,ARABSAT 7B (BADR 8),AB,5/27/23
+2023-076A,56759,NVS-01,IND,5/29/23
