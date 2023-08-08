@@ -26,7 +26,7 @@ import sys
 assessmentdate = datetime.today().strftime('%Y%m%d')
 
 # Since this script may take more 24 hours to run, consider hardcoding the assessment date
-assessmentdate = '20230805'
+assessmentdate = '20230808'
 
 # Write a quick function for cleaning directories
 def remove_files_except(filename, directory):
@@ -208,10 +208,6 @@ for i in np.arange(len(satcats)):
 		# If it doesn't exist, then create it and run the scrape scripts.
 		if not CHECK_FOLDER:
 			os.makedirs(MYDIR)
-		# If it does exist, clear it's contents
-		else:
-			for f in os.listdir(MYDIR):
-				os.remove(os.path.join(MYDIR, f))
 		df_results_batched.at[m, satcat] = 'TBD'
 		longitude = df_longitudes.at[m, satcat]
 		if np.isnan(longitude):
@@ -280,10 +276,10 @@ for i in np.arange(len(satcats)):
 			df_nearbyshortlist = df_nearbyshortlist.sort_values('Longitudinal Distance', ascending = True)
 			df_nearbyshortlist = df_nearbyshortlist.reset_index(drop=True)
 			# Find the most recent due-diligence match data available
-			duediligence_directories_names = [x[0].rsplit('/', 1) for x in os.walk('../Data/Due Diligence Matches/')][-1][1:]
+			duediligence_directories_names = [x[0].rsplit('/', 1) for x in os.walk('../Data/Reference Files/Due Diligence Matches/')][-1][1:]
 			duediligence_directories_datetimes = [datetime.strptime(i, '%Y%m%d') for i in duediligence_directories_names]
 			duediligence_directory = duediligence_directories_names[duediligence_directories_datetimes.index(max(duediligence_directories_datetimes))]
-			df_duediligence = pd.read_csv('../Data/Due Diligence Matches/' + duediligence_directory + '/' + satcat + '.csv')
+			df_duediligence = pd.read_csv('../Data/Reference Files/Due Diligence Matches/' + duediligence_directory + '/' + satcat + '.csv')
 			for j in np.arange(len(df_nearbyshortlist)):
 				df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'n/a'
 				license = df_nearbyshortlist.at[j, 'Network']
@@ -388,31 +384,31 @@ for i in np.arange(len(satcats)):
 			printProgressBar(m + 1, len(df_longitudes), prefix = str("{:03d}".format(i+1))+' of '+str(len(satcats)), suffix = 'Complete', length = 50)
 			# Drop the ITUadm and grandfather columns from the nearby shortlist
 			df_nearbyshortlist = df_nearbyshortlist.drop(['Grandfather', 'ITUAdm'], axis=1)
-			# Drop the Due Diligence Match column from the nearby shortlist
-			df_nearbyshortlist = df_nearbyshortlist.drop('Due Diligence Match', axis=1)
+			# # Drop the Due Diligence Match column from the nearby shortlist
+			# df_nearbyshortlist = df_nearbyshortlist.drop('Due Diligence Match', axis=1)
 			# Round the 'Longitudinal Distance' column to two decimal places
 			df_nearbyshortlist['Longitudinal Distance'] = df_nearbyshortlist['Longitudinal Distance'].round(2)
 			# Add a degree symbol to the values in the 'Longitudinal Distance' column
 			df_nearbyshortlist['Longitudinal Distance'] = df_nearbyshortlist['Longitudinal Distance'].apply(lambda x: f'{x:.2f}°')
 			# Save the shortlist to a CSV 
 			df_nearbyshortlist.to_csv('../Data/Historical Analysis/' + assessmentdate + '/Historical Nearby Shortlists/' + eval_date.strftime('%Y%m%d') + '/nearbyshortlist_' + satcat + '_' + eval_date.strftime('%Y%m%d') + '.csv', index = None)
-# Now let's do a check to see whether any satellites not in compliance were sufficiently far away from compliant satellites on the date of assessment
-for i in np.arange(len(satcats)):
-	satcat = str(satcats[i])
-	for m in np.arange(len(df_longitudes)):
-		longitude = df_longitudes.at[m, satcat]
-		neighbor_compliance = False
-		# For satellites not in compliance, check to see if any other satellites within 0.5 degrees are in compliance
-		if df_results_batched.at[m, satcat][0] == 'N':
-			for j in np.arange(len(satcats)):
-				satcat_scan = str(satcats[j])
-				if satcat_scan != satcat:
-					longitude_scan = df_longitudes.at[m, satcat_scan]
-					if abs(longitude - longitude_scan) <= 0.5:
-						if df_results_batched.at[m, satcat_scan][0] == 'Y':
-							neighbor_compliance = True
-			if neighbor_compliance == False:
-				df_results_batched.at[m, satcat] = 'Maybe. Although there are no space networks within station-keeping requirements for which any filings have been submitted by a corresponding ITU administration, there are also no other compliant satellites within 0.5 degrees, meaning this satellite could be in compliance with ITU Radio Regulations Article 22, Section III: 22.10 or 22.14.'
+# # Now let's do a check to see whether any satellites not in compliance were sufficiently far away from compliant satellites on the date of assessment
+# for i in np.arange(len(satcats)):
+# 	satcat = str(satcats[i])
+# 	for m in np.arange(len(df_longitudes)):
+# 		longitude = df_longitudes.at[m, satcat]
+# 		neighbor_compliance = False
+# 		# For satellites not in compliance, check to see if any other satellites within 0.5 degrees are in compliance
+# 		if df_results_batched.at[m, satcat][0] == 'N':
+# 			for j in np.arange(len(satcats)):
+# 				satcat_scan = str(satcats[j])
+# 				if satcat_scan != satcat:
+# 					longitude_scan = df_longitudes.at[m, satcat_scan]
+# 					if abs(longitude - longitude_scan) <= 0.5:
+# 						if df_results_batched.at[m, satcat_scan][0] == 'Y':
+# 							neighbor_compliance = True
+# 			if neighbor_compliance == False:
+# 				df_results_batched.at[m, satcat] = 'Maybe. Although there are no space networks within station-keeping requirements for which any filings have been submitted by a corresponding ITU administration, there are also no other compliant satellites within 0.5 degrees, meaning this satellite could be in compliance with ITU Radio Regulations Article 22, Section III: 22.10 or 22.14.'
 
 # Save the results
 for satcat in satcats:

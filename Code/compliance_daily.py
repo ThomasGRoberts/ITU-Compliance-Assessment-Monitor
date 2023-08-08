@@ -234,10 +234,10 @@ for i in np.arange(len(satcats)):
 		df_nearbyshortlist = df_nearbyshortlist.sort_values('Longitudinal Distance', ascending = True)
 		df_nearbyshortlist = df_nearbyshortlist.reset_index(drop=True)
 		# Find the most recent due-diligence match data available
-		duediligence_directories_names = [x[0].rsplit('/', 1) for x in os.walk('../Data/Due Diligence Matches/')][-1][1:]
+		duediligence_directories_names = [x[0].rsplit('/', 1) for x in os.walk('../Data/Reference Files/Due Diligence Matches/')][-1][1:]
 		duediligence_directories_datetimes = [datetime.strptime(i, '%Y%m%d') for i in duediligence_directories_names]
 		duediligence_directory = duediligence_directories_names[duediligence_directories_datetimes.index(max(duediligence_directories_datetimes))]
-		df_duediligence = pd.read_csv('../Data/Due Diligence Matches/' + duediligence_directory + '/' + satcat + '.csv')
+		df_duediligence = pd.read_csv('../Data/Reference Files/Due Diligence Matches/' + duediligence_directory + '/' + satcat + '.csv')
 		for j in np.arange(len(df_nearbyshortlist)):
 			df_nearbyshortlist.at[j, 'Due Diligence Match'] = 'n/a'
 			license = df_nearbyshortlist.at[j, 'Network']
