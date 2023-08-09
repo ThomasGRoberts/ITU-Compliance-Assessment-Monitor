@@ -334,6 +334,8 @@ for i in np.arange(len(satcats)):
 		df_nearbyshortlist = df_nearbyshortlist.drop(['Grandfather', 'ITUAdm'], axis=1)
 		# Drop the Due Diligence Match column from the nearby shortlist
 		df_nearbyshortlist = df_nearbyshortlist.drop('Due Diligence Match', axis=1)
+		# Drop the Eligible column from the nearby shortlist
+		df_nearbyshortlist = df_nearbyshortlist.drop('Eligible', axis=1)
 		# Round the 'Longitudinal Distance' column to two decimal places
 		df_nearbyshortlist['Longitudinal Distance'] = df_nearbyshortlist['Longitudinal Distance'].round(2)
 		# Add a degree symbol to the values in the 'Longitudinal Distance' column
