@@ -1,0 +1,22 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+INSAT-KA89E,India 🇮🇳,89.0°E,Non-Planned,Early-Stage,No,n/a,No,0.21°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA89E&sel_satname=INSAT-KA89E&plan_id=
+INSAT-KA89ER,India 🇮🇳,89.0°E,Non-Planned,Early-Stage,No,n/a,No,0.21°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA89ER&sel_satname=INSAT-KA89ER&plan_id=
+TDRS 89E,United States 🇺🇸,89.0°E,Non-Planned,Late-Stage,Yes,No,No,0.21°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TDRS+89E&sel_satname=TDRS+89E&plan_id=
+F-SAT-P-30B-88.5E-F,France 🇫🇷,88.5°E,Planned,Early-Stage,No,n/a,No,0.29°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-P-30B-88.5E-F&sel_satname=F-SAT-P-30B-88.5E-F&plan_id=plan
+F-SAT-30B-88.5E,France 🇫🇷,88.5°E,Planned,Early-Stage,No,n/a,No,0.29°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-88.5E&sel_satname=F-SAT-30B-88.5E&plan_id=plan
+F-SAT-N7-88.5E,France 🇫🇷,88.5°E,Non-Planned,Early-Stage,No,n/a,No,0.29°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-88.5E&sel_satname=F-SAT-N7-88.5E&plan_id=
+ASIASAT-88.2Q,China 🇨🇳,88.2°E,Non-Planned,Early-Stage,No,n/a,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ASIASAT-88.2Q&sel_satname=ASIASAT-88.2Q&plan_id=
+RUS00002,Russian Federation 🇷🇺,88.1°E,Planned,Early-Stage,No,n/a,No,0.69°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=RUS00002&sel_satname=RUS00002&plan_id=plan
+KYPROS-ORION-2,Cyprus 🇨🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-ORION-2&sel_satname=KYPROS-ORION-2&plan_id=
+MEASAT-89.5E-21,Malaysia 🇲🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MEASAT-89.5E-21&sel_satname=MEASAT-89.5E-21&plan_id=
+ONETEL-89.5E,Cyprus 🇨🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ONETEL-89.5E&sel_satname=ONETEL-89.5E&plan_id=
+KYPROS-ORION,Cyprus 🇨🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=KYPROS-ORION&sel_satname=KYPROS-ORION&plan_id=
+ST-1A,Singapore 🇸🇬,88.0°E,Non-Planned,Late-Stage,Yes,No,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ST-1A&sel_satname=ST-1A&plan_id=
+DDSP-2,Australia 🇦🇺,88.0°E,Non-Planned,Late-Stage,Yes,No,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=DDSP-2&sel_satname=DDSP-2&plan_id=
+ST-2A-CK,Singapore 🇸🇬,88.0°E,Non-Planned,Early-Stage,No,n/a,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ST-2A-CK&sel_satname=ST-2A-CK&plan_id=
+ST-1A-CK,Singapore 🇸🇬,88.0°E,Non-Planned,Late-Stage,Yes,No,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ST-1A-CK&sel_satname=ST-1A-CK&plan_id=
+N-SAT-Y17-88E,Japan 🇯🇵,88.0°E,Non-Planned,Early-Stage,No,n/a,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=N-SAT-Y17-88E&sel_satname=N-SAT-Y17-88E&plan_id=
+ADF WEST-2,Australia 🇦🇺,88.0°E,Non-Planned,Late-Stage,Yes,No,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ADF+WEST-2&sel_satname=ADF+WEST-2&plan_id=
+ADF 88E IOR,Australia 🇦🇺,88.0°E,Non-Planned,Early-Stage,No,n/a,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ADF+88E+IOR&sel_satname=ADF+88E+IOR&plan_id=
+UKSAT-37,United Kingdom 🇬🇧,88.0°E,Non-Planned,Early-Stage,No,n/a,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UKSAT-37&sel_satname=UKSAT-37&plan_id=
+UKSAT-42,United Kingdom 🇬🇧,88.0°E,Non-Planned,Early-Stage,No,n/a,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UKSAT-42&sel_satname=UKSAT-42&plan_id=

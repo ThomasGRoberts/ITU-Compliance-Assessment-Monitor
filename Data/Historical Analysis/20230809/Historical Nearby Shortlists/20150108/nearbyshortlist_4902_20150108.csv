@@ -1,0 +1,5 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+MSAT,Canada 🇨🇦,106.5°W,Non-Planned,Late-Stage,Yes,No,No,0.46°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MSAT&sel_satname=MSAT&plan_id=
+MSAT,Canada 🇨🇦,106.5°W,Planned,Late-Stage,Yes,No,No,0.46°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MSAT&sel_satname=MSAT&plan_id=plan
+  ,Canada 🇨🇦,106.5°W,Planned,Early-Stage,No,n/a,No,0.46°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sel_ific=2959
+UKSAT-14,United Kingdom 🇬🇧,107.0°W,Non-Planned,Late-Stage,Yes,No,No,0.96°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=UKSAT-14&sel_satname=UKSAT-14&plan_id=

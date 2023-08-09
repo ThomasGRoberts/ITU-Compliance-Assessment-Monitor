@@ -1,0 +1,19 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+USGAE-23M,United States 🇺🇸,19.0°E,Non-Planned,Early-Stage,No,Partial,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGAE-23M&sel_satname=USGAE-23M&plan_id=
+CHNHTSAT-18.4E,China 🇨🇳,18.4°E,Non-Planned,Early-Stage,No,n/a,No,0.35°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-18.4E&sel_satname=CHNHTSAT-18.4E&plan_id=
+LUX-G6-5,Luxembourg 🇱🇺,19.2°E,Non-Planned,Early-Stage,No,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LUX-G6-5&sel_satname=LUX-G6-5&plan_id=
+LUX-G15-5,Luxembourg 🇱🇺,19.2°E,Non-Planned,Early-Stage,No,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G15-5&sel_satname=LUX-G15-5&plan_id=
+LUX-G14-5,Luxembourg 🇱🇺,19.2°E,Non-Planned,Early-Stage,No,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G14-5&sel_satname=LUX-G14-5&plan_id=
+GDL-7,Luxembourg 🇱🇺,19.2°E,Non-Planned,Late-Stage,Yes,No,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GDL-7&sel_satname=GDL-7&plan_id=
+LUX-G3-19.2E,Luxembourg 🇱🇺,19.2°E,Non-Planned,Late-Stage,Yes,No,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LUX-G3-19.2E&sel_satname=LUX-G3-19.2E&plan_id=
+GDL-6,Luxembourg 🇱🇺,19.2°E,Non-Planned,Late-Stage,Yes,No,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GDL-6&sel_satname=GDL-6&plan_id=
+GDL-6,Luxembourg 🇱🇺,19.2°E,Planned,Late-Stage,Yes,No,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GDL-6&sel_satname=GDL-6&plan_id=plan
+LUX-30B-5,Luxembourg 🇱🇺,19.2°E,Planned,Late-Stage,Yes,No,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LUX-30B-5&sel_satname=LUX-30B-5&plan_id=plan
+LUX-30B-G4-19.2E,Luxembourg 🇱🇺,19.2°E,Planned,Early-Stage,No,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LUX-30B-G4-19.2E&sel_satname=LUX-30B-G4-19.2E&plan_id=plan
+LUX-30B-G5-19.2E,Luxembourg 🇱🇺,19.2°E,Planned,Early-Stage,No,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=LUX-30B-G5-19.2E&sel_satname=LUX-30B-G5-19.2E&plan_id=plan
+LUX00000,Luxembourg 🇱🇺,19.2°E,Planned,Early-Stage,No,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=LUX00000&sel_satname=LUX00000&plan_id=plan
+CHNHTSAT-19.4E,China 🇨🇳,19.4°E,Non-Planned,Early-Stage,No,n/a,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-19.4E&sel_satname=CHNHTSAT-19.4E&plan_id=
+ITASAT-1C,Italy 🇮🇹,19.5°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ITASAT-1C&sel_satname=ITASAT-1C&plan_id=
+EGY-NS-18E,Egypt 🇪🇬,18.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EGY-NS-18E&sel_satname=EGY-NS-18E&plan_id=
+N-SAT-Y23-18E,Japan 🇯🇵,18.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=N-SAT-Y23-18E&sel_satname=N-SAT-Y23-18E&plan_id=
+SYR00000,Syrian Arab Republic 🇸🇾,18.0°E,Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SYR00000&sel_satname=SYR00000&plan_id=plan

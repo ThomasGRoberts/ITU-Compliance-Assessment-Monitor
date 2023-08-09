@@ -1,0 +1,31 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+CHINASAT-ROUTE1,China 🇨🇳,51.5°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CHINASAT-ROUTE1&sel_satname=CHINASAT-ROUTE1&plan_id=
+BLR-FSS-51.5E,Belarus 🇧🇾,51.5°E,Planned,Late-Stage,Yes,No,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=BLR-FSS-51.5E&sel_satname=BLR-FSS-51.5E&plan_id=plan
+BLR-FSS2-51.5E,Belarus 🇧🇾,51.5°E,Planned,Early-Stage,Yes,n/a,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=BLR-FSS2-51.5E&sel_satname=BLR-FSS2-51.5E&plan_id=plan
+TIBASAT-51.5E,Egypt 🇪🇬,51.5°E,Non-Planned,Early-Stage,No,n/a,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=TIBASAT-51.5E&sel_satname=TIBASAT-51.5E&plan_id=
+CHINASAT-51.5E,China 🇨🇳,51.5°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CHINASAT-51.5E&sel_satname=CHINASAT-51.5E&plan_id=
+CHINASAT-CL2,China 🇨🇳,51.5°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CHINASAT-CL2&sel_satname=CHINASAT-CL2&plan_id=
+USOBO-12B,United States 🇺🇸,51.5°E,Non-Planned,Early-Stage,No,n/a,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-12B&sel_satname=USOBO-12B&plan_id=
+USOBO-12C,United States 🇺🇸,51.5°E,Non-Planned,Early-Stage,No,n/a,No,0.14°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-12C&sel_satname=USOBO-12C&plan_id=
+INSAT-KA51.2E,India 🇮🇳,51.2°E,Non-Planned,Early-Stage,No,n/a,No,0.16°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA51.2E&sel_satname=INSAT-KA51.2E&plan_id=
+THAICOM-51_1,Thailand 🇹🇭,51.0°E,Non-Planned,Early-Stage,No,n/a,No,0.36°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=THAICOM-51_1&sel_satname=THAICOM-51_1&plan_id=
+OMANSAT-51E,Oman 🇴🇲,51.0°E,Non-Planned,Early-Stage,No,n/a,No,0.36°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=OMANSAT-51E&sel_satname=OMANSAT-51E&plan_id=
+THAICOM-51,Thailand 🇹🇭,51.0°E,Non-Planned,Early-Stage,No,n/a,No,0.36°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=THAICOM-51&sel_satname=THAICOM-51&plan_id=
+USAEGIS-51E,United States 🇺🇸,51.0°E,Non-Planned,Early-Stage,No,n/a,No,0.36°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USAEGIS-51E&sel_satname=USAEGIS-51E&plan_id=
+COD00000,Dem. Rep. of the Congo 🇨🇩,50.95°E,Planned,Early-Stage,No,n/a,No,0.41°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=COD00000&sel_satname=COD00000&plan_id=plan
+ARS00000,Saudi Arabia 🇸🇦,51.9°E,Planned,Early-Stage,No,n/a,No,0.54°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ARS00000&sel_satname=ARS00000&plan_id=plan
+MONASAT-52EC,Monaco 🇲🇨,52.0°E,Non-Planned,Early-Stage,No,n/a,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MONASAT-52EC&sel_satname=MONASAT-52EC&plan_id=
+MCO00000,Monaco 🇲🇨,52.0°E,Planned,Early-Stage,No,n/a,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MCO00000&sel_satname=MCO00000&plan_id=plan
+MCO-FSS-52EB,Monaco 🇲🇨,52.0°E,Planned,Early-Stage,No,n/a,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MCO-FSS-52EB&sel_satname=MCO-FSS-52EB&plan_id=plan
+MCO-FSS-52EA,Monaco 🇲🇨,52.0°E,Planned,Late-Stage,Yes,No,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MCO-FSS-52EA&sel_satname=MCO-FSS-52EA&plan_id=plan
+MONASAT-52EB,Monaco 🇲🇨,52.0°E,Non-Planned,Early-Stage,No,n/a,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MONASAT-52EB&sel_satname=MONASAT-52EB&plan_id=
+MCO-FSS-52EAP,Monaco 🇲🇨,52.0°E,Planned,Early-Stage,Yes,n/a,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MCO-FSS-52EAP&sel_satname=MCO-FSS-52EAP&plan_id=plan
+MONASAT-52EA,Monaco 🇲🇨,52.0°E,Non-Planned,Early-Stage,No,n/a,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MONASAT-52EA&sel_satname=MONASAT-52EA&plan_id=
+MCO-FSS-52EA TTC,Monaco 🇲🇨,52.0°E,Planned,Early-Stage,Yes,n/a,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MCO-FSS-52EA+TTC&sel_satname=MCO-FSS-52EA+TTC&plan_id=plan
+MCO-FSS-52E,Monaco 🇲🇨,52.0°E,Planned,Late-Stage,Yes,No,No,0.64°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MCO-FSS-52E&sel_satname=MCO-FSS-52E&plan_id=plan
+NSS-FSS 50.5E,Netherlands 🇳🇱,50.5°E,Planned,Early-Stage,No,n/a,No,0.86°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS+50.5E&sel_satname=NSS-FSS+50.5E&plan_id=plan
+NSS-G7-50.5E,Netherlands 🇳🇱,50.5°E,Non-Planned,Early-Stage,No,n/a,No,0.86°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-G7-50.5E&sel_satname=NSS-G7-50.5E&plan_id=
+NSS-G4-22,Netherlands 🇳🇱,50.5°E,Non-Planned,Late-Stage,Yes,Partial,No,0.86°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=NSS-G4-22&sel_satname=NSS-G4-22&plan_id=
+NSS-G2-16,Netherlands 🇳🇱,50.5°E,Non-Planned,Late-Stage,Yes,Partial,No,0.86°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=NSS-G2-16&sel_satname=NSS-G2-16&plan_id=
+THAICOM-N1,Thailand 🇹🇭,50.5°E,Non-Planned,Late-Stage,Yes,No,No,0.86°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=THAICOM-N1&sel_satname=THAICOM-N1&plan_id=
+THAICOM-C1,Thailand 🇹🇭,50.5°E,Non-Planned,Late-Stage,Yes,No,No,0.86°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=THAICOM-C1&sel_satname=THAICOM-C1&plan_id=

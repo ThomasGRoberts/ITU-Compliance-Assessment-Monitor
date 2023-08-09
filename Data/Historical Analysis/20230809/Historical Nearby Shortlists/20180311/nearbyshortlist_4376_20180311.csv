@@ -1,0 +1,18 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+FYGEOSAT-99.5E,China 🇨🇳,99.5°E,Non-Planned,Late-Stage,Yes,No,Total,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=FYGEOSAT-99.5E&sel_satname=FYGEOSAT-99.5E&plan_id=
+FYGEOSAT-A-99.5E,China 🇨🇳,99.5°E,Non-Planned,Early-Stage,No,n/a,No,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=FYGEOSAT-A-99.5E&sel_satname=FYGEOSAT-A-99.5E&plan_id=
+USLL-PAC4,United States 🇺🇸,100.0°E,Non-Planned,Late-Stage,Yes,No,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USLL-PAC4&sel_satname=USLL-PAC4&plan_id=
+FLTSATCOM-A INDOC-4,United States 🇺🇸,100.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=FLTSATCOM-A+INDOC-4&sel_satname=FLTSATCOM-A+INDOC-4&plan_id=
+USNN-4,United States 🇺🇸,100.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USNN-4&sel_satname=USNN-4&plan_id=
+NSS-TTC-100E,Netherlands 🇳🇱,100.0°E,Non-Planned,Early-Stage,No,n/a,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-TTC-100E&sel_satname=NSS-TTC-100E&plan_id=
+QATARSAT-G5-99E,Qatar 🇶🇦,99.0°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=QATARSAT-G5-99E&sel_satname=QATARSAT-G5-99E&plan_id=
+QATARSAT-30B-99E,Qatar 🇶🇦,99.0°E,Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-99E&sel_satname=QATARSAT-30B-99E&plan_id=plan
+QATARSAT-30B-99E-G2,Qatar 🇶🇦,99.0°E,Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-99E-G2&sel_satname=QATARSAT-30B-99E-G2&plan_id=plan
+QATARSAT-G3-24,Qatar 🇶🇦,99.0°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=QATARSAT-G3-24&sel_satname=QATARSAT-G3-24&plan_id=
+ASIASAT-EKS,China 🇨🇳,100.5°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ASIASAT-EKS&sel_satname=ASIASAT-EKS&plan_id=
+ASIASAT-EKZ,China 🇨🇳,100.5°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ASIASAT-EKZ&sel_satname=ASIASAT-EKZ&plan_id=
+ASIASAT-100.5P,China 🇨🇳,100.5°E,Non-Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ASIASAT-100.5P&sel_satname=ASIASAT-100.5P&plan_id=
+ASIASAT-100.5Q,China 🇨🇳,100.5°E,Non-Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ASIASAT-100.5Q&sel_satname=ASIASAT-100.5Q&plan_id=
+ASIASAT-E,China 🇨🇳,100.5°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ASIASAT-E&sel_satname=ASIASAT-E&plan_id=
+ASIASAT-EKX,China 🇨🇳,100.5°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ASIASAT-EKX&sel_satname=ASIASAT-EKX&plan_id=
+ASIASAT-EK1,China 🇨🇳,100.5°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ASIASAT-EK1&sel_satname=ASIASAT-EK1&plan_id=

@@ -1,0 +1,31 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+MEASAT-89.5E-21,Malaysia 🇲🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MEASAT-89.5E-21&sel_satname=MEASAT-89.5E-21&plan_id=
+KYPROS-ORION-2,Cyprus 🇨🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-ORION-2&sel_satname=KYPROS-ORION-2&plan_id=
+KYPROS-ORION,Cyprus 🇨🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=KYPROS-ORION&sel_satname=KYPROS-ORION&plan_id=
+ONETEL-89.5E,Cyprus 🇨🇾,89.5°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ONETEL-89.5E&sel_satname=ONETEL-89.5E&plan_id=
+CNSAT-89.8E,China 🇨🇳,89.8°E,Non-Planned,Early-Stage,No,n/a,No,0.20°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CNSAT-89.8E&sel_satname=CNSAT-89.8E&plan_id=
+STARTIME-3,China 🇨🇳,89.8°E,Non-Planned,Early-Stage,No,n/a,No,0.20°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=STARTIME-3&sel_satname=STARTIME-3&plan_id=
+EXPRESS-7B,Russian Federation 🇷🇺,90.0°E,Non-Planned,Late-Stage,Yes,No,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EXPRESS-7B&sel_satname=EXPRESS-7B&plan_id=
+EDRS-90,France 🇫🇷,90.0°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=A&sat_name=EDRS-90&sel_satname=EDRS-90&plan_id=
+MILSTAR 5,United States 🇺🇸,90.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MILSTAR+5&sel_satname=MILSTAR+5&plan_id=
+EXPRESS-7,Russian Federation 🇷🇺,90.0°E,Non-Planned,Late-Stage,Yes,No,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EXPRESS-7&sel_satname=EXPRESS-7&plan_id=
+YAMAL-PK4,Russian Federation 🇷🇺,90.0°E,Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=YAMAL-PK4&sel_satname=YAMAL-PK4&plan_id=plan
+USTRO-7,United States 🇺🇸,90.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USTRO-7&sel_satname=USTRO-7&plan_id=
+ONETEL-90E,Cyprus 🇨🇾,90.0°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ONETEL-90E&sel_satname=ONETEL-90E&plan_id=
+EXPRESS-7C,Russian Federation 🇷🇺,90.0°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EXPRESS-7C&sel_satname=EXPRESS-7C&plan_id=
+LOUTCH-3,Russian Federation 🇷🇺,90.0°E,Non-Planned,Late-Stage,Yes,No,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LOUTCH-3&sel_satname=LOUTCH-3&plan_id=
+STATSIONAR-6,Russian Federation 🇷🇺,90.0°E,Non-Planned,Late-Stage,Yes,No,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=STATSIONAR-6&sel_satname=STATSIONAR-6&plan_id=
+YAMAL-KA2M,Russian Federation 🇷🇺,90.0°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=YAMAL-KA2M&sel_satname=YAMAL-KA2M&plan_id=
+YAMAL-FSS-90E,Russian Federation 🇷🇺,90.0°E,Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=YAMAL-FSS-90E&sel_satname=YAMAL-FSS-90E&plan_id=plan
+YAMAL-90E-1,Russian Federation 🇷🇺,90.0°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=YAMAL-90E-1&sel_satname=YAMAL-90E-1&plan_id=
+USGAE-3B,United States 🇺🇸,90.0°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USGAE-3B&sel_satname=USGAE-3B&plan_id=
+VOLNA-8,Russian Federation 🇷🇺,90.0°E,Non-Planned,Late-Stage,Yes,No,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=VOLNA-8&sel_satname=VOLNA-8&plan_id=
+GC-11B,China 🇨🇳,90.0°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GC-11B&sel_satname=GC-11B&plan_id=
+TDRS 89E,United States 🇺🇸,89.0°E,Non-Planned,Late-Stage,Yes,No,No,0.60°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TDRS+89E&sel_satname=TDRS+89E&plan_id=
+INSAT-KA89E,India 🇮🇳,89.0°E,Non-Planned,Early-Stage,No,n/a,No,0.60°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA89E&sel_satname=INSAT-KA89E&plan_id=
+INSAT-KA89ER,India 🇮🇳,89.0°E,Non-Planned,Early-Stage,No,n/a,No,0.60°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA89ER&sel_satname=INSAT-KA89ER&plan_id=
+CHNHTSAT-90.3E,China 🇨🇳,90.3°E,Non-Planned,Early-Stage,No,n/a,No,0.70°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-90.3E&sel_satname=CHNHTSAT-90.3E&plan_id=
+QZSS-GS-A1,Japan 🇯🇵,90.5°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=QZSS-GS-A1&sel_satname=QZSS-GS-A1&plan_id=
+INSAT-EXC(90.5E),India 🇮🇳,90.5°E,Planned,Early-Stage,No,n/a,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=INSAT-EXC(90.5E)&sel_satname=INSAT-EXC(90.5E)&plan_id=plan
+QZSS-GS-ISR1,Japan 🇯🇵,90.5°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=QZSS-GS-ISR1&sel_satname=QZSS-GS-ISR1&plan_id=
+MOZ00000,Mozambique 🇲🇿,90.6°E,Planned,Early-Stage,No,n/a,No,1.00°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MOZ00000&sel_satname=MOZ00000&plan_id=plan

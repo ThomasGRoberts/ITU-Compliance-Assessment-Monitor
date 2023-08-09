@@ -1,0 +1,17 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+DEF-R-SAT-4B 121.0E,Australia 🇦🇺,121.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=DEF-R-SAT-4B+121.0E&sel_satname=DEF-R-SAT-4B+121.0E&plan_id=
+MADAR-121E,United Arab Emirates 🇦🇪,121.0°E,Non-Planned,Early-Stage,No,n/a,No,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-121E&sel_satname=MADAR-121E&plan_id=
+KYPROS-121.25E,Cyprus 🇨🇾,121.25°E,Non-Planned,Early-Stage,No,n/a,No,0.27°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-121.25E&sel_satname=KYPROS-121.25E&plan_id=
+THA00000,Thailand 🇹🇭,120.6°E,Planned,Early-Stage,No,n/a,No,0.38°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=THA00000&sel_satname=THA00000&plan_id=plan
+DSAT-E121.5,Germany 🇩🇪,121.5°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=A&sat_name=DSAT-E121.5&sel_satname=DSAT-E121.5&plan_id=
+CLN00000,Sri Lanka 🇱🇰,121.5°E,Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CLN00000&sel_satname=CLN00000&plan_id=plan
+ASIASAT-121.9Q,China 🇨🇳,121.9°E,Non-Planned,Early-Stage,No,n/a,No,0.92°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ASIASAT-121.9Q&sel_satname=ASIASAT-121.9Q&plan_id=
+ASIASAT-30B-120,China 🇨🇳,120.0°E,Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ASIASAT-30B-120&sel_satname=ASIASAT-30B-120&plan_id=plan
+THAICOM-A3,Thailand 🇹🇭,120.0°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=THAICOM-A3&sel_satname=THAICOM-A3&plan_id=
+THAICOM-N3,Thailand 🇹🇭,120.0°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=THAICOM-N3&sel_satname=THAICOM-N3&plan_id=
+THAICOM-A3B,Thailand 🇹🇭,120.0°E,Non-Planned,Late-Stage,Yes,No,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=THAICOM-A3B&sel_satname=THAICOM-A3B&plan_id=
+ASIASAT-120V,China 🇨🇳,120.0°E,Non-Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ASIASAT-120V&sel_satname=ASIASAT-120V&plan_id=
+DFH-5-04B,China 🇨🇳,120.0°E,Non-Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=DFH-5-04B&sel_satname=DFH-5-04B&plan_id=
+NUSANTARA-WD2-A,Indonesia 🇮🇩,120.0°E,Non-Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NUSANTARA-WD2-A&sel_satname=NUSANTARA-WD2-A&plan_id=
+ASIASAT-120P,China 🇨🇳,120.0°E,Non-Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ASIASAT-120P&sel_satname=ASIASAT-120P&plan_id=
+THAISAT-120E,Thailand 🇹🇭,120.0°E,Non-Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=THAISAT-120E&sel_satname=THAISAT-120E&plan_id=

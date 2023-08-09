@@ -1,0 +1,28 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+PAKSAT-MM1-38.2E-KA1,Pakistan 🇵🇰,38.2°E,Non-Planned,Early-Stage,No,n/a,No,0.04°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PAKSAT-MM1-38.2E-KA1&sel_satname=PAKSAT-MM1-38.2E-KA1&plan_id=
+PAKSAT-MM1-38.2E-KA,Pakistan 🇵🇰,38.2°E,Non-Planned,Early-Stage,No,n/a,No,0.04°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PAKSAT-MM1-38.2E-KA&sel_satname=PAKSAT-MM1-38.2E-KA&plan_id=
+UKR00001,Ukraine 🇺🇦,38.2°E,Planned,Early-Stage,No,n/a,No,0.04°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=UKR00001&sel_satname=UKR00001&plan_id=plan
+PAKSAT-MM1-38.2E-30B,Pakistan 🇵🇰,38.2°E,Planned,Early-Stage,No,n/a,No,0.04°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=PAKSAT-MM1-38.2E-30B&sel_satname=PAKSAT-MM1-38.2E-30B&plan_id=plan
+PAKSAT-MM1-38.2E,Pakistan 🇵🇰,38.2°E,Non-Planned,Late-Stage,Yes,No,No,0.04°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PAKSAT-MM1-38.2E&sel_satname=PAKSAT-MM1-38.2E&plan_id=
+PAKSAT-MM1-38.2E-FSS,Pakistan 🇵🇰,38.2°E,Planned,Early-Stage,No,n/a,No,0.04°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=PAKSAT-MM1-38.2E-FSS&sel_satname=PAKSAT-MM1-38.2E-FSS&plan_id=plan
+PAKSAT-1R1,Pakistan 🇵🇰,38.0°E,Non-Planned,Late-Stage,Yes,No,No,0.16°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PAKSAT-1R1&sel_satname=PAKSAT-1R1&plan_id=
+ITS-38E-N,China 🇨🇳,38.0°E,Non-Planned,Early-Stage,No,n/a,No,0.16°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ITS-38E-N&sel_satname=ITS-38E-N&plan_id=
+PAKSAT-1,Pakistan 🇵🇰,38.0°E,Non-Planned,Late-Stage,Yes,No,No,0.16°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PAKSAT-1&sel_satname=PAKSAT-1&plan_id=
+ATHENA-FIDUS-38E,France 🇫🇷,38.0°E,Non-Planned,Late-Stage,Yes,No,No,0.16°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ATHENA-FIDUS-38E&sel_satname=ATHENA-FIDUS-38E&plan_id=
+PAKSAT-1R,Pakistan 🇵🇰,38.0°E,Non-Planned,Late-Stage,Yes,No,No,0.16°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PAKSAT-1R&sel_satname=PAKSAT-1R&plan_id=
+FMS5-37.5E,France 🇫🇷,37.5°E,Non-Planned,Early-Stage,No,n/a,No,0.66°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=FMS5-37.5E&sel_satname=FMS5-37.5E&plan_id=
+KYPROS-SAT-C,Cyprus 🇨🇾,39.0°E,Non-Planned,Late-Stage,Yes,No,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=KYPROS-SAT-C&sel_satname=KYPROS-SAT-C&plan_id=
+INMARSAT-S4-R,United Kingdom 🇬🇧,39.0°E,Non-Planned,Early-Stage,Yes,Partial,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INMARSAT-S4-R&sel_satname=INMARSAT-S4-R&plan_id=
+HELLAS-SAT-C,Greece 🇬🇷,39.0°E,Non-Planned,Early-Stage,No,n/a,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HELLAS-SAT-C&sel_satname=HELLAS-SAT-C&plan_id=
+HELLAS-SAT-2G,Greece 🇬🇷,39.0°E,Non-Planned,Late-Stage,Yes,No,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=HELLAS-SAT-2G&sel_satname=HELLAS-SAT-2G&plan_id=
+KYPROS-SAT-L4,Cyprus 🇨🇾,39.0°E,Non-Planned,Late-Stage,Yes,No,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=KYPROS-SAT-L4&sel_satname=KYPROS-SAT-L4&plan_id=
+HELLAS-SAT,Greece 🇬🇷,39.0°E,Non-Planned,Late-Stage,Yes,No,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=HELLAS-SAT&sel_satname=HELLAS-SAT&plan_id=
+KYPROS-SAT-5,Cyprus 🇨🇾,39.0°E,Non-Planned,Late-Stage,Yes,No,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=KYPROS-SAT-5&sel_satname=KYPROS-SAT-5&plan_id=
+HELLAS-SAT-4G,Greece 🇬🇷,39.0°E,Planned,Early-Stage,No,n/a,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HELLAS-SAT-4G&sel_satname=HELLAS-SAT-4G&plan_id=plan
+HELLAS-SAT-3G,Greece 🇬🇷,39.0°E,Planned,Late-Stage,Yes,No,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=HELLAS-SAT-3G&sel_satname=HELLAS-SAT-3G&plan_id=plan
+KYPROS-SAT-3,Cyprus 🇨🇾,39.0°E,Planned,Late-Stage,Yes,No,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=KYPROS-SAT-3&sel_satname=KYPROS-SAT-3&plan_id=plan
+GAB00000,Gabon 🇬🇦,39.0°E,Planned,Early-Stage,No,n/a,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=GAB00000&sel_satname=GAB00000&plan_id=plan
+KYPROS-SAT-7,Cyprus 🇨🇾,39.0°E,Non-Planned,Early-Stage,Yes,n/a,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-SAT-7&sel_satname=KYPROS-SAT-7&plan_id=
+KYPROS-SAT-6,Cyprus 🇨🇾,39.0°E,Planned,Early-Stage,No,n/a,No,0.84°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=KYPROS-SAT-6&sel_satname=KYPROS-SAT-6&plan_id=plan
+D  00002,Germany 🇩🇪,37.2°E,Planned,Early-Stage,No,n/a,No,0.96°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=D++00002&sel_satname=D++00002&plan_id=plan
+CANGYU-2,China 🇨🇳,37.2°E,Non-Planned,Early-Stage,No,n/a,No,0.96°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CANGYU-2&sel_satname=CANGYU-2&plan_id=

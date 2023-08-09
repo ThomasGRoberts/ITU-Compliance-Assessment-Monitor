@@ -1,0 +1,12 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+SYR00000,Syrian Arab Republic 🇸🇾,18.0°E,Planned,Early-Stage,No,n/a,No,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SYR00000&sel_satname=SYR00000&plan_id=plan
+EGY-NS-18E,Egypt 🇪🇬,18.0°E,Non-Planned,Early-Stage,No,n/a,No,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EGY-NS-18E&sel_satname=EGY-NS-18E&plan_id=
+N-SAT-Y23-18E,Japan 🇯🇵,18.0°E,Non-Planned,Early-Stage,No,n/a,No,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=N-SAT-Y23-18E&sel_satname=N-SAT-Y23-18E&plan_id=
+CHNHTSAT-18.4E,China 🇨🇳,18.4°E,Non-Planned,Early-Stage,No,n/a,No,0.38°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-18.4E&sel_satname=CHNHTSAT-18.4E&plan_id=
+H2M-17.6E,Germany 🇩🇪,17.6°E,Non-Planned,Early-Stage,No,n/a,No,0.42°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=H2M-17.6E&sel_satname=H2M-17.6E&plan_id=
+RRW00000,Rwanda 🇷🇼,17.6°E,Planned,Early-Stage,No,n/a,No,0.42°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=RRW00000&sel_satname=RRW00000&plan_id=plan
+H2SAT-17.6E,Germany 🇩🇪,17.6°E,Non-Planned,Early-Stage,No,n/a,No,0.42°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=A&sat_name=H2SAT-17.6E&sel_satname=H2SAT-17.6E&plan_id=
+H2M-TNG-17.6E,Germany 🇩🇪,17.6°E,Non-Planned,Early-Stage,No,n/a,No,0.42°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=H2M-TNG-17.6E&sel_satname=H2M-TNG-17.6E&plan_id=
+UK-KA-17.5E,United Kingdom 🇬🇧,17.5°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-17.5E&sel_satname=UK-KA-17.5E&plan_id=
+UK-KA-17.5E-VB,United Kingdom 🇬🇧,17.5°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-17.5E-VB&sel_satname=UK-KA-17.5E-VB&plan_id=
+USGAE-23M,United States 🇺🇸,19.0°E,Non-Planned,Early-Stage,Yes,Partial,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGAE-23M&sel_satname=USGAE-23M&plan_id=

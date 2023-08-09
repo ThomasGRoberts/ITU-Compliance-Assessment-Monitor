@@ -1,0 +1,9 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+FYGEOSAT-A-112E,China 🇨🇳,112.0°E,Non-Planned,Early-Stage,No,n/a,No,0.03°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=FYGEOSAT-A-112E&sel_satname=FYGEOSAT-A-112E&plan_id=
+FYGEOSAT-112E,China 🇨🇳,112.0°E,Non-Planned,Late-Stage,Yes,No,No,0.03°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=FYGEOSAT-112E&sel_satname=FYGEOSAT-112E&plan_id=
+MADAR-112E,United Arab Emirates 🇦🇪,112.0°E,Non-Planned,Early-Stage,No,n/a,No,0.03°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-112E&sel_satname=MADAR-112E&plan_id=
+INSAT-KU17(111.5E),India 🇮🇳,111.5°E,Non-Planned,Early-Stage,No,n/a,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KU17(111.5E)&sel_satname=INSAT-KU17(111.5E)&plan_id=
+INSAT-KA111.5E,India 🇮🇳,111.5°E,Non-Planned,Early-Stage,No,n/a,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA111.5E&sel_satname=INSAT-KA111.5E&plan_id=
+BRM00000,Myanmar 🇲🇲,111.5°E,Planned,Early-Stage,No,n/a,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=BRM00000&sel_satname=BRM00000&plan_id=plan
+INSAT-KU10(111.5)E,India 🇮🇳,111.5°E,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INSAT-KU10(111.5)E&sel_satname=INSAT-KU10(111.5)E&plan_id=
+USGAE-12M,United States 🇺🇸,111.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.97°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGAE-12M&sel_satname=USGAE-12M&plan_id=

@@ -1,0 +1,18 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+S2-N,Saudi Arabia 🇸🇦,41.0°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=S2-N&sel_satname=S2-N&plan_id=
+AZERSAT-41E,Azerbaijan 🇦🇿,41.0°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AZERSAT-41E&sel_satname=AZERSAT-41E&plan_id=
+TIBASAT-40.5E,Egypt 🇪🇬,40.5°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=TIBASAT-40.5E&sel_satname=TIBASAT-40.5E&plan_id=
+GENESIS-20,Germany 🇩🇪,40.5°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GENESIS-20&sel_satname=GENESIS-20&plan_id=
+IRANSAT-40.5E,Iran (Islamic Republic of) 🇮🇷,40.5°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IRANSAT-40.5E&sel_satname=IRANSAT-40.5E&plan_id=
+SIGNSAT-40E,China 🇨🇳,40.3°E,Non-Planned,Early-Stage,No,n/a,No,0.60°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-40E&sel_satname=SIGNSAT-40E&plan_id=
+SIGNSAT-41E,China 🇨🇳,41.5°E,Non-Planned,Early-Stage,No,n/a,No,0.60°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-41E&sel_satname=SIGNSAT-41E&plan_id=
+IK-40.2E,Russian Federation 🇷🇺,40.2°E,Non-Planned,Early-Stage,No,n/a,No,0.70°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IK-40.2E&sel_satname=IK-40.2E&plan_id=
+EXPRESS-4P,Russian Federation 🇷🇺,40.0°E,Planned,Late-Stage,Yes,No,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EXPRESS-4P&sel_satname=EXPRESS-4P&plan_id=plan
+GNB00000,Guinea-Bissau 🇬🇼,40.0°E,Planned,Early-Stage,No,n/a,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=GNB00000&sel_satname=GNB00000&plan_id=plan
+EXPRESS-4,Russian Federation 🇷🇺,40.0°E,Non-Planned,Late-Stage,Yes,No,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EXPRESS-4&sel_satname=EXPRESS-4&plan_id=
+VOLNA-4R,Russian Federation 🇷🇺,40.0°E,Non-Planned,Late-Stage,Yes,No,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=VOLNA-4R&sel_satname=VOLNA-4R&plan_id=
+EXPRESS-4B,Russian Federation 🇷🇺,40.0°E,Non-Planned,Late-Stage,Yes,No,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EXPRESS-4B&sel_satname=EXPRESS-4B&plan_id=
+MADAR-40E,United Arab Emirates 🇦🇪,40.0°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-40E&sel_satname=MADAR-40E&plan_id=
+CHNNEWSAT-G1-40E,China 🇨🇳,40.0°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-40E&sel_satname=CHNNEWSAT-G1-40E&plan_id=
+INSAT-KA41.8E,India 🇮🇳,41.8°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA41.8E&sel_satname=INSAT-KA41.8E&plan_id=
+NIG00000,Nigeria 🇳🇬,41.82°E,Planned,Early-Stage,No,n/a,No,0.92°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NIG00000&sel_satname=NIG00000&plan_id=plan

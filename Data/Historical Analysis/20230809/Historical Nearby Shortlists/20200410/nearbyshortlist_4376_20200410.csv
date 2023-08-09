@@ -1,0 +1,28 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+VOLNA-15,Russian Federation 🇷🇺,8.0°E,Non-Planned,Late-Stage,Yes,No,No,0.13°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=VOLNA-15&sel_satname=VOLNA-15&plan_id=
+GALS-7,Russian Federation 🇷🇺,8.0°E,Non-Planned,Late-Stage,Yes,No,No,0.13°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GALS-7&sel_satname=GALS-7&plan_id=
+TOR-8M,Russian Federation 🇷🇺,8.0°E,Non-Planned,Late-Stage,Yes,No,No,0.13°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TOR-8M&sel_satname=TOR-8M&plan_id=
+STATSIONAR-18,Russian Federation 🇷🇺,8.0°E,Non-Planned,Late-Stage,Yes,No,No,0.13°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=STATSIONAR-18&sel_satname=STATSIONAR-18&plan_id=
+RGS-S-8E,Russian Federation 🇷🇺,8.0°E,Non-Planned,Early-Stage,No,n/a,No,0.13°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=RGS-S-8E&sel_satname=RGS-S-8E&plan_id=
+CME00000,Cameroon 🇨🇲,7.98°E,Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CME00000&sel_satname=CME00000&plan_id=plan
+TUR00000,Türkiye 🇹🇷,8.5°E,Planned,Early-Stage,No,n/a,No,0.37°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=TUR00000&sel_satname=TUR00000&plan_id=plan
+USOBO-16C,United States 🇺🇸,8.5°E,Non-Planned,Early-Stage,No,n/a,No,0.37°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-16C&sel_satname=USOBO-16C&plan_id=
+USGON-2,United States 🇺🇸,8.5°E,Non-Planned,Late-Stage,Yes,No,No,0.37°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGON-2&sel_satname=USGON-2&plan_id=
+USOBO-16B,United States 🇺🇸,8.5°E,Non-Planned,Early-Stage,No,n/a,No,0.37°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-16B&sel_satname=USOBO-16B&plan_id=
+F-SAT-30B-9E,France 🇫🇷,9.0°E,Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-9E&sel_satname=F-SAT-30B-9E&plan_id=plan
+UK-KA-9E-VB,United Kingdom 🇬🇧,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-9E-VB&sel_satname=UK-KA-9E-VB&plan_id=
+MADAR-9E-2,United Arab Emirates 🇦🇪,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-9E-2&sel_satname=MADAR-9E-2&plan_id=
+F-SAT-N7-9E,France 🇫🇷,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-9E&sel_satname=F-SAT-N7-9E&plan_id=
+EDRS-1,France 🇫🇷,9.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EDRS-1&sel_satname=EDRS-1&plan_id=
+F-SAT-E-30B-9E,France 🇫🇷,9.0°E,Planned,Early-Stage,Yes,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-E-30B-9E&sel_satname=F-SAT-E-30B-9E&plan_id=plan
+F-SAT-30B,France 🇫🇷,9.0°E,Planned,Late-Stage,Yes,No,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-30B&sel_satname=F-SAT-30B&plan_id=plan
+F-SAT-KA-E-9E,France 🇫🇷,9.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-KA-E-9E&sel_satname=F-SAT-KA-E-9E&plan_id=
+CHE-SAT-9E,Switzerland 🇨🇭,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHE-SAT-9E&sel_satname=CHE-SAT-9E&plan_id=
+F-SAT-N5-9E,France 🇫🇷,9.0°E,Non-Planned,Early-Stage,Yes,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-N5-9E&sel_satname=F-SAT-N5-9E&plan_id=
+CYP-SAT-KM-9E,Cyprus 🇨🇾,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CYP-SAT-KM-9E&sel_satname=CYP-SAT-KM-9E&plan_id=
+F-SAT-T-E-9E,France 🇫🇷,9.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-T-E-9E&sel_satname=F-SAT-T-E-9E&plan_id=
+F-SAT-N10-9E,France 🇫🇷,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N10-9E&sel_satname=F-SAT-N10-9E&plan_id=
+F-SAT-N3-9E,France 🇫🇷,9.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-N3-9E&sel_satname=F-SAT-N3-9E&plan_id=
+MADAR-9E,United Arab Emirates 🇦🇪,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-9E&sel_satname=MADAR-9E&plan_id=
+UK-KA-9E,United Kingdom 🇬🇧,9.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-9E&sel_satname=UK-KA-9E&plan_id=
+F-SAT-N7-7.2E,France 🇫🇷,7.2°E,Non-Planned,Early-Stage,No,n/a,No,0.93°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-7.2E&sel_satname=F-SAT-N7-7.2E&plan_id=

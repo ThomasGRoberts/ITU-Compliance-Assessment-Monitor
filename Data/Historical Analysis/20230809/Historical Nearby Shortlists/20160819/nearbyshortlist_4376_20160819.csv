@@ -1,0 +1,15 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+CHNNEWSAT-G1-2W,China 🇨🇳,2.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-2W&sel_satname=CHNNEWSAT-G1-2W&plan_id=
+SIGNSAT-2W,China 🇨🇳,2.4°W,Non-Planned,Early-Stage,No,n/a,No,0.41°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-2W&sel_satname=SIGNSAT-2W&plan_id=
+MADAR-1.5W,United Arab Emirates 🇦🇪,1.5°W,Non-Planned,Early-Stage,No,n/a,No,0.49°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-1.5W&sel_satname=MADAR-1.5W&plan_id=
+SKYNET-5B-KA3,United Kingdom 🇬🇧,1.0°W,Non-Planned,Early-Stage,No,n/a,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SKYNET-5B-KA3&sel_satname=SKYNET-5B-KA3&plan_id=
+ODYSSEY-359E-1,Germany 🇩🇪,1.0°W,Non-Planned,Early-Stage,No,n/a,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ODYSSEY-359E-1&sel_satname=ODYSSEY-359E-1&plan_id=
+USASAT-55J,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USASAT-55J&sel_satname=USASAT-55J&plan_id=
+INTELSAT8 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT8+359E&sel_satname=INTELSAT8+359E&plan_id=
+INTELSAT10 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT10+359E&sel_satname=INTELSAT10+359E&plan_id=
+SKYNET-5B,United Kingdom 🇬🇧,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=SKYNET-5B&sel_satname=SKYNET-5B&plan_id=
+ODYSSEY FSS-1W,Germany 🇩🇪,1.0°W,Planned,Early-Stage,No,n/a,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ODYSSEY+FSS-1W&sel_satname=ODYSSEY+FSS-1W&plan_id=plan
+SKYNET-4A,United Kingdom 🇬🇧,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=SKYNET-4A&sel_satname=SKYNET-4A&plan_id=
+INTELSAT7 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT7+359E&sel_satname=INTELSAT7+359E&plan_id=
+SKYNET-4J,United Kingdom 🇬🇧,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=SKYNET-4J&sel_satname=SKYNET-4J&plan_id=
+INTELSAT9 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.99°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT9+359E&sel_satname=INTELSAT9+359E&plan_id=

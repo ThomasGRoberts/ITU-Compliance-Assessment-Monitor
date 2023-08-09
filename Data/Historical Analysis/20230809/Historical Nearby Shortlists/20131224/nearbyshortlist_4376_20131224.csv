@@ -1,0 +1,18 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+IRQ00000,Iraq 🇮🇶,65.45°E,Planned,Early-Stage,No,n/a,No,0.00°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=IRQ00000&sel_satname=IRQ00000&plan_id=plan
+ZWE00000,Zimbabwe 🇿🇼,65.6°E,Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ZWE00000&sel_satname=ZWE00000&plan_id=plan
+AMS-30B-65E,Israel 🇮🇱,65.0°E,Planned,Early-Stage,No,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=AMS-30B-65E&sel_satname=AMS-30B-65E&plan_id=plan
+AMS-4-65E,Israel 🇮🇱,65.0°E,Non-Planned,Early-Stage,Yes,n/a,No,0.45°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=AMS-4-65E&sel_satname=AMS-4-65E&plan_id=
+USOBO-6B,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,Partial,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USOBO-6B&sel_satname=USOBO-6B&plan_id=
+INTELSAT7 66E,United States 🇺🇸,66.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT7+66E&sel_satname=INTELSAT7+66E&plan_id=
+INTELSAT9 66E,United States 🇺🇸,66.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT9+66E&sel_satname=INTELSAT9+66E&plan_id=
+USASAT-55Q,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,Partial,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USASAT-55Q&sel_satname=USASAT-55Q&plan_id=
+USOBO-6C,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-6C&sel_satname=USOBO-6C&plan_id=
+ODYSSEY-66E,Germany 🇩🇪,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ODYSSEY-66E&sel_satname=ODYSSEY-66E&plan_id=
+SECOMSAT-2-66E,Spain 🇪🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-2-66E&sel_satname=SECOMSAT-2-66E&plan_id=
+SECOMSAT-1-66E,Spain 🇪🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-1-66E&sel_satname=SECOMSAT-1-66E&plan_id=
+USASAT-61C,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-61C&sel_satname=USASAT-61C&plan_id=
+KGZ00000,Kyrgyzstan 🇰🇬,64.6°E,Planned,Early-Stage,No,n/a,No,0.85°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=KGZ00000&sel_satname=KGZ00000&plan_id=plan
+QATARSAT-30B-64.5E-G2,Qatar 🇶🇦,64.5°E,Planned,Early-Stage,No,n/a,No,0.95°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-64.5E-G2&sel_satname=QATARSAT-30B-64.5E-G2&plan_id=plan
+QATARSAT-30B-64.5E,Qatar 🇶🇦,64.5°E,Planned,Early-Stage,No,n/a,No,0.95°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-64.5E&sel_satname=QATARSAT-30B-64.5E&plan_id=plan
+ITS-AR-64.5E,China 🇨🇳,64.5°E,Non-Planned,Early-Stage,No,n/a,No,0.95°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ITS-AR-64.5E&sel_satname=ITS-AR-64.5E&plan_id=

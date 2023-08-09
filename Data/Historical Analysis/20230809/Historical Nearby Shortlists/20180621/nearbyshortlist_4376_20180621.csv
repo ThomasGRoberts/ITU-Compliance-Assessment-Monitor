@@ -1,0 +1,21 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+INSAT-NAV-GSO3(129.5E),India 🇮🇳,129.5°E,Non-Planned,Early-Stage,No,n/a,No,0.07°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-NAV-GSO3(129.5E)&sel_satname=INSAT-NAV-GSO3(129.5E)&plan_id=
+VTN129.5,Viet Nam 🇻🇳,129.5°E,Non-Planned,Early-Stage,No,n/a,No,0.07°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=VTN129.5&sel_satname=VTN129.5&plan_id=
+INSAT-NAVR(129.5),India 🇮🇳,129.5°E,Non-Planned,Late-Stage,Yes,No,No,0.07°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INSAT-NAVR(129.5)&sel_satname=INSAT-NAVR(129.5)&plan_id=
+INSAT-EHFL-129.5E,India 🇮🇳,129.5°E,Non-Planned,Early-Stage,No,n/a,No,0.07°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-EHFL-129.5E&sel_satname=INSAT-EHFL-129.5E&plan_id=
+INSAT-EXC(129.5E),India 🇮🇳,129.5°E,Planned,Early-Stage,Yes,n/a,No,0.07°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INSAT-EXC(129.5E)&sel_satname=INSAT-EXC(129.5E)&plan_id=plan
+CHNSAT-M-130E,China 🇨🇳,130.0°E,Non-Planned,Early-Stage,No,n/a,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNSAT-M-130E&sel_satname=CHNSAT-M-130E&plan_id=
+CHINASAT-4,China 🇨🇳,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CHINASAT-4&sel_satname=CHINASAT-4&plan_id=
+GALS-5,Russian Federation 🇷🇺,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GALS-5&sel_satname=GALS-5&plan_id=
+TOR-10M,Russian Federation 🇷🇺,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TOR-10M&sel_satname=TOR-10M&plan_id=
+GALS-M-5,Russian Federation 🇷🇺,130.0°E,Non-Planned,Early-Stage,No,n/a,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GALS-M-5&sel_satname=GALS-M-5&plan_id=
+PROGNOZ-5,Russian Federation 🇷🇺,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PROGNOZ-5&sel_satname=PROGNOZ-5&plan_id=
+CHNSAT-2-130E,China 🇨🇳,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CHNSAT-2-130E&sel_satname=CHNSAT-2-130E&plan_id=
+DFH-3A-OD,China 🇨🇳,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=DFH-3A-OD&sel_satname=DFH-3A-OD&plan_id=
+KYPROS-130E,Cyprus 🇨🇾,130.0°E,Non-Planned,Early-Stage,No,n/a,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-130E&sel_satname=KYPROS-130E&plan_id=
+CHNSAT-30B-130E,China 🇨🇳,130.0°E,Planned,Early-Stage,No,n/a,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CHNSAT-30B-130E&sel_satname=CHNSAT-30B-130E&plan_id=plan
+CHNHTSAT-130E,China 🇨🇳,130.0°E,Non-Planned,Early-Stage,No,n/a,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-130E&sel_satname=CHNHTSAT-130E&plan_id=
+KOREASAT-130K,Korea (Rep. of) 🇰🇷,130.0°E,Non-Planned,Early-Stage,No,n/a,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KOREASAT-130K&sel_satname=KOREASAT-130K&plan_id=
+CHNSAT-130E,China 🇨🇳,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CHNSAT-130E&sel_satname=CHNSAT-130E&plan_id=
+SINOSAT-3C,China 🇨🇳,130.0°E,Non-Planned,Late-Stage,Yes,No,No,0.43°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=SINOSAT-3C&sel_satname=SINOSAT-3C&plan_id=
+NUSANTARA-PS5-A,Indonesia 🇮🇩,129.0°E,Non-Planned,Early-Stage,No,n/a,No,0.57°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NUSANTARA-PS5-A&sel_satname=NUSANTARA-PS5-A&plan_id=

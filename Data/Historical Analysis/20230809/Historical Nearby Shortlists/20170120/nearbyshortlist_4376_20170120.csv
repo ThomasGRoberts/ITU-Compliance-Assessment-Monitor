@@ -1,0 +1,13 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+SIGNSAT-2W,China 🇨🇳,2.4°W,Non-Planned,Early-Stage,No,n/a,No,0.20°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-2W&sel_satname=SIGNSAT-2W&plan_id=
+CHNNEWSAT-G1-2W,China 🇨🇳,2.0°W,Non-Planned,Early-Stage,No,n/a,No,0.20°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-2W&sel_satname=CHNNEWSAT-G1-2W&plan_id=
+MADAR-1.5W,United Arab Emirates 🇦🇪,1.5°W,Non-Planned,Early-Stage,No,n/a,No,0.70°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-1.5W&sel_satname=MADAR-1.5W&plan_id=
+MLT00000,Malta 🇲🇹,3.0°W,Planned,Early-Stage,No,n/a,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MLT00000&sel_satname=MLT00000&plan_id=plan
+PACIFISAT-3W,Papua New Guinea 🇵🇬,3.0°W,Non-Planned,Early-Stage,No,n/a,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PACIFISAT-3W&sel_satname=PACIFISAT-3W&plan_id=
+INTERSPUTNIK-3W-CK,Russian Federation 🇷🇺,3.0°W,Non-Planned,Late-Stage,Yes,No,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTERSPUTNIK-3W-CK&sel_satname=INTERSPUTNIK-3W-CK&plan_id=
+INTERSPUTNIK-3W,Russian Federation 🇷🇺,3.0°W,Non-Planned,Late-Stage,Yes,No,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTERSPUTNIK-3W&sel_satname=INTERSPUTNIK-3W&plan_id=
+INTERSPUTNIK-3W-Q,Russian Federation 🇷🇺,3.0°W,Non-Planned,Late-Stage,Yes,No,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTERSPUTNIK-3W-Q&sel_satname=INTERSPUTNIK-3W-Q&plan_id=
+TOR-11M,Russian Federation 🇷🇺,3.0°W,Non-Planned,Late-Stage,Yes,No,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TOR-11M&sel_satname=TOR-11M&plan_id=
+AFRISAT 3W-PKU,Papua New Guinea 🇵🇬,3.0°W,Planned,Late-Stage,Yes,No,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=AFRISAT+3W-PKU&sel_satname=AFRISAT+3W-PKU&plan_id=plan
+STATSIONAR-M2,Russian Federation 🇷🇺,3.0°W,Non-Planned,Late-Stage,Yes,No,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=STATSIONAR-M2&sel_satname=STATSIONAR-M2&plan_id=
+GALS-11,Russian Federation 🇷🇺,3.0°W,Non-Planned,Late-Stage,Yes,No,No,0.80°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GALS-11&sel_satname=GALS-11&plan_id=

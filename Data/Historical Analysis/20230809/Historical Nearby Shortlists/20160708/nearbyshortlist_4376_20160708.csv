@@ -1,0 +1,22 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+CYP00000,Cyprus 🇨🇾,0.5°E,Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CYP00000&sel_satname=CYP00000&plan_id=plan
+H2SAT-0.5E,Germany 🇩🇪,0.5°E,Non-Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=A&sat_name=H2SAT-0.5E&sel_satname=H2SAT-0.5E&plan_id=
+H2M-0.5E,Germany 🇩🇪,0.5°E,Non-Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=H2M-0.5E&sel_satname=H2M-0.5E&plan_id=
+H2M-TNG-0.5E,Germany 🇩🇪,0.5°E,Non-Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=H2M-TNG-0.5E&sel_satname=H2M-TNG-0.5E&plan_id=
+SIGNSAT-1E,China 🇨🇳,0.6°E,Non-Planned,Early-Stage,No,n/a,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-1E&sel_satname=SIGNSAT-1E&plan_id=
+USCSID-A1,United States 🇺🇸,0.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.35°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USCSID-A1&sel_satname=USCSID-A1&plan_id=
+MSG,France 🇫🇷,0.0°E,Non-Planned,Late-Stage,Yes,No,No,0.35°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MSG&sel_satname=MSG&plan_id=
+MTG-EUM_0E,Germany 🇩🇪,0.0°E,Non-Planned,Early-Stage,No,n/a,No,0.35°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MTG-EUM_0E&sel_satname=MTG-EUM_0E&plan_id=
+QATARSAT-G4-0.9E_1,Qatar 🇶🇦,0.9°E,Non-Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=QATARSAT-G4-0.9E_1&sel_satname=QATARSAT-G4-0.9E_1&plan_id=
+QAT00000,Qatar 🇶🇦,0.9°E,Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QAT00000&sel_satname=QAT00000&plan_id=plan
+QATARSAT-30B-0.9E-G2,Qatar 🇶🇦,0.9°E,Planned,Early-Stage,No,n/a,No,0.55°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-0.9E-G2&sel_satname=QATARSAT-30B-0.9E-G2&plan_id=plan
+ARABSAT-9L-1E,Saudi Arabia 🇸🇦,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ARABSAT-9L-1E&sel_satname=ARABSAT-9L-1E&plan_id=
+LUX-G12-1,Luxembourg 🇱🇺,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G12-1&sel_satname=LUX-G12-1&plan_id=
+VOLNA-21,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=VOLNA-21&sel_satname=VOLNA-21&plan_id=
+GALS-15,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GALS-15&sel_satname=GALS-15&plan_id=
+TOR-15M,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TOR-15M&sel_satname=TOR-15M&plan_id=
+STATSIONAR-22,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=STATSIONAR-22&sel_satname=STATSIONAR-22&plan_id=
+NEWSAT-1A-1E,Italy 🇮🇹,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NEWSAT-1A-1E&sel_satname=NEWSAT-1A-1E&plan_id=
+ARABSAT-10G-1E,Saudi Arabia 🇸🇦,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.65°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ARABSAT-10G-1E&sel_satname=ARABSAT-10G-1E&plan_id=
+OMANSAT-1.1E,Oman 🇴🇲,1.1°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=OMANSAT-1.1E&sel_satname=OMANSAT-1.1E&plan_id=
+EG-SAT-FSS-0.4W,France 🇫🇷,0.4°W,Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=EG-SAT-FSS-0.4W&sel_satname=EG-SAT-FSS-0.4W&plan_id=plan

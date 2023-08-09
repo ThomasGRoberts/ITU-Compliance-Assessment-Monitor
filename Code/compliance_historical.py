@@ -26,7 +26,7 @@ import sys
 assessmentdate = datetime.today().strftime('%Y%m%d')
 
 # Since this script may take more 24 hours to run, consider hardcoding the assessment date
-assessmentdate = '20230808'
+assessmentdate = '20230809'
 
 # Write a quick function for cleaning directories
 def remove_files_except(filename, directory):
@@ -374,8 +374,8 @@ for i in np.arange(len(satcats)):
 			printProgressBar(m + 1, len(df_longitudes), prefix = str("{:03d}".format(i+1))+' of '+str(len(satcats)), suffix = 'Complete', length = 50)
 			# Drop the ITUadm and grandfather columns from the nearby shortlist
 			df_nearbyshortlist = df_nearbyshortlist.drop(['Grandfather', 'ITUAdm'], axis=1)
-			# Drop the Due Diligence Match column from the nearby shortlist
-			df_nearbyshortlist = df_nearbyshortlist.drop('Due Diligence Match', axis=1)
+			# # Drop the Due Diligence Match column from the nearby shortlist
+			# df_nearbyshortlist = df_nearbyshortlist.drop('Due Diligence Match', axis=1)
 			# Drop the Eligible column from the nearby shortlist
 			df_nearbyshortlist = df_nearbyshortlist.drop('Eligible', axis=1)
 			# Round the 'Longitudinal Distance' column to two decimal places
@@ -384,23 +384,23 @@ for i in np.arange(len(satcats)):
 			df_nearbyshortlist['Longitudinal Distance'] = df_nearbyshortlist['Longitudinal Distance'].apply(lambda x: f'{x:.2f}°')
 			# Save the shortlist to a CSV 
 			df_nearbyshortlist.to_csv('../Data/Historical Analysis/' + assessmentdate + '/Historical Nearby Shortlists/' + eval_date.strftime('%Y%m%d') + '/nearbyshortlist_' + satcat + '_' + eval_date.strftime('%Y%m%d') + '.csv', index = None)
-# # Now let's do a check to see whether any satellites not in compliance were sufficiently far away from compliant satellites on the date of assessment
-# for i in np.arange(len(satcats)):
-# 	satcat = str(satcats[i])
-# 	for m in np.arange(len(df_longitudes)):
-# 		longitude = df_longitudes.at[m, satcat]
-# 		neighbor_compliance = False
-# 		# For satellites not in compliance, check to see if any other satellites within 0.5 degrees are in compliance
-# 		if df_results_batched.at[m, satcat][0] == 'N':
-# 			for j in np.arange(len(satcats)):
-# 				satcat_scan = str(satcats[j])
-# 				if satcat_scan != satcat:
-# 					longitude_scan = df_longitudes.at[m, satcat_scan]
-# 					if abs(longitude - longitude_scan) <= 0.5:
-# 						if df_results_batched.at[m, satcat_scan][0] == 'Y':
-# 							neighbor_compliance = True
-# 			if neighbor_compliance == False:
-# 				df_results_batched.at[m, satcat] = 'Maybe. Although there are no space networks within station-keeping requirements for which any filings have been submitted by a corresponding ITU administration, there are also no other compliant satellites within 0.5 degrees, meaning this satellite could be in compliance with ITU Radio Regulations Article 22, Section III: 22.10 or 22.14.'
+# Now let's do a check to see whether any satellites not in compliance were sufficiently far away from compliant satellites on the date of assessment
+for i in np.arange(len(satcats)):
+	satcat = str(satcats[i])
+	for m in np.arange(len(df_longitudes)):
+		longitude = df_longitudes.at[m, satcat]
+		neighbor_compliance = False
+		# For satellites not in compliance, check to see if any other satellites within 0.5 degrees are in compliance
+		if df_results_batched.at[m, satcat][0] == 'N':
+			for j in np.arange(len(satcats)):
+				satcat_scan = str(satcats[j])
+				if satcat_scan != satcat:
+					longitude_scan = df_longitudes.at[m, satcat_scan]
+					if abs(longitude - longitude_scan) <= 0.5:
+						if df_results_batched.at[m, satcat_scan][0] == 'Y':
+							neighbor_compliance = True
+			if neighbor_compliance == False:
+				df_results_batched.at[m, satcat] = 'Maybe. Although there are no space networks within station-keeping requirements for which any filings have been submitted by a corresponding ITU administration, there are also no other compliant satellites within 0.5 degrees, meaning this satellite could be in compliance with ITU Radio Regulations Article 22, Section III: 22.10 or 22.14.'
 
 # Save the results
 for satcat in satcats:

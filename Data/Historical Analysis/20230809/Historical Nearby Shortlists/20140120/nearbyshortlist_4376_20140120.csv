@@ -1,0 +1,31 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+INSAT-KA77.1E,India 🇮🇳,77.1°E,Non-Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA77.1E&sel_satname=INSAT-KA77.1E&plan_id=
+INSAT-KA77.1ER,India 🇮🇳,77.1°E,Non-Planned,Early-Stage,No,n/a,No,0.15°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA77.1ER&sel_satname=INSAT-KA77.1ER&plan_id=
+CSSRD-2,Russian Federation 🇷🇺,77.0°E,Non-Planned,Late-Stage,Yes,No,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CSSRD-2&sel_satname=CSSRD-2&plan_id=
+QATARSAT-G5-77E,Qatar 🇶🇦,77.0°E,Non-Planned,Early-Stage,No,n/a,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=QATARSAT-G5-77E&sel_satname=QATARSAT-G5-77E&plan_id=
+MADAR-77E,United Arab Emirates 🇦🇪,77.0°E,Non-Planned,Early-Stage,No,n/a,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-77E&sel_satname=MADAR-77E&plan_id=
+CTDRS-2-77E,China 🇨🇳,77.0°E,Non-Planned,Early-Stage,No,n/a,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CTDRS-2-77E&sel_satname=CTDRS-2-77E&plan_id=
+CTDRS-1-77E,China 🇨🇳,77.0°E,Non-Planned,Late-Stage,Yes,No,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CTDRS-1-77E&sel_satname=CTDRS-1-77E&plan_id=
+OHO-30B-77E,Sweden 🇸🇪,77.0°E,Planned,Early-Stage,No,n/a,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=OHO-30B-77E&sel_satname=OHO-30B-77E&plan_id=plan
+QATARSAT-30B-77E,Qatar 🇶🇦,77.0°E,Planned,Early-Stage,No,n/a,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-77E&sel_satname=QATARSAT-30B-77E&plan_id=plan
+CSSRD-2,Russian Federation 🇷🇺,77.0°E,Planned,Late-Stage,Yes,No,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CSSRD-2&sel_satname=CSSRD-2&plan_id=plan
+IRANSAT-77.5E,Iran (Islamic Republic of) 🇮🇷,77.5°E,Non-Planned,Early-Stage,No,n/a,No,0.25°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IRANSAT-77.5E&sel_satname=IRANSAT-77.5E&plan_id=
+APSTAR-G5-76.5E,China 🇨🇳,76.5°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=APSTAR-G5-76.5E&sel_satname=APSTAR-G5-76.5E&plan_id=
+APSTAR-4,China 🇨🇳,76.5°E,Non-Planned,Late-Stage,Yes,No,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=APSTAR-4&sel_satname=APSTAR-4&plan_id=
+APSTAR-76E-R,China 🇨🇳,76.5°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=APSTAR-76E-R&sel_satname=APSTAR-76E-R&plan_id=
+APSTAR-76E,China 🇨🇳,76.5°E,Non-Planned,Late-Stage,Yes,No,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=APSTAR-76E&sel_satname=APSTAR-76E&plan_id=
+HISPASAT-72A,Spain 🇪🇸,78.0°E,Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-72A&sel_satname=HISPASAT-72A&plan_id=plan
+GEO00000,Georgia 🇬🇪,78.0°E,Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=GEO00000&sel_satname=GEO00000&plan_id=plan
+HISPASAT-1-78E,Spain 🇪🇸,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-1-78E&sel_satname=HISPASAT-1-78E&plan_id=
+AMS-30B-78E,Israel 🇮🇱,78.0°E,Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=AMS-30B-78E&sel_satname=AMS-30B-78E&plan_id=plan
+HISPASAT-61A,Spain 🇪🇸,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-61A&sel_satname=HISPASAT-61A&plan_id=
+AMS-C11-78E,Israel 🇮🇱,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AMS-C11-78E&sel_satname=AMS-C11-78E&plan_id=
+HISPASAT-92A,Spain 🇪🇸,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-92A&sel_satname=HISPASAT-92A&plan_id=
+SECOMSAT-3-78E,Spain 🇪🇸,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-3-78E&sel_satname=SECOMSAT-3-78E&plan_id=
+IK-78E,Russian Federation 🇷🇺,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IK-78E&sel_satname=IK-78E&plan_id=
+OMANSAT-78E,Oman 🇴🇲,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=OMANSAT-78E&sel_satname=OMANSAT-78E&plan_id=
+IK-78E-F,Russian Federation 🇷🇺,78.0°E,Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=IK-78E-F&sel_satname=IK-78E-F&plan_id=plan
+SECOMSAT-4-78E,Spain 🇪🇸,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-4-78E&sel_satname=SECOMSAT-4-78E&plan_id=
+INMARSAT-7-78E,Switzerland 🇨🇭,78.0°E,Non-Planned,Early-Stage,No,n/a,No,0.75°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INMARSAT-7-78E&sel_satname=INMARSAT-7-78E&plan_id=
+CHNNEWSAT-G1-78.2E,China 🇨🇳,78.2°E,Non-Planned,Early-Stage,No,n/a,No,0.95°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-78.2E&sel_satname=CHNNEWSAT-G1-78.2E&plan_id=
+KEN00000,Kenya 🇰🇪,78.2°E,Planned,Early-Stage,No,n/a,No,0.95°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=KEN00000&sel_satname=KEN00000&plan_id=plan

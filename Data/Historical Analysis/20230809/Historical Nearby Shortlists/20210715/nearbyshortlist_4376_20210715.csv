@@ -1,0 +1,20 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+UK-KA-17.5E,United Kingdom 🇬🇧,17.5°E,Non-Planned,Early-Stage,No,n/a,No,0.19°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-17.5E&sel_satname=UK-KA-17.5E&plan_id=
+UK-KA-17.5E-VB,United Kingdom 🇬🇧,17.5°E,Non-Planned,Early-Stage,No,n/a,No,0.19°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-17.5E-VB&sel_satname=UK-KA-17.5E-VB&plan_id=
+H2M-17.6E,Germany 🇩🇪,17.6°E,Non-Planned,Early-Stage,No,n/a,No,0.29°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=H2M-17.6E&sel_satname=H2M-17.6E&plan_id=
+RRW00000,Rwanda 🇷🇼,17.6°E,Planned,Early-Stage,No,n/a,No,0.29°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=RRW00000&sel_satname=RRW00000&plan_id=plan
+H2SAT-17.6E,Germany 🇩🇪,17.6°E,Non-Planned,Early-Stage,No,n/a,No,0.29°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=A&sat_name=H2SAT-17.6E&sel_satname=H2SAT-17.6E&plan_id=
+H2M-TNG-17.6E,Germany 🇩🇪,17.6°E,Non-Planned,Early-Stage,No,n/a,No,0.29°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=H2M-TNG-17.6E&sel_satname=H2M-TNG-17.6E&plan_id=
+AMS-C8-17E,Israel 🇮🇱,17.0°E,Non-Planned,Early-Stage,Yes,n/a,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=AMS-C8-17E&sel_satname=AMS-C8-17E&plan_id=
+PESSE-17E-A,Netherlands 🇳🇱,17.0°E,Non-Planned,Early-Stage,No,n/a,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PESSE-17E-A&sel_satname=PESSE-17E-A&plan_id=
+INTERSPUTNIK-17E,Russian Federation 🇷🇺,17.0°E,Non-Planned,Late-Stage,Yes,No,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTERSPUTNIK-17E&sel_satname=INTERSPUTNIK-17E&plan_id=
+INTERSPUTNIK-17E-CK,Russian Federation 🇷🇺,17.0°E,Non-Planned,Late-Stage,Yes,No,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTERSPUTNIK-17E-CK&sel_satname=INTERSPUTNIK-17E-CK&plan_id=
+PESSE-17E-KA,Netherlands 🇳🇱,17.0°E,Non-Planned,Early-Stage,No,n/a,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PESSE-17E-KA&sel_satname=PESSE-17E-KA&plan_id=
+PESSE-17E-VB,Netherlands 🇳🇱,17.0°E,Non-Planned,Early-Stage,No,n/a,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PESSE-17E-VB&sel_satname=PESSE-17E-VB&plan_id=
+AMS-CK-17E,Israel 🇮🇱,17.0°E,Non-Planned,Late-Stage,Yes,No,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=AMS-CK-17E&sel_satname=AMS-CK-17E&plan_id=
+MDG00000,Madagascar 🇲🇬,16.9°E,Planned,Early-Stage,No,n/a,No,0.41°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MDG00000&sel_satname=MDG00000&plan_id=plan
+CTDRS-2-16.8E,China 🇨🇳,16.8°E,Non-Planned,Late-Stage,Yes,No,Total,0.51°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CTDRS-2-16.8E&sel_satname=CTDRS-2-16.8E&plan_id=
+SYR00000,Syrian Arab Republic 🇸🇾,18.0°E,Planned,Early-Stage,No,n/a,No,0.69°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SYR00000&sel_satname=SYR00000&plan_id=plan
+N-SAT-Y23-18E,Japan 🇯🇵,18.0°E,Non-Planned,Early-Stage,No,n/a,No,0.69°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=N-SAT-Y23-18E&sel_satname=N-SAT-Y23-18E&plan_id=
+EGY-NS-18E,Egypt 🇪🇬,18.0°E,Non-Planned,Early-Stage,No,n/a,No,0.69°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EGY-NS-18E&sel_satname=EGY-NS-18E&plan_id=
+SMR00000,San Marino 🇸🇲,16.5°E,Planned,Early-Stage,No,n/a,No,0.81°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SMR00000&sel_satname=SMR00000&plan_id=plan

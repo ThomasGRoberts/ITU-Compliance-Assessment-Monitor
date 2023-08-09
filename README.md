@@ -2,193 +2,204 @@
 
 **Author:** Thomas G. Roberts ([thomasgr@mit.edu](mailto:thomasgr@mit.edu) / [thomasgroberts.com](thomasgroberts.com))
 
-**Last Updated:** June 19, 2023
+**Last Updated:** August 9, 2023
 
-This tool can be used to assess geosynchronous (GEO) satellite operators' compliance with orbital slotting guidelines from the International Telecommunications Union (ITU), a specialized agency of the United Nations.
+This tool can be used to assess geosynchronous (GEO) satellite operators' compliance with orbital allocations from the International Telecommunications Union (ITU), a specialized agency of the United Nations.
 
-GEO satellite positions can be measured in longitudinal degrees along the geostationary belt. After a process of submitting filings and coordinating with other space networks, member states of the ITU can receive space network assignments that describe an individual physical position within the geostationary belt and a number of frequency bands at which satellites can operate such that they are free from harmful interference in the radio-frequency spectrum with other nearby space systems. Altough this system of GEO satellite spectrum allocation has been in place for decades, many operators choose to [largely ignore](https://amostech.com/TechnicalPapers/2022/SSA-SDA/Roberts.pdf) their orbital slotting guidelines.
+After an international coordination process, ITU member states receive space network assignments that describe individual physical positions within the geostationary belt (*orbital* allocations) and frequency bands (*frequency* allocations) at which satellites can operate such that they are free from harmful interference with other nearby space systems. Altough this system of GEO satellite spectrum allocation has been in place for decades, many operators choose to [largely ignore](https://amostech.com/TechnicalPapers/2022/SSA-SDA/Roberts.pdf) their orbital allocations and instead operate wherever they choose.
 
-This work represents a component of the author's PhD dissertation at MIT's Department of Aeronautics and Astronautics, "Measuring Adherence to the International Telecommunication Union’s Geosynchronous Orbital Slotting Guidelines," which offers a historical assessment of adherence to the physical component of ITU space network licences for more than decade of recent GEO satellite operations.
+This work represents a component of the author's doctoral thesis at [MIT's Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/), "Assessing Compliance with Geosynchronous Orbital Allocations from the International Telecommunication Union," which offers a historical assessment of compliance to the physical component of ITU space networks for more than decade of recent GEO satellite operations.
 
 ## Getting Started
 
-The scripts in this repository are designed to produce results assessing adherence _today_, when the code is executed. `[Today's Date]` is always written in the YYYYMMDD format. 
+To run a compliance assessment:
+1. [Download](https://github.com/ThomasGRoberts/ITU-Compliance-Assessment-Monitor/archive/refs/heads/main.zip) or [clone](https://github.com/ThomasGRoberts/ITU-Compliance-Assessment-Monitor.git) this GitHub repository.
+2. Download the latest ITU space network data by running the `./Code/snl.py` script.
+3. Produce a formatted input file describing the longitudinal positions of GEO satellites of interest and add it to the appropriate sub-directory.
+	* Note: single- and multi-date compliance assessments require differently formatted input files saved in different sub-directories, as described in the following subsections.
+4. Assess compliance for a single date or multiple dates by running `compliance_daily.py` or `compliance_historical.py`, respectively.
 
-### Prepare the Input File
-Before performing an assessment, produce a two-column input file describing the GEO satellites you would like to assess and save it as `./Data/Longitude Inputs/longitudes_[Today's Date].csv`. 
+The following subections describe each of these four steps in greater detail. 
 
-The two columns, 'NORAD ID' and 'Longitude', should describe longitudinal positions for GEO satellites of interest. NORAD IDs should be written with no leading zeros. Longitudinal positions in the western hemisphere should be written as negative numbers between -180 and 0.
+### Step 1: Organize local directories
 
-### Perform Today's Assessment
-1. Run the `snl.py` script.
-	* This script downloads the latest space network data from the ITU's Space Network List (SNL) and nicely organizes it.
-2. Run the `compliance.py` script.
-	* This script takes the prepared input file and offers a satellite-by-satellite assessment of ITU orbital slotting compliance.
-	* Assessments are saved as `./Data/Compliance Grades/grades_[Today's Date].csv`.
-	* A shortlist of nearby space networks are saved as `./Data/Nearby Shortlists/[Today's Date]/[NORAD ID]_[Today's Date].csv`.
+Downloading this GitHub repository results in the following file organization:
+```
+📁 .
+├── 📁 Data
+│   ├── 📁 Reference Files	
+│   ├── 📁 SNL Downloads
+│   ├── 📁 Daily Analysis
+│   └── 📁 Historical Analysis
+└── 📁 Code
+```
 
-### A Note on Automation
+All data associated with single- and multi-date compliance assessments are organized in the `./Data/Daily Analysis/` and `./Data/Historical Analysis/` sub-directories, respectively, including the user-generated input files. Both variants of the compliance assessment scripts reference data in the `./Data/Reference Files/` and `./Data/SNL Downloads/` sub-directories. 
 
-This tool could be paired with an actively updating satellite catalog dataset to automatically assess compliance to ITU orbital slots on a daily cadence. One formulation might could be to perform the following steps each day at the same time:
-1. Append information about new GEO satellites to the local satellite catalog (`./Data/Reference Files/satellitecatalog.csv`).
-	* Relevant information includes COSPAR ID, NORAD ID, the satellite's name, operator (country or organization), launch date, launch site, and satellite manufacturer.
-	* The operator and launch site should match the abbreviations used on Space-Track.org.  
-2. Create a new longitudes file with the longitudinal position of each active GEO satellite in the catalog (`./Data/Longitude Inputs/longitudes_[Today's Date].csv`). 
-3. Run the `snl.py` script.
-4. Run the `compliance.py` script.
-5. For each satellite:
-	* Display the shortlist of nearby networks (`./Data/Nearby Shortlists/[Today's Date]/[NORAD ID]_[Today's Date].csv`).
-	* Display the current compliance assessment.
-	* Display the current compliance note.
+### Step 2: Download the latest ITU data from the SNL
 
-## Definitions
+Running `./Code/snl.py` produces a sub-directory in `./Data/SNL Downloads/` named with today's date in the `YYYYMMDD` format. Inside that sub-directory you'll find a file called `networks_[Today's Date].csv`, with columns that describe each network's:
+- Name ('Network Name');
+- Prescribed longitude ('Longitude');
+- An abbreviation for the ITU administration that submits filings for that network ('ITU Administration');
+- The previous name for the network, if its name has changed since its earliest filing ('Previous Name');
+- Whether the network offers planned or non-planned services ('Planned or Non-Planned');
+- The highest-maturity notification reason of all filings received for the network ('Highest Maturity');
+- The date when the network was brought into use, if applicable ('Brought-into-Use Date');
+- The date when the network was first eligible for protections from harmful interference, if applicable ('Late-Stage Filing Date');
+- The date when the first filing of any kind was received for the network ('Early-Stage Filing Date'); and
+- Information describing any time periods during which the network was suspended ('Suspensions').  
 
-Some definitions are helpful to ensure clear understanding of various terms and concepts.
+### Step 3: Produce input files
 
-### Space Network Types
+For both single- and multi-date compliance assessments, users must create an input file of GEO satellites' longitudinal positions and save it in an appropriate directory. The two variants described below are formatted differently, such that they are both row-rich instead of column-rich. 
 
-There are two types of ITU space networks: non-planned and planned.
+#### Single-date assessment input file format
+Input files for single-date assessments have one row per GEO satellite of interest.
 
-#### Non-Planned Networks
+The two columns, 'NORAD ID' and 'Longitude', describe the catalog ID number and longitudinal position for each satellite. NORAD IDs should be written with no leading zeros. Longitudinal positions in the western hemisphere should be written as negative numbers between -180 and 0. If no longitudinal position is available for an object of interest, write 'n/a' in the longitude column.
 
-“Non-planned” services are those that use frequency bands that have been made available by the ITU on a first-come, first-served basis. Just three countries—the United States, Russia, and China—hold about half of all non-planned space networks.
+An input file for a single-date assessment on August 7, 2023, should be called `longitudes_20230807.csv` and stored in a sub-directory called `./Data/Daily Analysis/20230807/`. Its format looks like the example below.
 
-#### Planned Networks
-
-“Planned” services are those that use frequency bands that have been distributed by the ITU amongst applicant administrations on a more equitable basis—a concept developed over two meetings of the “World Administrative Radio Conference on the Use of Geostationary-Satellite Orbit and the Planning of Space Services Utilizing It” in 1985 and 1988—to ensure future access to the geostationary belt by developing nations that operate few or no satellites at the time of application.
-
-In general, planned networks are less common than non-planned ones.
-
-### Filing Types
-
-ITU members states (or "ITU Administrations") submit various rounds of filings to the ITU in accordance to the Union's conventions:
-
-#### Advance Public Information (A)
-
-This filing type represents the first public record for a proposed space network. It effectively announces an ITU Administration's interest in particular orbital slots and frequency bands. These filings should come two to seven years before their operator plans to bring it into use, but that is not always the case.
-
-This type of filing is only associated with non-planned networks. 
-
-#### Coordination Request (C)
-
-The date at which the ITU's Radiocommunication Bureau (BR) receives this type of filing marks the network's place in the queue of proposed filings and the beginning of the coordination process that ensures that the new network would not pose a threat of harmful interference with active networks or those that come earlier in the coordination queue.
-
-This type of filing is only associated with non-planned networks. 
-
-#### Planned (P or P/Plan/List)
-
-This type of filing refers to an early-stage planned network that has not yet received protected status. 
-
-This type of filing is only associated with planned networks. 
-
-#### Notification of Space Station (N)
-
-This type of filing marks a network's transition to protected status.
-
-This type of filing is associated with both non-planned planned networks. 
-
-#### Due Diligence (U)
-
-ITU conventions require that administrations submit more information about the satellite that will host a space network once it becomes available. Such information (including the proposed launch date, launch vehicle, launch site, and satellite manufcaturer) is included in what are known as _due diligence_ filings. The information within due diligence filings is not available on the easy-to-access SNL, but rather the harder-to-access Space Network System (SNS). The SNS is also available on the ITU’s website, but is restricted to users with annual subscriptions or who are members of the Union’s Telecommunication Information Exchange Service (TIES). 
-
-The data encoded within due diligence filings are used to match GEO satellites with space networks. 
-
-### "Brought into Use"
-
-When the ITU determines that a space network has been "brought into use" via an assessment of more required filings from ITU administrations, it appears [here](https://www.itu.int/net/ITU-R/space/snl/listinuse/index.asp). For this tool, space networks are considered to be brought into use if the the ITU's "Date of bringing into use" is today's date or earlier.
-
-Bringing-into-use information is updated by the ITU approximately every two weeks.
-
-### "Matched Characteristics"
-
-A GEO satellite is said to "match" a space network if its mission characteristics resemble those encoded in the network's due diligence filings. For this tool, a match requires that:
-* The center of the launch window described in the due diligence filings is less than one year away from the satellite's actual launch;
-* The ITU Administration corresponds to the satellite's operating country or organization (see Table A2.1 [here](https://amostech.com/TechnicalPapers/2022/SSA-SDA/Roberts.pdf) for more information);
-* Two of the following three characteristics match:
-	* Launch vehicle family;
-	* Launch site;
-	* Satellite manufacturer.
-
-Note that this definition does not consider the prescribed longitude of a space network. Doing so inherently assumes some level of adherence, which should be considered inappropriate for an adherence assessment.
-
-Match information is prepared by the author.
-
-### "Corresponding ITU Administration"
-
-Since the many space object catalogs, including the one used for this tool (`./Data/Reference Files/satellitlecatalog.csv`), allows countries, groups of countries, and non-state organizations to be listed as satellite operators while the ITU considers only ITU member states as space network administrations, a crossreference scheme must be established to match satellite operators to space network administrators. GEO satellite
-operators are considered a match with a space network filing’s administration if the administration’s ITU country symbol appears alongside the operator’s abbreviation in Table A2.1 [here](https://amostech.com/TechnicalPapers/2022/SSA-SDA/Roberts.pdf).
- 
-### Compliance Assessments
-
-GEO satellites's compliance is described as both a simple "yes" or "no," plus an additional note with more information.
-* A **Yes** assessment means that there exists a space network within 0.1 degrees longitude held by a corresponding ITU administration that has been brought into use.
-	* This network may be partially, but not fully suspended.
-	* The due diligence data of the nearby license may not match that of the satellite.
-* A **No** symbol means that there are no space network within 0.1 degrees longitude held by a corresponding ITU administration that have been brought into use.
-	* There may exist an early-stage space network filing (i.e. 'A', 'C', 'P', or 'P/Plan/List', meaning protected access is not yet granted) within 0.1 degrees longitude held by a corresponding ITU administration.
-		* The space networks associated with these early-stage filings will not appear on the Master International Frequency Register (MIFR).
-		* The satellite operator is not ensured protected use of this orbital slot. 
- 
-The notes section of the `./Data/Compliance Grades/grades_[Today's Date].csv` file offers more information about the compliance status.
-
-## Scripts
-
-Performing today's assessment requires running just two scripts (`snl.py` and `compliance.py`). This section describes those two scripts as well as the others that support them. 
-
-### `snl.py`
-
-The ITU Space Network List includes relevant information about space network filings in four places. [One place](https://www.itu.int/online/snl/freqrnge_snl.sh?plan=&lblfreq1=Frequency+%5BMHz%5D%3A+&lblfreq11=+from+&freq_low=0&lblfreq2=+to+&freq_hi=10000000000&lblemi0=Emission%2FReception%3A+&lblemi1=Emission+&lblemi2=Reception+&emi=&lblemi3=All+&lbllong1=Longitude%3A+&lbllong2=+from+&long_from=-180&lbllong3=+%A0+%A0+to++&long_to=180&lblstn=Space+or+Earth%3A+&categ=G&lblcateg1=Geostationary&lblcateg2=Non-geostationary&lblcateg3=Earth+station&lblsub=Submission+reason%3A+&lblsub1=API&lblsub2=Coordination&lblsub3=Notification&ntf=&lblsub4=All&sub0=Select&ie=y) has filing data associated with unplanned space network, [another](https://www.itu.int/online/snl/freqrnge_snlplan.sh?plan=plan&lblfreq1=Frequency+%5BMHz%5D%3A+&lblfreq11=+from+&freq_low=0&lblfreq2=+to+&freq_hi=10000000000&lblemi0=Emission%2FReception%3A+&lblemi1=Emission+&lblemi2=Reception+&emi=&lblemi3=All+&lbllong1=Longitude%3A+&lbllong2=+from+&long_from=-180&lbllong3=+%A0+%A0+to++&long_to=180&lblplan=BSS+Plans+%26+Lists+%28AP30%2F30A%29%3A&lblplan1=Regions+1%263+Downlink%28AP30%29&lblplan2=Regions+1%263+feeder-link+%28AP30A%29&lblplan3=Region+2%28AP30%2F30A%29&plan_id=A&lblplan4=All&lblprov1=Article+4+%28Seeking+agreement%29&lblprov2=Article+5+%28Notification%29&lblprov3=Due+Diligence+%28Res.49%29&lblprov4=PLAN%2FList&bss_list=A&lblprov5=All&lblsof=Guardbands&gb_type=C&lblprovsof1=Article+2A+%28Coordination%29&lblprovsof2=Article+11+%28Notification%29&lblprovsof3=All&lblsof2=%28Space+Operation+Functions%29&fss=on&lblfss=FSS+Plan+%28AP30B%29&lblprovfss1=Article+6+%28Seeking+agreement%29&lblprovfss2=Article+8+%28Notification%29&lblprovfss21=Due+Diligence+%28Res.49%29&lblprovfss3=PLAN%2FList&fss_type=A&lblprovfss4=All&sub2=Select&ie=y) has filing data planned space networks, [a third](https://www.itu.int/net/ITU-R/space/snl/listinuse/index.asp) has information describes whether both the unplanned and planned networks have been brought into use and [a fourth](https://www.itu.int/net/ITU-R/space/snl/list1149/index.asp) has data on suspensions associated with each network. This script downloads those four datasets and organizes them into one easy-to-read file (`./Data/SNL Archives/[Today's Date]/licenses_[Today's Date].csv`). 
-
-#### `snl_unplanned_scrape.py`
-
-This script scrapes information about _non-planned_ space networks (`./Data/SNL Archives/[Today's Date]/snl_unplanned_[Today's Date].csv`).
-
-#### `snl_planned_scrape.py`
-
-This script scrapes information about _planned_ space networks (`./Data/SNL Archives/[Today's Date]/snl_planned_[Today's Date].csv`).
-
-#### `snl_broughtintouse_download.py`
-
-This script downloads information relating to when space networks were _brought into use_ (`./Data/SNL Archives/[Today's Date]/snl_broughtintouse_[Today's Date].csv`).
-
-### `compliance.py`
-
-This script issues a letter-grade compliance rating for GEO satellites given their NORAD ID and longitudinal position (`./Data/Compliance Grades/grades_[Today's Date].csv`). A shortlist of nearby filings is also produced for each GEO satellite (`./Data/Nearby Shortlists/[Today's Date]/[NORAD ID]_[Today's Date].csv`).
+| <center>NORAD ID</center> | <center>Longitudes</center> |
+|:------------------:|:-------------------------------:|
+|      38978         |        -177.042        |
+|         ⋮          |             ⋮             |
+|      37834         |         179.996        |
 
 
-## Data
+The order of the entries in this file doesn't matter. Because compliance assessments can be based on the behavior of nearby neighbors, it is critical to be as comprehensive as possible when creating input files: the more GEO objects included in this input file, the more accurate the resulting compliance assessments will be.
 
-Interesting products within the `./Data/` directory are described in more detail here.
+#### Multi-date assessment input file format
 
-### Nearby Shortlists
+Input files for multi-date assessments have one *column* per GEO satellite of interest and one *row* per evaluation date.
 
-For each GEO satellite included in the input file, a shortlist of space networks within 1.0 degrees is produced. As an example, a short list of nearby networks for the _Luch (Olymp)_ satellite (NORAD ID: 40258) on June 14, 2023, is reproduced below. On this date, _Luch_ was located at approximately -18.07 degrees, or 18.07°W.
+The first column stores evaluation dates in the `YYYY-MM-DD` format. The next columns store longitudinal data for GEO satellites of interest, with their NORAD ID as the column header. NORAD IDs should be written with no leading zeros. Longitudinal positions in the western hemisphere should be written as negative numbers between -180 and 0. If no longitudinal position is available for an object of interest at a particular evaluation date, write 'n/a' in the longitude column.
 
-| Network          | ITU Administration            | Longitude | License Type | Filing Type                       | Brought into Use | Matched Characteristics |
-|------------------|-------------------------------|-----------|--------------|-----------------------------------|------------------|-------------------------|
-| YAHSAT-FSS-18W   | United Arab Emirates 🇦🇪 | 18.0°W   | Planned      | Planned (P)                       | n/a              | n/a                     |
-| INTELSAT7 342E   | United States 🇺🇸        | 18.0°W   | Non-Planned  | Due Diligence (U)                 | Yes              | No                      |
-| INTELSAT9 342E   | United States 🇺🇸        | 18.0°W   | Non-Planned  | Due Diligence (U)                 | Yes              | No                      |
-| INTELSAT8 342E   | United States 🇺🇸        | 18.0°W   | Non-Planned  | Due Diligence (U)                 | Yes              | No                      |
-| USASAT-71Q       | United States 🇺🇸        | 18.0°W   | Non-Planned  | Coordination Request (C)          | n/a              | n/a                     |
-| INMARSAT-7-18W   | Switzerland 🇨🇭          | 18.0°W   | Non-Planned  | Coordination Request (C)          | n/a              | n/a                     |
-| UKNETSAT-18W     | United Kingdom 🇬🇧       | 18.0°W   | Non-Planned  | Due Diligence (U)                 | Yes              | No                      |
-| SIGNSAT-18W      | China 🇨🇳                | 18.0°W   | Non-Planned  | Coordination Request (C)          | n/a              | n/a                     |
-| USASAT-101E      | United States 🇺🇸        | 18.0°W   | Planned      | Planned (P)                       | n/a              | n/a                     |
-| UKFSS-18W-A      | United Kingdom 🇬🇧       | 18.0°W   | Planned      | Due Diligence (U)                 | Yes              | No                      |
-| UKFSS-18W        | United Kingdom 🇬🇧       | 18.0°W   | Planned      | Due Diligence (U)                 | Yes              | No                      |
-| SKYNET-5E        | United Kingdom 🇬🇧       | 17.8°W   | Non-Planned  | Due Diligence (U)                 | Yes              | No                      |
-| SKYNET-5E-KA3    | United Kingdom 🇬🇧       | 17.8°W   | Non-Planned  | Coordination Request (C)          | n/a              | n/a                     |
-| INMARSAT-6-17.5W | United Kingdom 🇬🇧       | 17.5°W   | Non-Planned  | Coordination Request (C)          | n/a              | n/a                     |
-| YAHSAT-G6-17.5W  | United Arab Emirates 🇦🇪 | 17.5°W   | Non-Planned  | Due Diligence (U)                 | Yes              | No                      |
-| DJI00000         | Djibouti 🇩🇯             | 17.46°W  | Planned      | Planned (P/Plan/List)             | n/a              | n/a                     |
-| USMB-3           | United States 🇺🇸        | 19.0°W   | Non-Planned  | Notification of Space Station (N) | Yes              | n/a                     |
-| LIE00000         | Liechtenstein 🇱🇮        | 17.1°W   | Planned      | Planned (P/Plan/List)             | n/a              | n/a                     |
+An input file for a multi-date assessment run on August 7, 2023, should be called `longitudes_20230807.csv` and stored in a sub-directory called `./Data/Historical Analysis/20230807/`. Its format looks like the example below.
 
-The country names in the "ITU Administration" appear as they do in the [ITU's list of member states](https://www.itu.int/en/ITU-R/terrestrial/fmd/Pages/administrations_members.aspx).
+| <center>Date</center> |<center>27632</center> | <center>40258</center> |... |<center>41838</center> |
+|:---------------------:|:---------------------:|:----------------------:|:--:|:---------------------:|
+|      2010-01-01       |    -91.010       |    n/a        |... |   n/a        |
+|      2010-01-02       |   -91.010       |    n/a        |... |   n/a        |
+|      2010-01-03       |    -91.012       |    n/a        |... |   n/a        |
+|         ⋮             |             ⋮          |             ⋮          |... |             ⋮          |
+| 2021-12-29 |   -46.131    |   59.958      |  ... |117.553     |
+| 2021-12-30 |   -47.062    |   59.947      |  ... |117.557     |
+| 2021-12-31 |   -47.990    |   59.948      |  ... |117.561     |
 
-Such a list of is particularly insightful for satellites that perpetually violate ITU orbital slotting guidelines. When a satellite is operating somewhere it is not permitted to be, who _is_ entitled to be in that very spot? 
+The rows in this file should be ordered chronologically. The order of the non-date columns doesn't matter. Because compliance assessments are based on the behavior of nearby neighbors, it is critical to be as comprehensive as possible when creating input files: the more GEO objects included in this input file, the more accurate the resulting compliance assessments will be.
 
-### Due Diligence Matches
+### Step 4: Assess compliance
 
-Because most users do not have TIES access, the process of matching satellite characteristics and ITU space network due diligence information is performed offline and results are saved in `./Data/Due Diligence Matches/[NORAD ID].csv`. These files do not reproduce the data stored in the ITU's SNS, but rather the results of a matching algorithm that compares the information from the SNS with publicly available satellite catalog information. 
+Assess single- or multi-date compliance by running `./Code/compliance_daily.py` or `./Code/compliance_daily.py`, respectively. 
+
+For both single- and multi-date assessments, the algorithm produces two products: compliance results and shortlists of space networks with prescribed longitudinal positions near the assessed satellites (called *nearby neighbors*). These various types of output files are described below.
+
+#### Compliance results
+Compliance results are stored in `./Data/Daily Analysis/[Today's Date]/compliance_[Today's Date].csv` and `./Data/Historical Analysis/[Today's Date]/Historical Compliance Assessments/compliance_[NORAD ID]_[Today's Date].csv`, respectively. The two variants of compliance assessment results are described below.
+
+##### Single-date assessment output
+
+Running a single-date compliance assessment produces one output file, stored in `./Data/Daily Analysis/[Today's Date]/compliance_[Today's Date].csv`, with four columns:
+- The catalog number of the GEO object of interest ('NORAD ID');
+- The longitudinal position at which it was assessed ('Longitude');
+- The 'Yes', 'No', or 'Maybe' compliance assessment ('Compliance Assessment'); and
+- A note further describing how the satellite is or is not in compliance with the ITU Radio Regulations ('Note').
+
+##### Multi-date assessment output
+
+Running a multi-date compliance assessment produces one output file per satelite assessed, stored in `./Data/Historical Analysis/[Today's Date]/Historical Compliance Assessments/compliance_[NORAD ID]_[Today's Date].csv`, with four columns:
+- The date for which compliance was assessed ('Date');
+- The longitudinal position at which the satellite was assessed ('Longitude');
+- The 'Yes', 'No', or 'Maybe' compliance assessment ('Compliance Assessment'); and
+- A note further describing how the satellite is or is not in compliance with the ITU Radio Regulations ('Note').
+
+#### Shortlists of nearby neighbors
+
+For each GEO satellite evaluated, a shortlist of space networks within 1.0 degrees is produced for each assessment date. Shortlists for single- and multi-date assessments are stored in `./Data/Daily Analysis/[Today's Date]/Daily Nearby Shortlists/nearbyshortlist_[NORAD ID]_[Today's Date].csv` and `./Data/Historical Analysis/Historical Nearby Shortlists/[Assessment Date]/nearbyshortlist_[NORAD ID]_[Assessment Date].csv`, respectively.
+
+As an example, a shortlist of nearby networks for the *Luch (Olymp)* satellite (NORAD ID: 40258) on October 24, 2017, is reproduced below. On this date, Luch was located at approximately 38.12 degrees, or 38.12°E.
+
+|           Network           | ITU Administration | Longitude | Network Type | Filing Maturity | Brought into Use | Suspended | Longitudinal Distance |
+|:---------------------------:|:------------------:|:---------:|:------------:|:--------------:|:----------------:|:---------:|:---------------------:|
+|         UKR00001            |   Ukraine 🇺🇦     |  38.2°E  |   Planned    |  Early-Stage   |        No        |    No     |        0.08°         |
+| PAKSAT-MM1-38.2E            |  Pakistan 🇵🇰   |  38.2°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.08°         |
+| PAKSAT-MM1-38.2E-KA         |  Pakistan 🇵🇰   |  38.2°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.08°         |
+| PAKSAT-MM1-38.2E-KA1        |  Pakistan 🇵🇰   |  38.2°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.08°         |
+| PAKSAT-MM1-38.2E-30B        |  Pakistan 🇵🇰   |  38.2°E  |   Planned    |  Early-Stage   |        No        |    No     |        0.08°         |
+| PAKSAT-MM1-38.2E-FSS        |  Pakistan 🇵🇰   |  38.2°E  |   Planned    |  Early-Stage   |        No        |    No     |        0.08°         |
+|      ATHENA-FIDUS-38E       |   France 🇫🇷    |  38.0°E  |  Non-Planned |  Late-Stage    |       Yes        |    No     |        0.12°         |
+|        PAKSAT-1R1           |  Pakistan 🇵🇰   |  38.0°E  |  Non-Planned |  Late-Stage    |       Yes        |    No     |        0.12°         |
+|         PAKSAT-1            |  Pakistan 🇵🇰   |  38.0°E  |  Non-Planned |  Late-Stage    |       Yes        |    No     |        0.12°         |
+|        ITS-38E-N            |    China 🇨🇳    |  38.0°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.12°         |
+|        PAKSAT-1R            |  Pakistan 🇵🇰   |  38.0°E  |  Non-Planned |  Late-Stage    |       Yes        |    No     |        0.12°         |
+|         FMS5-37.5E          |   France 🇫🇷    |  37.5°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.62°         |
+|      HELLAS-SAT-2G          |   Greece 🇬🇷    |  39.0°E  |  Non-Planned |  Late-Stage    |       Yes        |  Partial  |        0.88°         |
+|        HELLAS-SAT-C         |   Greece 🇬🇷    |  39.0°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.88°         |
+|      INMARSAT-S4-R          | United Kingdom 🇬🇧 |  39.0°E  |  Non-Planned |  Early-Stage   |       Yes        |    No     |        0.88°         |
+|       KYPROS-SAT-7          |   Cyprus 🇨🇾    |  39.0°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.88°         |
+|        HELLAS-SAT           |   Greece 🇬🇷    |  39.0°E  |  Non-Planned |  Late-Stage    |       Yes        |    No     |        0.88°         |
+|       KYPROS-SAT-5          |   Cyprus 🇨🇾    |  39.0°E  |  Non-Planned |  Late-Stage    |       Yes        |  Partial  |        0.88°         |
+|       KYPROS-SAT-C          |   Cyprus 🇨🇾    |  39.0°E  |  Non-Planned |  Late-Stage    |       Yes        |    No     |        0.88°         |
+|       KYPROS-SAT-3          |   Cyprus 🇨🇾    |  39.0°E  |   Planned    |  Late-Stage    |       Yes        |    No     |        0.88°         |
+|       KYPROS-SAT-6          |   Cyprus 🇨🇾    |  39.0°E  |   Planned    |  Early-Stage   |        No        |    No     |        0.88°         |
+|    HELLAS-SAT-4G            |   Greece 🇬🇷    |  39.0°E  |   Planned    |  Early-Stage   |        No        |    No     |        0.88°         |
+|    HELLAS-SAT-3G            |   Greece 🇬🇷    |  39.0°E  |   Planned    |  Late-Stage    |       Yes        |   Total   |        0.88°         |
+|    KYPROS-SAT-L4            |   Cyprus 🇨🇾    |  39.0°E  |  Non-Planned |  Late-Stage    |       Yes        |    No     |        0.88°         |
+|        GAB00000             |    Gabon 🇬🇦    |  39.0°E  |   Planned    |  Early-Stage   |        No        |    No     |        0.88°         |
+|        CANGYU-2             |    China 🇨🇳    |  37.2°E  |  Non-Planned |  Early-Stage   |        No        |    No     |        0.92°         |
+|        D  00002             |  Germany 🇩🇪    |  37.2°E  |   Planned    |  Early-Stage   |        No        |    No     |        0.92°         |
+
+
+These tables also include a 'Link' column, not shown in the example above, which points towards the relevant queried result of Part-B of the Space Network List online.
+
+
+## Notes on Automating Daily Compliance Assessments
+
+The scripts in this tool could be used as part of an automated process that assesses compliance for the entire GEO satellite population on a daily basis and appends results to a series of historical assessments. One implementation of such a concept takes the following steps:
+1. Choose a date on which to begin historical assessments.
+	* The study period for the author's doctoral thesis begins on January 1, 2010.
+2. Produce a satellite catalog for all satellites that spent at least one day in the [IADC-defined GEO protected region](https://orbitaldebris.jsc.nasa.gov/library/iadc-space-debris-guidelines-revision-2.pdf) since the start date.
+	* Save the satellite catalog in `./Data/Reference Files/satellitecatalog.csv` with the following columns:
+		* International COSPAR number ('COSPAR');
+		* NORAD ID with no leading zeros ('NORAD');
+		* Name ('SATNAME');
+		* The Space-Track.org abbreviation used to describe the satellite's operator ('COUNTRY'); and
+		* Launch date, in `m/d/yy` format ('LAUNCH').
+3. Develop a script that collates the most recent data from both single- and multi-date compliance assessments and stores them in a series of new documents (one per satellite in the satellite catalog).
+	* Format this new document with rows and columns such that it matches the multi-date assessment results documents stored in `./Data/Historical Analysis/[Today's Date]/Historical Compliance Assessments/`.
+	* Add two additional columns describing:
+		* Whether the data was collected from a single- or multi-date compliance assessment ('Assessment Type'); and
+		* The date on which the single- or multi-date compliance assessment was run ('Assessment Run Date').
+	* When a compliance assessment for a satellite on a particular date is available in both the most-recent single-date run and the most-recent multi-date run, choose to referfence the multi-date result.
+4. On a daily basis:
+	1. Refresh the satellite catalog to ensure it is up to date with the newest GEO satellites.
+	2. Run `./Code/snl.py`.
+	3. Produce an input file in the single-date format with today's longitudinal data, ensuring all satellites in the satellite catalog are included.
+		* When satellites are not in GEO during a particular evaluation date (either because they have yet to reach the geostationary belt or they have retired to a higher-altitude gragveyard orbit), use the 'n/a' symbol to describe their longitudinal position.
+	4. Run `./Code/compliance_daily.py`.
+	5. Run the new script developed in Step 3.
+5. Every two weeks:
+	1. Produce an input file in the multi-date format with longitudinal data for all satellites in the satellite catalog and all dates between the start date selected in Step 1 and today.
+		* Use the 'n/a' symbol for missing longitudinal positions.
+	2. Run `./Code/compliance_historical.py`
+
+## Notes on Visualizing Compliance Assessment Data
+
+The products from the ITU Compliance Assessment Monitor are well-suited for display on a web-based space object database.
+
+On each GEO satellite's page of a web-based space object database, relevant information to display could be:
+- Today's compliance assessment;
+- Today's note;
+	* The longest note is 334 characters and may be better suited in a tooltip.
+- A chart displaying the satellite's historical compliance with two subplots:
+	* The top subplot (the larger of the two) should display the satellite's longitudinal position overlaid on top of its corresponding ITU administation(s) regions of protections from harmful interference;
+		* The data for the background charts can be derived from `./Data/SNL Downloads/[Today's Date]/networks_[Today's Date]`; please consult the author for details.
+	* The bottom subplot should display a heatmap of historical compliance assessments.
+		* Green for 'Yes', red for 'No', yellow for 'Maybe', and gray for 'n/a'.
+	* These charts should begin at the satellite's launch and end on either its last day in the GEO region or today (whichever is earlier). 
+- Today's shortlist of nearest neighbor networks.
+	* The table can be miniaturized by removing some data; please consult the author for details. 
+- A tool to display past shortslist of nearest neighbor networks.
+- A link to a landing page on more information about the compliance asesesment tool, including its methodology and some key definitions. 

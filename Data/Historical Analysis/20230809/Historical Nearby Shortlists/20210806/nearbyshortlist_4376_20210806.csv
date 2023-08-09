@@ -1,0 +1,29 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+GRC00000,Greece 🇬🇷,22.05°E,Planned,Early-Stage,No,n/a,No,0.13°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=GRC00000&sel_satname=GRC00000&plan_id=plan
+EP-SAT-22E,France 🇫🇷,22.0°E,Non-Planned,Early-Stage,No,n/a,No,0.18°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EP-SAT-22E&sel_satname=EP-SAT-22E&plan_id=
+OMANSAT-22E,Oman 🇴🇲,22.0°E,Non-Planned,Early-Stage,No,n/a,No,0.18°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=OMANSAT-22E&sel_satname=OMANSAT-22E&plan_id=
+TIBASAT-22.5E,Egypt 🇪🇬,22.5°E,Non-Planned,Early-Stage,No,n/a,No,0.32°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=TIBASAT-22.5E&sel_satname=TIBASAT-22.5E&plan_id=
+F-SAT-30B-21.5E,France 🇫🇷,21.5°E,Planned,Early-Stage,No,n/a,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-21.5E&sel_satname=F-SAT-30B-21.5E&plan_id=plan
+SMMSAT-3R,Sweden 🇸🇪,21.5°E,Non-Planned,Early-Stage,No,n/a,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SMMSAT-3R&sel_satname=SMMSAT-3R&plan_id=
+SMMSAT-3R_1,Sweden 🇸🇪,21.5°E,Non-Planned,Early-Stage,No,n/a,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SMMSAT-3R_1&sel_satname=SMMSAT-3R_1&plan_id=
+F-SAT-30B-1-21.5E,France 🇫🇷,21.5°E,Planned,Early-Stage,No,n/a,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-1-21.5E&sel_satname=F-SAT-30B-1-21.5E&plan_id=plan
+F-SAT-E-30B-21.5E,France 🇫🇷,21.5°E,Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-E-30B-21.5E&sel_satname=F-SAT-E-30B-21.5E&plan_id=plan
+EP-SAT-21.5E,France 🇫🇷,21.5°E,Non-Planned,Early-Stage,No,n/a,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EP-SAT-21.5E&sel_satname=EP-SAT-21.5E&plan_id=
+FMS6-21.5E,France 🇫🇷,21.5°E,Non-Planned,Early-Stage,No,n/a,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=FMS6-21.5E&sel_satname=FMS6-21.5E&plan_id=
+F-SAT-N7-21.5E,France 🇫🇷,21.5°E,Non-Planned,Early-Stage,No,n/a,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-21.5E&sel_satname=F-SAT-N7-21.5E&plan_id=
+EUTELSAT 2-21.5E,France 🇫🇷,21.5°E,Non-Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EUTELSAT+2-21.5E&sel_satname=EUTELSAT+2-21.5E&plan_id=
+EUTELSAT 3-21.5E,France 🇫🇷,21.5°E,Non-Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EUTELSAT+3-21.5E&sel_satname=EUTELSAT+3-21.5E&plan_id=
+F-SAT-N-E-21.5E,France 🇫🇷,21.5°E,Non-Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-N-E-21.5E&sel_satname=F-SAT-N-E-21.5E&plan_id=
+LUX-G7-6,Luxembourg 🇱🇺,21.5°E,Non-Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LUX-G7-6&sel_satname=LUX-G7-6&plan_id=
+LUX-G6-6,Luxembourg 🇱🇺,21.5°E,Non-Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LUX-G6-6&sel_satname=LUX-G6-6&plan_id=
+EUTELSAT 1-5,France 🇫🇷,21.5°E,Non-Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=EUTELSAT+1-5&sel_satname=EUTELSAT+1-5&plan_id=
+F-SAT-N3-21.5E,France 🇫🇷,21.5°E,Non-Planned,Late-Stage,Yes,No,No,0.68°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=F-SAT-N3-21.5E&sel_satname=F-SAT-N3-21.5E&plan_id=
+ENSAT-23E,Russian Federation 🇷🇺,23.0°E,Non-Planned,Late-Stage,Yes,No,No,0.82°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ENSAT-23E&sel_satname=ENSAT-23E&plan_id=
+AMS-C10-23E,Israel 🇮🇱,23.0°E,Non-Planned,Early-Stage,No,n/a,No,0.82°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AMS-C10-23E&sel_satname=AMS-C10-23E&plan_id=
+RGS-S-23E,Russian Federation 🇷🇺,23.0°E,Non-Planned,Early-Stage,No,n/a,No,0.82°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=RGS-S-23E&sel_satname=RGS-S-23E&plan_id=
+VOLNA-17,Russian Federation 🇷🇺,23.0°E,Non-Planned,Late-Stage,Yes,No,No,0.82°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=VOLNA-17&sel_satname=VOLNA-17&plan_id=
+GALS-8,Russian Federation 🇷🇺,23.0°E,Non-Planned,Late-Stage,Yes,No,No,0.82°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=GALS-8&sel_satname=GALS-8&plan_id=
+STATSIONAR-19,Russian Federation 🇷🇺,23.0°E,Non-Planned,Late-Stage,Yes,No,No,0.82°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=STATSIONAR-19&sel_satname=STATSIONAR-19&plan_id=
+ENSAT-23E-A,Russian Federation 🇷🇺,23.0°E,Non-Planned,Early-Stage,No,n/a,No,0.82°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ENSAT-23E-A&sel_satname=ENSAT-23E-A&plan_id=
+CY-AQUARIUS,Cyprus 🇨🇾,21.35°E,Non-Planned,Early-Stage,No,n/a,No,0.83°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CY-AQUARIUS&sel_satname=CY-AQUARIUS&plan_id=
+BOT00000,Botswana 🇧🇼,21.2°E,Planned,Early-Stage,No,n/a,No,0.98°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=BOT00000&sel_satname=BOT00000&plan_id=plan

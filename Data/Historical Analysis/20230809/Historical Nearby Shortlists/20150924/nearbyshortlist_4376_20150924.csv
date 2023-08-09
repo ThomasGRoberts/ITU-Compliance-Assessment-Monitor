@@ -1,0 +1,17 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+DFH-5-03A,China 🇨🇳,66.5°E,Non-Planned,Early-Stage,No,n/a,No,0.02°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=DFH-5-03A&sel_satname=DFH-5-03A&plan_id=
+USOBO-6B,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,Partial,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USOBO-6B&sel_satname=USOBO-6B&plan_id=
+USASAT-61C,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-61C&sel_satname=USASAT-61C&plan_id=
+ODYSSEY-66E,Germany 🇩🇪,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ODYSSEY-66E&sel_satname=ODYSSEY-66E&plan_id=
+USOBO-6C,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-6C&sel_satname=USOBO-6C&plan_id=
+USASAT-55Q,United States 🇺🇸,66.0°E,Non-Planned,Early-Stage,No,Partial,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USASAT-55Q&sel_satname=USASAT-55Q&plan_id=
+INTELSAT9 66E,United States 🇺🇸,66.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT9+66E&sel_satname=INTELSAT9+66E&plan_id=
+INTELSAT7 66E,United States 🇺🇸,66.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=INTELSAT7+66E&sel_satname=INTELSAT7+66E&plan_id=
+SECOMSAT-1-66E,Spain 🇪🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-1-66E&sel_satname=SECOMSAT-1-66E&plan_id=
+SECOMSAT-2-66E,Spain 🇪🇸,66.0°E,Non-Planned,Early-Stage,No,n/a,No,0.48°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-2-66E&sel_satname=SECOMSAT-2-66E&plan_id=
+IK-67E,Russian Federation 🇷🇺,67.0°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IK-67E&sel_satname=IK-67E&plan_id=
+OMANSAT-67E,Oman 🇴🇲,67.0°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=OMANSAT-67E&sel_satname=OMANSAT-67E&plan_id=
+AZERSAT-67E,Azerbaijan 🇦🇿,67.0°E,Non-Planned,Early-Stage,No,n/a,No,0.52°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AZERSAT-67E&sel_satname=AZERSAT-67E&plan_id=
+EGY00000,Egypt 🇪🇬,67.11°E,Planned,Early-Stage,No,n/a,No,0.63°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=EGY00000&sel_satname=EGY00000&plan_id=plan
+KAZSAT-KA-67.2E,Kazakhstan 🇰🇿,67.2°E,Non-Planned,Early-Stage,No,n/a,No,0.72°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KAZSAT-KA-67.2E&sel_satname=KAZSAT-KA-67.2E&plan_id=
+ZWE00000,Zimbabwe 🇿🇼,65.6°E,Planned,Early-Stage,No,n/a,No,0.88°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ZWE00000&sel_satname=ZWE00000&plan_id=plan
