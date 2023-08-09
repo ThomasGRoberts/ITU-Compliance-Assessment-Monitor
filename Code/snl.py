@@ -78,8 +78,8 @@ with open('../Data/SNL Downloads/' + assessmentdate + '/snl_namechange_' + asses
 
 ## Now let's organize the data into one easy-to-read file. 
 # Write lists that ranks the order of the various filing types that can be found in the unplanned and planned list by maturity. More mature filings types appear later in these lists.
-unplanned_types = ['A', 'C', 'N', 'U']
-planned_types = ['P/Plan/List', 'P', 'N', 'U']
+unplanned_types = ['A', 'U', 'C', 'N']
+planned_types = ['P/Plan/List', 'P', 'U', 'N']
 # Make a list of planned networks and their most-mature filing categories.
 unplanned_license_names = []
 unplanned_license_types = []

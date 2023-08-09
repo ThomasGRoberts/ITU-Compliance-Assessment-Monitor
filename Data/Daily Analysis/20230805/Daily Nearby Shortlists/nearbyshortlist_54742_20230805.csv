@@ -1,0 +1,18 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+USASAT-31S,United States 🇺🇸,89.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-31S&sel_satname=USASAT-31S&plan_id=
+USASAT-35O,United States 🇺🇸,89.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-35O&sel_satname=USASAT-35O&plan_id=
+USASAT-24E,United States 🇺🇸,89.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-24E&sel_satname=USASAT-24E&plan_id=
+USASAT-101H,United States 🇺🇸,89.0°W,Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=USASAT-101H&sel_satname=USASAT-101H&plan_id=plan
+UK-KA-8R-VB,United Kingdom 🇬🇧,89.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-8R-VB&sel_satname=UK-KA-8R-VB&plan_id=
+UK-KA-89W,United Kingdom 🇬🇧,89.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UK-KA-89W&sel_satname=UK-KA-89W&plan_id=
+USASAT-66F,United States 🇺🇸,89.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-66F&sel_satname=USASAT-66F&plan_id=
+B-SAT-89W,Brazil 🇧🇷,89.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=B-SAT-89W&sel_satname=B-SAT-89W&plan_id=
+PESSE-89W,Netherlands 🇳🇱,89.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PESSE-89W&sel_satname=PESSE-89W&plan_id=
+KNA00000,Saint Kitts and Nevis 🇰🇳,88.8°W,Planned,Early-Stage,No,n/a,No,0.22°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=KNA00000&sel_satname=KNA00000&plan_id=plan
+GOES-5-89.5W,United States 🇺🇸,89.5°W,Non-Planned,Early-Stage,No,n/a,No,0.48°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GOES-5-89.5W&sel_satname=GOES-5-89.5W&plan_id=
+CHNHTSAT-88.5W,China 🇨🇳,88.5°W,Non-Planned,Early-Stage,No,n/a,No,0.52°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-88.5W&sel_satname=CHNHTSAT-88.5W&plan_id=
+PRU00000,Peru 🇵🇪,89.9°W,Planned,Early-Stage,No,n/a,No,0.88°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=PRU00000&sel_satname=PRU00000&plan_id=plan
+F-SAT-30B-90W,France 🇫🇷,90.0°W,Planned,Early-Stage,No,n/a,No,0.98°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-90W&sel_satname=F-SAT-30B-90W&plan_id=plan
+F-SAT-N7-90W,France 🇫🇷,90.0°W,Non-Planned,Early-Stage,No,n/a,No,0.98°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-90W&sel_satname=F-SAT-N7-90W&plan_id=
+MILSTAR 1,United States 🇺🇸,90.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.98°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=MILSTAR+1&sel_satname=MILSTAR+1&plan_id=
+USGAE-1,United States 🇺🇸,90.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.98°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGAE-1&sel_satname=USGAE-1&plan_id=

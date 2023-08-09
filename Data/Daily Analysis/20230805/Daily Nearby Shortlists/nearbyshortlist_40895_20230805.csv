@@ -1,0 +1,16 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+EXPRESS-2B,Russian Federation 🇷🇺,14.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-2B&sel_satname=EXPRESS-2B&plan_id=
+EXPRESS-2,Russian Federation 🇷🇺,14.0°W,Non-Planned,Late-Stage,Yes,No,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-2&sel_satname=EXPRESS-2&plan_id=
+VOLNA-2,Russian Federation 🇷🇺,14.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=VOLNA-2&sel_satname=VOLNA-2&plan_id=
+MADAR-14W,United Arab Emirates 🇦🇪,14.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-14W&sel_satname=MADAR-14W&plan_id=
+KYPROS-14W,Cyprus 🇨🇾,14.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-14W&sel_satname=KYPROS-14W&plan_id=
+FOTON-1,Russian Federation 🇷🇺,13.5°W,Planned,Late-Stage,Yes,Partial,No,0.49°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=FOTON-1&sel_satname=FOTON-1&plan_id=plan
+POTOK-1,Russian Federation 🇷🇺,13.5°W,Non-Planned,Late-Stage,Yes,Partial,No,0.49°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=POTOK-1&sel_satname=POTOK-1&plan_id=
+FOTON-1,Russian Federation 🇷🇺,13.5°W,Non-Planned,Late-Stage,Yes,Partial,No,0.49°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=FOTON-1&sel_satname=FOTON-1&plan_id=
+GOMS-14.5W,Russian Federation 🇷🇺,14.5°W,Non-Planned,Late-Stage,Yes,No,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GOMS-14.5W&sel_satname=GOMS-14.5W&plan_id=
+SIGNSAT-15W,China 🇨🇳,14.5°W,Non-Planned,Early-Stage,No,n/a,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-15W&sel_satname=SIGNSAT-15W&plan_id=
+P92-4,United States 🇺🇸,13.0°W,Non-Planned,Late-Stage,Yes,No,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P92-4&sel_satname=P92-4&plan_id=
+USTRO-4,United States 🇺🇸,13.0°W,Non-Planned,Late-Stage,Yes,No,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USTRO-4&sel_satname=USTRO-4&plan_id=
+P-197-4,United States 🇺🇸,13.0°W,Non-Planned,Late-Stage,Yes,No,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P-197-4&sel_satname=P-197-4&plan_id=
+P92-4A,United States 🇺🇸,13.0°W,Non-Planned,Late-Stage,Yes,No,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P92-4A&sel_satname=P92-4A&plan_id=
+USCSID-E2,United States 🇺🇸,13.0°W,Non-Planned,Late-Stage,Yes,No,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USCSID-E2&sel_satname=USCSID-E2&plan_id=

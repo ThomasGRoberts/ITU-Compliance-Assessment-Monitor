@@ -1,0 +1,23 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+EMARSAT-7S,United Arab Emirates 🇦🇪,98.5°E,Non-Planned,Late-Stage,Yes,Partial,No,0.11°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EMARSAT-7S&sel_satname=EMARSAT-7S&plan_id=
+EMARSAT-4S,United Arab Emirates 🇦🇪,98.5°E,Non-Planned,Late-Stage,Yes,Partial,No,0.11°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EMARSAT-4S&sel_satname=EMARSAT-4S&plan_id=
+MADAR-98.5E-2,United Arab Emirates 🇦🇪,98.5°E,Non-Planned,Early-Stage,No,n/a,No,0.11°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-98.5E-2&sel_satname=MADAR-98.5E-2&plan_id=
+MADAR-98.5E,United Arab Emirates 🇦🇪,98.5°E,Non-Planned,Early-Stage,No,n/a,No,0.11°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-98.5E&sel_satname=MADAR-98.5E&plan_id=
+EMARSAT-13S,United Arab Emirates 🇦🇪,98.5°E,Non-Planned,Early-Stage,No,n/a,No,0.11°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EMARSAT-13S&sel_satname=EMARSAT-13S&plan_id=
+SOM00000,Somalia 🇸🇴,98.4°E,Planned,Early-Stage,No,n/a,No,0.21°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SOM00000&sel_satname=SOM00000&plan_id=plan
+QATARSAT-30B-99E-G2,Qatar 🇶🇦,99.0°E,Planned,Early-Stage,No,n/a,No,0.39°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-99E-G2&sel_satname=QATARSAT-30B-99E-G2&plan_id=plan
+QATARSAT-30B-99E,Qatar 🇶🇦,99.0°E,Planned,Early-Stage,No,n/a,No,0.39°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=QATARSAT-30B-99E&sel_satname=QATARSAT-30B-99E&plan_id=plan
+QATARSAT-G3-24,Qatar 🇶🇦,99.0°E,Non-Planned,Late-Stage,Yes,No,No,0.39°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=QATARSAT-G3-24&sel_satname=QATARSAT-G3-24&plan_id=
+QATARSAT-G5-99E,Qatar 🇶🇦,99.0°E,Non-Planned,Early-Stage,No,n/a,No,0.39°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=QATARSAT-G5-99E&sel_satname=QATARSAT-G5-99E&plan_id=
+CHNSAT-98E,China 🇨🇳,98.2°E,Non-Planned,Late-Stage,Yes,No,No,0.41°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHNSAT-98E&sel_satname=CHNSAT-98E&plan_id=
+SNG00000,Singapore 🇸🇬,98.1°E,Planned,Early-Stage,No,n/a,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SNG00000&sel_satname=SNG00000&plan_id=plan
+PROGNOZ-8,Russian Federation 🇷🇺,98.0°E,Non-Planned,Late-Stage,Yes,No,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PROGNOZ-8&sel_satname=PROGNOZ-8&plan_id=
+CHINASAT-22,China 🇨🇳,98.0°E,Non-Planned,Late-Stage,Yes,No,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-22&sel_satname=CHINASAT-22&plan_id=
+CHINASAT-64,China 🇨🇳,98.0°E,Non-Planned,Late-Stage,Yes,No,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-64&sel_satname=CHINASAT-64&plan_id=
+CHINASAT-44,China 🇨🇳,98.0°E,Non-Planned,Late-Stage,Yes,No,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-44&sel_satname=CHINASAT-44&plan_id=
+GALS-M-8,Russian Federation 🇷🇺,98.0°E,Non-Planned,Early-Stage,No,n/a,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GALS-M-8&sel_satname=GALS-M-8&plan_id=
+CHINASAT-3,China 🇨🇳,98.0°E,Non-Planned,Late-Stage,Yes,No,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-3&sel_satname=CHINASAT-3&plan_id=
+DFH-3A-OC,China 🇨🇳,98.0°E,Non-Planned,Late-Stage,Yes,No,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=DFH-3A-OC&sel_satname=DFH-3A-OC&plan_id=
+CHNHTSAT-98E,China 🇨🇳,98.0°E,Non-Planned,Early-Stage,No,n/a,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-98E&sel_satname=CHNHTSAT-98E&plan_id=
+FYGEOSAT-99.5E,China 🇨🇳,99.5°E,Non-Planned,Late-Stage,Yes,No,No,0.89°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=FYGEOSAT-99.5E&sel_satname=FYGEOSAT-99.5E&plan_id=
+FYGEOSAT-A-99.5E,China 🇨🇳,99.5°E,Non-Planned,Early-Stage,No,n/a,No,0.89°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=FYGEOSAT-A-99.5E&sel_satname=FYGEOSAT-A-99.5E&plan_id=

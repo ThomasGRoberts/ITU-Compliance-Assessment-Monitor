@@ -1,0 +1,14 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+GOES-2-104.5W,United States 🇺🇸,104.5°W,Non-Planned,Early-Stage,No,n/a,No,0.22°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GOES-2-104.5W&sel_satname=GOES-2-104.5W&plan_id=
+UKSAT-38,United Kingdom 🇬🇧,105.0°W,Non-Planned,Early-Stage,No,n/a,No,0.28°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UKSAT-38&sel_satname=UKSAT-38&plan_id=
+LUX-G7 105W,Luxembourg 🇱🇺,105.0°W,Non-Planned,Early-Stage,No,n/a,No,0.28°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G7+105W&sel_satname=LUX-G7+105W&plan_id=
+IRIS-1A,United States 🇺🇸,105.0°W,Non-Planned,Late-Stage,Yes,Full,No,0.28°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=IRIS-1A&sel_satname=IRIS-1A&plan_id=
+GIBSAT A1,United Kingdom 🇬🇧,105.0°W,Non-Planned,Late-Stage,Yes,No,No,0.28°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GIBSAT+A1&sel_satname=GIBSAT+A1&plan_id=
+NSS-FSS-G1 105W,Netherlands 🇳🇱,105.0°W,Planned,Early-Stage,No,n/a,No,0.28°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS-G1+105W&sel_satname=NSS-FSS-G1+105W&plan_id=plan
+USASAT-31K,United States 🇺🇸,105.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.28°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-31K&sel_satname=USASAT-31K&plan_id=
+USASAT-23H,United States 🇺🇸,105.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.28°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-23H&sel_satname=USASAT-23H&plan_id=
+NSS-FSS-105W-2,Netherlands 🇳🇱,105.0°W,Planned,Early-Stage,No,n/a,No,0.28°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS-105W-2&sel_satname=NSS-FSS-105W-2&plan_id=plan
+FLTSATCOM-C E PAC-1,United States 🇺🇸,105.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.28°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=FLTSATCOM-C+E+PAC-1&sel_satname=FLTSATCOM-C+E+PAC-1&plan_id=
+USASAT-35G,United States 🇺🇸,105.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.28°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-35G&sel_satname=USASAT-35G&plan_id=
+GOES-5-105W,United States 🇺🇸,105.0°W,Non-Planned,Early-Stage,No,n/a,No,0.28°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GOES-5-105W&sel_satname=GOES-5-105W&plan_id=
+EQA00000,Ecuador 🇪🇨,104.0°W,Planned,Early-Stage,No,n/a,No,0.72°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=EQA00000&sel_satname=EQA00000&plan_id=plan

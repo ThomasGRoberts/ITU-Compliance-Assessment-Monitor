@@ -1,0 +1,9 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+NSS-FSS 176E,Netherlands 🇳🇱,176.0°E,Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS+176E&sel_satname=NSS-FSS+176E&plan_id=plan
+DIMENSION-5,United Kingdom 🇬🇧,176.0°E,Non-Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=DIMENSION-5&sel_satname=DIMENSION-5&plan_id=
+LUX-G9-30,Luxembourg 🇱🇺,176.0°E,Non-Planned,Late-Stage,Yes,Full,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=LUX-G9-30&sel_satname=LUX-G9-30&plan_id=
+NSS-G8-176E,Netherlands 🇳🇱,176.0°E,Non-Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-G8-176E&sel_satname=NSS-G8-176E&plan_id=
+CTDRS-2-176.8E,China 🇨🇳,176.8°E,Non-Planned,Late-Stage,Yes,No,No,0.80°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CTDRS-2-176.8E&sel_satname=CTDRS-2-176.8E&plan_id=
+USGOVSAT-12,United States 🇺🇸,175.0°E,Non-Planned,Late-Stage,Yes,Partial,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGOVSAT-12&sel_satname=USGOVSAT-12&plan_id=
+USGCSS PH3 W PAC,United States 🇺🇸,175.0°E,Non-Planned,Late-Stage,Yes,Partial,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGCSS+PH3+W+PAC&sel_satname=USGCSS+PH3+W+PAC&plan_id=
+USGCSS PH3B W PAC,United States 🇺🇸,175.0°E,Non-Planned,Late-Stage,Yes,Partial,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGCSS+PH3B+W+PAC&sel_satname=USGCSS+PH3B+W+PAC&plan_id=

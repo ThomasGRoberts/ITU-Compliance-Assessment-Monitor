@@ -1,0 +1,14 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+CHNHTSAT-111.7W,China 🇨🇳,111.7°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNHTSAT-111.7W&sel_satname=CHNHTSAT-111.7W&plan_id=
+USGOVSAT-5R,United States 🇺🇸,112.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGOVSAT-5R&sel_satname=USGOVSAT-5R&plan_id=
+USGOVSAT-5A,United States 🇺🇸,112.0°W,Non-Planned,Late-Stage,Yes,Partial,Total,0.31°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGOVSAT-5A&sel_satname=USGOVSAT-5A&plan_id=
+CANSAT-75,Canada 🇨🇦,111.1°W,Non-Planned,Early-Stage,No,n/a,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CANSAT-75&sel_satname=CANSAT-75&plan_id=
+ANIK-F2R,Canada 🇨🇦,111.1°W,Non-Planned,Late-Stage,Yes,No,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ANIK-F2R&sel_satname=ANIK-F2R&plan_id=
+ANIK-F2,Canada 🇨🇦,111.1°W,Non-Planned,Late-Stage,Yes,No,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ANIK-F2&sel_satname=ANIK-F2&plan_id=
+CANSAT-24,Canada 🇨🇦,111.1°W,Non-Planned,Late-Stage,Yes,No,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT-24&sel_satname=CANSAT-24&plan_id=
+CANSAT KA-4,Canada 🇨🇦,111.1°W,Non-Planned,Late-Stage,Yes,No,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT+KA-4&sel_satname=CANSAT+KA-4&plan_id=
+ANIK E-B,Canada 🇨🇦,111.1°W,Non-Planned,Late-Stage,Yes,No,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ANIK+E-B&sel_satname=ANIK+E-B&plan_id=
+CAN-BSS63,Canada 🇨🇦,111.1°W,Non-Planned,Early-Stage,No,n/a,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CAN-BSS63&sel_satname=CAN-BSS63&plan_id=
+CANSAT-24X-30B,Canada 🇨🇦,111.1°W,Planned,Late-Stage,Yes,No,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT-24X-30B&sel_satname=CANSAT-24X-30B&plan_id=plan
+CAN0CENT,Canada 🇨🇦,111.1°W,Planned,Early-Stage,No,n/a,No,0.59°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CAN0CENT&sel_satname=CAN0CENT&plan_id=plan
+V-RDBS2,Netherlands 🇳🇱,110.9°W,Non-Planned,Early-Stage,No,n/a,No,0.79°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=V-RDBS2&sel_satname=V-RDBS2&plan_id=

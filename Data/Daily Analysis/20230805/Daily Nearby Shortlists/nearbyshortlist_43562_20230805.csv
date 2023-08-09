@@ -1,0 +1,10 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+B-SAT-63W,Brazil 🇧🇷,63.0°W,Non-Planned,Early-Stage,No,n/a,No,0.03°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=B-SAT-63W&sel_satname=B-SAT-63W&plan_id=
+B-SAT-1I-1,Brazil 🇧🇷,63.0°W,Non-Planned,Late-Stage,Yes,No,No,0.03°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-1I-1&sel_satname=B-SAT-1I-1&plan_id=
+IOMSAT-KA-63W-R,United Kingdom 🇬🇧,63.0°W,Non-Planned,Late-Stage,Yes,No,No,0.03°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=IOMSAT-KA-63W-R&sel_satname=IOMSAT-KA-63W-R&plan_id=
+B-SAT I,Brazil 🇧🇷,63.0°W,Non-Planned,Late-Stage,Yes,No,No,0.03°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT+I&sel_satname=B-SAT+I&plan_id=
+IOMSAT-KA-63W,United Kingdom 🇬🇧,63.0°W,Non-Planned,Late-Stage,Yes,No,No,0.03°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=IOMSAT-KA-63W&sel_satname=IOMSAT-KA-63W&plan_id=
+B-SAT-3I,Brazil 🇧🇷,63.0°W,Planned,Late-Stage,Yes,No,No,0.03°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-3I&sel_satname=B-SAT-3I&plan_id=plan
+B-SAT-3I-1,Brazil 🇧🇷,63.0°W,Planned,Early-Stage,No,n/a,No,0.03°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=B-SAT-3I-1&sel_satname=B-SAT-3I-1&plan_id=plan
+ITS-AR-63.2W,China 🇨🇳,63.2°W,Non-Planned,Early-Stage,No,n/a,No,0.17°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ITS-AR-63.2W&sel_satname=ITS-AR-63.2W&plan_id=
+PTC00000,United Kingdom 🇬🇧,62.3°W,Planned,Early-Stage,No,n/a,No,0.73°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=PTC00000&sel_satname=PTC00000&plan_id=plan

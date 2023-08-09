@@ -1,0 +1,16 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+NSS-G4-6,Netherlands 🇳🇱,131.0°W,Non-Planned,Late-Stage,Yes,Partial,Total,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=NSS-G4-6&sel_satname=NSS-G4-6&plan_id=
+HISPASAT-67A,Spain 🇪🇸,131.0°W,Non-Planned,Early-Stage,No,n/a,No,0.08°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-67A&sel_satname=HISPASAT-67A&plan_id=
+DIMENSION-6,United Kingdom 🇬🇧,131.0°W,Non-Planned,Early-Stage,No,n/a,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=DIMENSION-6&sel_satname=DIMENSION-6&plan_id=
+SE-8-131W,Norway 🇳🇴,131.0°W,Non-Planned,Early-Stage,No,n/a,No,0.08°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SE-8-131W&sel_satname=SE-8-131W&plan_id=
+HISPASAT-1-131W,Spain 🇪🇸,131.0°W,Non-Planned,Early-Stage,No,n/a,No,0.08°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-1-131W&sel_satname=HISPASAT-1-131W&plan_id=
+NSS-G7-131W,Netherlands 🇳🇱,131.0°W,Non-Planned,Early-Stage,No,n/a,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-G7-131W&sel_satname=NSS-G7-131W&plan_id=
+NSS-FSS 131W,Netherlands 🇳🇱,131.0°W,Planned,Early-Stage,No,n/a,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS+131W&sel_satname=NSS-FSS+131W&plan_id=plan
+USASAT-35A,United States 🇺🇸,131.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-35A&sel_satname=USASAT-35A&plan_id=
+USASAT-22H,United States 🇺🇸,131.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-22H&sel_satname=USASAT-22H&plan_id=
+SLV00000,El Salvador 🇸🇻,130.5°W,Planned,Early-Stage,No,n/a,No,0.42°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SLV00000&sel_satname=SLV00000&plan_id=plan
+USGCSS PH3 E PAC-2,United States 🇺🇸,130.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.92°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGCSS+PH3+E+PAC-2&sel_satname=USGCSS+PH3+E+PAC-2&plan_id=
+GOES-2-130W,United States 🇺🇸,130.0°W,Non-Planned,Early-Stage,No,n/a,No,0.92°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GOES-2-130W&sel_satname=GOES-2-130W&plan_id=
+USGOVSAT-4A,United States 🇺🇸,130.0°W,Non-Planned,Late-Stage,Yes,No,No,0.92°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGOVSAT-4A&sel_satname=USGOVSAT-4A&plan_id=
+USGCSS PH3B E PAC-2,United States 🇺🇸,130.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.92°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGCSS+PH3B+E+PAC-2&sel_satname=USGCSS+PH3B+E+PAC-2&plan_id=
+USGOVSAT-4B,United States 🇺🇸,130.0°W,Non-Planned,Early-Stage,No,n/a,No,0.92°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USGOVSAT-4B&sel_satname=USGOVSAT-4B&plan_id=

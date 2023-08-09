@@ -1,0 +1,21 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+HISPASAT-50A,Spain 🇪🇸,74.0°W,Non-Planned,Early-Stage,No,n/a,No,0.06°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-50A&sel_satname=HISPASAT-50A&plan_id=
+HISPASAT-86A,Spain 🇪🇸,74.0°W,Non-Planned,Early-Stage,No,n/a,No,0.06°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-86A&sel_satname=HISPASAT-86A&plan_id=
+USASAT-55E-2,United States 🇺🇸,74.0°W,Non-Planned,Early-Stage,No,n/a,No,0.06°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-55E-2&sel_satname=USASAT-55E-2&plan_id=
+NSS-G10-74W,Netherlands 🇳🇱,74.0°W,Non-Planned,Early-Stage,No,n/a,No,0.06°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-G10-74W&sel_satname=NSS-G10-74W&plan_id=
+HISPASAT-53A,Spain 🇪🇸,74.0°W,Planned,Early-Stage,No,n/a,No,0.06°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-53A&sel_satname=HISPASAT-53A&plan_id=plan
+HISPASAT-1-74W,Spain 🇪🇸,74.0°W,Planned,Early-Stage,No,n/a,No,0.06°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-1-74W&sel_satname=HISPASAT-1-74W&plan_id=plan
+HISPASAT-78A,Spain 🇪🇸,74.0°W,Planned,Early-Stage,No,n/a,No,0.06°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-78A&sel_satname=HISPASAT-78A&plan_id=plan
+HISPASAT-2-74W,Spain 🇪🇸,74.0°W,Non-Planned,Early-Stage,No,n/a,No,0.06°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-2-74W&sel_satname=HISPASAT-2-74W&plan_id=
+BAH00000,Bahamas 🇧🇸,74.3°W,Planned,Early-Stage,No,n/a,No,0.24°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=BAH00000&sel_satname=BAH00000&plan_id=plan
+TRD00000,Trinidad and Tobago 🇹🇹,73.4°W,Planned,Early-Stage,No,n/a,No,0.66°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=TRD00000&sel_satname=TRD00000&plan_id=plan
+CHL00000,Chile 🇨🇱,74.9°W,Planned,Early-Stage,No,n/a,No,0.84°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CHL00000&sel_satname=CHL00000&plan_id=plan
+GOES-EAST-1,United States 🇺🇸,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GOES-EAST-1&sel_satname=GOES-EAST-1&plan_id=
+B-SAT-S,Brazil 🇧🇷,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-S&sel_satname=B-SAT-S&plan_id=
+SISCOMIS-4,Brazil 🇧🇷,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SISCOMIS-4&sel_satname=SISCOMIS-4&plan_id=
+B-SAT-1S,Brazil 🇧🇷,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-1S&sel_satname=B-SAT-1S&plan_id=
+GOES-EAST-4,United States 🇺🇸,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GOES-EAST-4&sel_satname=GOES-EAST-4&plan_id=
+B-SAT-1S-1,Brazil 🇧🇷,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-1S-1&sel_satname=B-SAT-1S-1&plan_id=
+SISCOMIS-4A,Brazil 🇧🇷,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SISCOMIS-4A&sel_satname=SISCOMIS-4A&plan_id=
+GOES-EAST-2,United States 🇺🇸,75.0°W,Non-Planned,Late-Stage,Yes,No,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GOES-EAST-2&sel_satname=GOES-EAST-2&plan_id=
+QATARSAT-G5-75W,Qatar 🇶🇦,75.0°W,Non-Planned,Early-Stage,No,n/a,No,0.94°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=QATARSAT-G5-75W&sel_satname=QATARSAT-G5-75W&plan_id=

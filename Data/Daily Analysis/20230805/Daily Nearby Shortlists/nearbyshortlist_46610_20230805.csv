@@ -1,0 +1,22 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+AST-IKAU-117.9E,France 🇫🇷,117.9°E,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AST-IKAU-117.9E&sel_satname=AST-IKAU-117.9E&plan_id=
+PALAPA-B3-EC,Indonesia 🇮🇩,118.0°E,Non-Planned,Late-Stage,Yes,No,No,0.09°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=PALAPA-B3-EC&sel_satname=PALAPA-B3-EC&plan_id=
+NUSANTARA-B2-F,Indonesia 🇮🇩,118.0°E,Non-Planned,Early-Stage,No,n/a,No,0.09°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NUSANTARA-B2-F&sel_satname=NUSANTARA-B2-F&plan_id=
+CHNSAT-118E,China 🇨🇳,118.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.09°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHNSAT-118E&sel_satname=CHNSAT-118E&plan_id=
+PALAPA-B3,Indonesia 🇮🇩,118.0°E,Non-Planned,Late-Stage,Yes,No,No,0.09°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=PALAPA-B3&sel_satname=PALAPA-B3&plan_id=
+PALAPA-C3-K,Indonesia 🇮🇩,118.0°E,Non-Planned,Late-Stage,Yes,No,No,0.09°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=PALAPA-C3-K&sel_satname=PALAPA-C3-K&plan_id=
+CHNNEWSAT-G1-118E,China 🇨🇳,118.0°E,Non-Planned,Early-Stage,No,n/a,No,0.09°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-118E&sel_satname=CHNNEWSAT-G1-118E&plan_id=
+CHNNEWSAT-G2-118E,China 🇨🇳,118.0°E,Non-Planned,Early-Stage,No,n/a,No,0.09°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G2-118E&sel_satname=CHNNEWSAT-G2-118E&plan_id=
+NUSANTARA-B2G-30B,Indonesia 🇮🇩,118.0°E,Planned,Early-Stage,No,n/a,No,0.09°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NUSANTARA-B2G-30B&sel_satname=NUSANTARA-B2G-30B&plan_id=plan
+PALAPA-B3 TT&C,Indonesia 🇮🇩,118.0°E,Non-Planned,Late-Stage,Yes,No,No,0.09°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=PALAPA-B3+TT&C&sel_satname=PALAPA-B3+TT&C&plan_id=
+PALAPA-C3,Indonesia 🇮🇩,118.0°E,Non-Planned,Late-Stage,Yes,No,No,0.09°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=PALAPA-C3&sel_satname=PALAPA-C3&plan_id=
+DFH-5-04A,China 🇨🇳,117.8°E,Non-Planned,Early-Stage,No,Full,No,0.11°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=DFH-5-04A&sel_satname=DFH-5-04A&plan_id=
+MLD00000,Maldives 🇲🇻,117.6°E,Planned,Early-Stage,No,n/a,No,0.31°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MLD00000&sel_satname=MLD00000&plan_id=plan
+QXSI-118.3E-EX-L,China 🇨🇳,118.3°E,Non-Planned,Early-Stage,No,n/a,No,0.39°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=QXSI-118.3E-EX-L&sel_satname=QXSI-118.3E-EX-L&plan_id=
+INMARSAT-6-117E5,United Kingdom 🇬🇧,117.5°E,Non-Planned,Early-Stage,No,n/a,No,0.41°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INMARSAT-6-117E5&sel_satname=INMARSAT-6-117E5&plan_id=
+INSAT-KA117.5E,India 🇮🇳,117.5°E,Non-Planned,Early-Stage,No,n/a,No,0.41°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INSAT-KA117.5E&sel_satname=INSAT-KA117.5E&plan_id=
+SE-KA-117.5E,Norway 🇳🇴,117.5°E,Non-Planned,Late-Stage,Yes,No,Total,0.41°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SE-KA-117.5E&sel_satname=SE-KA-117.5E&plan_id=
+VNSAT-1A3,Viet Nam 🇻🇳,117.5°E,Non-Planned,Late-Stage,Yes,No,Total,0.41°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=VNSAT-1A3&sel_satname=VNSAT-1A3&plan_id=
+F-SAT-N7-117.4E,France 🇫🇷,117.4°E,Non-Planned,Early-Stage,No,n/a,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-117.4E&sel_satname=F-SAT-N7-117.4E&plan_id=
+F-SAT-30B-117.4E,France 🇫🇷,117.4°E,Planned,Early-Stage,No,n/a,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-117.4E&sel_satname=F-SAT-30B-117.4E&plan_id=plan
+MAC00000,China 🇨🇳,117.0°E,Planned,Early-Stage,No,n/a,No,0.91°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MAC00000&sel_satname=MAC00000&plan_id=plan

@@ -1,0 +1,18 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+USASAT-26A-1,United States 🇺🇸,37.5°W,Non-Planned,Early-Stage,No,n/a,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-26A-1&sel_satname=USASAT-26A-1&plan_id=
+USASAT-26A,United States 🇺🇸,37.5°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-26A&sel_satname=USASAT-26A&plan_id=
+USASAT-25A,United States 🇺🇸,37.5°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-25A&sel_satname=USASAT-25A&plan_id=
+USASAT-25A-1,United States 🇺🇸,37.5°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-25A-1&sel_satname=USASAT-25A-1&plan_id=
+G  00000,United Kingdom 🇬🇧,37.1°W,Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=G++00000&sel_satname=G++00000&plan_id=plan
+FLKSTGGL,United Kingdom 🇬🇧,37.1°W,Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=FLKSTGGL&sel_satname=FLKSTGGL&plan_id=plan
+BERCAYMS,United Kingdom 🇬🇧,37.1°W,Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=BERCAYMS&sel_satname=BERCAYMS&plan_id=plan
+ASCSTHTC,United Kingdom 🇬🇧,37.1°W,Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ASCSTHTC&sel_satname=ASCSTHTC&plan_id=plan
+EG-SAT-38W,France 🇫🇷,38.0°W,Non-Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EG-SAT-38W&sel_satname=EG-SAT-38W&plan_id=
+USOBO-15B,United States 🇺🇸,38.0°W,Non-Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-15B&sel_satname=USOBO-15B&plan_id=
+USGON-5,United States 🇺🇸,38.0°W,Non-Planned,Late-Stage,Yes,No,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGON-5&sel_satname=USGON-5&plan_id=
+USOBO-15C,United States 🇺🇸,38.0°W,Non-Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-15C&sel_satname=USOBO-15C&plan_id=
+IK-37W,Russian Federation 🇷🇺,37.0°W,Non-Planned,Early-Stage,No,n/a,No,0.55°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IK-37W&sel_satname=IK-37W&plan_id=
+GENESIS-17,Germany 🇩🇪,37.0°W,Non-Planned,Early-Stage,No,n/a,No,0.55°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GENESIS-17&sel_satname=GENESIS-17&plan_id=
+MNE00000,Montenegro 🇲🇪,36.6°W,Planned,Early-Stage,No,n/a,No,0.95°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MNE00000&sel_satname=MNE00000&plan_id=plan
+NGR00000,Niger 🇳🇪,38.5°W,Planned,Early-Stage,No,n/a,No,0.95°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NGR00000&sel_satname=NGR00000&plan_id=plan
+MADAR-38.5W,United Arab Emirates 🇦🇪,38.5°W,Non-Planned,Early-Stage,No,n/a,No,0.95°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-38.5W&sel_satname=MADAR-38.5W&plan_id=

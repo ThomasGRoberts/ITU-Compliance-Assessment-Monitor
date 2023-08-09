@@ -1,0 +1,12 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+DFH-4-OAF,China 🇨🇳,155.0°E,Non-Planned,Late-Stage,Yes,Full,No,0.13°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=DFH-4-OAF&sel_satname=DFH-4-OAF&plan_id=
+PNG00000,Papua New Guinea 🇵🇬,154.1°E,Planned,Early-Stage,No,n/a,No,0.77°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=PNG00000&sel_satname=PNG00000&plan_id=plan
+N-SAT-154E,Japan 🇯🇵,154.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=N-SAT-154E&sel_satname=N-SAT-154E&plan_id=
+IOMSAT-R1,United Kingdom 🇬🇧,154.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=IOMSAT-R1&sel_satname=IOMSAT-R1&plan_id=
+PESSE-154E,Netherlands 🇳🇱,154.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PESSE-154E&sel_satname=PESSE-154E&plan_id=
+JCSAT-2,Japan 🇯🇵,154.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=JCSAT-2&sel_satname=JCSAT-2&plan_id=
+JCSAT-2R,Japan 🇯🇵,154.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=JCSAT-2R&sel_satname=JCSAT-2R&plan_id=
+JMCS-6-154E,Japan 🇯🇵,154.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=JMCS-6-154E&sel_satname=JMCS-6-154E&plan_id=
+USAEGIS-154E,United States 🇺🇸,154.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USAEGIS-154E&sel_satname=USAEGIS-154E&plan_id=
+N-SAT-Y22-154E,Japan 🇯🇵,154.0°E,Non-Planned,Early-Stage,No,n/a,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=N-SAT-Y22-154E&sel_satname=N-SAT-Y22-154E&plan_id=
+JCSAT-FO-154E,Japan 🇯🇵,154.0°E,Non-Planned,Late-Stage,Yes,No,No,0.87°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=JCSAT-FO-154E&sel_satname=JCSAT-FO-154E&plan_id=

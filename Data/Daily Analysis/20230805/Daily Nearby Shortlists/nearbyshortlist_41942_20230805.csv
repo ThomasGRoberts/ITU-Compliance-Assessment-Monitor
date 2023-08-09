@@ -1,0 +1,11 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+HISPASAT-16A,Spain 🇪🇸,36.0°W,Non-Planned,Late-Stage,Yes,Full,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=HISPASAT-16A&sel_satname=HISPASAT-16A&plan_id=
+HISPASAT-99A,Spain 🇪🇸,36.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-99A&sel_satname=HISPASAT-99A&plan_id=
+HISPASAT-2-36W,Spain 🇪🇸,36.0°W,Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-2-36W&sel_satname=HISPASAT-2-36W&plan_id=plan
+HISPASAT-62A,Spain 🇪🇸,36.0°W,Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-62A&sel_satname=HISPASAT-62A&plan_id=plan
+HISPASAT-84A,Spain 🇪🇸,36.0°W,Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-84A&sel_satname=HISPASAT-84A&plan_id=plan
+HISPASAT-7A,Spain 🇪🇸,36.0°W,Non-Planned,Late-Stage,Yes,Full,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=HISPASAT-7A&sel_satname=HISPASAT-7A&plan_id=
+HISPASAT 2A 36W,Spain 🇪🇸,36.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=HISPASAT+2A+36W&sel_satname=HISPASAT+2A+36W&plan_id=
+AGL00000,Angola 🇦🇴,36.1°W,Planned,Early-Stage,No,n/a,No,0.11°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=AGL00000&sel_satname=AGL00000&plan_id=plan
+MNE00000,Montenegro 🇲🇪,36.6°W,Planned,Early-Stage,No,n/a,No,0.61°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MNE00000&sel_satname=MNE00000&plan_id=plan
+ISL00000,Iceland 🇮🇸,35.2°W,Planned,Early-Stage,No,n/a,No,0.79°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ISL00000&sel_satname=ISL00000&plan_id=plan

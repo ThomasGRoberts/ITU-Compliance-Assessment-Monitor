@@ -1,0 +1,8 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+ANIK E-D,Canada 🇨🇦,118.7°W,Non-Planned,Late-Stage,Yes,Partial,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=ANIK+E-D&sel_satname=ANIK+E-D&plan_id=
+CANSAT-18,Canada 🇨🇦,118.7°W,Non-Planned,Late-Stage,Yes,Full,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CANSAT-18&sel_satname=CANSAT-18&plan_id=
+CANSAT KA-5,Canada 🇨🇦,118.7°W,Non-Planned,Late-Stage,Yes,Partial,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CANSAT+KA-5&sel_satname=CANSAT+KA-5&plan_id=
+CANSAT KA-5X,Canada 🇨🇦,118.7°W,Non-Planned,Late-Stage,Yes,Partial,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CANSAT+KA-5X&sel_satname=CANSAT+KA-5X&plan_id=
+ANIK-F3R,Canada 🇨🇦,118.7°W,Non-Planned,Late-Stage,Yes,Full,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=ANIK-F3R&sel_satname=ANIK-F3R&plan_id=
+USABSS-10,United States 🇺🇸,119.0°W,Non-Planned,Late-Stage,Yes,No,No,0.27°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USABSS-10&sel_satname=USABSS-10&plan_id=
+KYPROS-119.5W,Cyprus 🇨🇾,119.5°W,Non-Planned,Early-Stage,No,n/a,No,0.77°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-119.5W&sel_satname=KYPROS-119.5W&plan_id=

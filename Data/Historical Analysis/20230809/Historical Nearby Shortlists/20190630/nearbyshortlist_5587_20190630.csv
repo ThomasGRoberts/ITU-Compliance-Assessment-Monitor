@@ -1,0 +1,21 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Link
+UKSAT-14,United Kingdom 🇬🇧,107.0°W,Non-Planned,Late-Stage,Yes,No,No,0.17°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=UKSAT-14&sel_satname=UKSAT-14&plan_id=
+IK-107.1W,Russian Federation 🇷🇺,107.1°W,Non-Planned,Early-Stage,No,n/a,No,0.27°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IK-107.1W&sel_satname=IK-107.1W&plan_id=
+UKSAT-39,United Kingdom 🇬🇧,107.1°W,Non-Planned,Early-Stage,No,n/a,No,0.27°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=UKSAT-39&sel_satname=UKSAT-39&plan_id=
+  ,Canada 🇨🇦,106.5°W,Planned,Early-Stage,No,n/a,No,0.33°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sel_ific=2959
+MSAT,Canada 🇨🇦,106.5°W,Non-Planned,Late-Stage,Yes,No,No,0.33°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MSAT&sel_satname=MSAT&plan_id=
+MSAT,Canada 🇨🇦,106.5°W,Planned,Late-Stage,Yes,No,No,0.33°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MSAT&sel_satname=MSAT&plan_id=plan
+CANSAT-50,Canada 🇨🇦,107.3°W,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT-50&sel_satname=CANSAT-50&plan_id=
+CAN-BSS36,Canada 🇨🇦,107.3°W,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CAN-BSS36&sel_satname=CAN-BSS36&plan_id=
+CANSAT(107.3W)-XKA,Canada 🇨🇦,107.3°W,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT(107.3W)-XKA&sel_satname=CANSAT(107.3W)-XKA&plan_id=
+ANIK-F1,Canada 🇨🇦,107.3°W,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ANIK-F1&sel_satname=ANIK-F1&plan_id=
+CANSAT(107.3W)-L,Canada 🇨🇦,107.3°W,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT(107.3W)-L&sel_satname=CANSAT(107.3W)-L&plan_id=
+CANSAT-72,Canada 🇨🇦,107.3°W,Non-Planned,Early-Stage,No,n/a,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CANSAT-72&sel_satname=CANSAT-72&plan_id=
+CANSAT-34,Canada 🇨🇦,107.3°W,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT-34&sel_satname=CANSAT-34&plan_id=
+ANIK E-A,Canada 🇨🇦,107.3°W,Non-Planned,Late-Stage,Yes,No,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=ANIK+E-A&sel_satname=ANIK+E-A&plan_id=
+LM-RPS-107.3W,United States 🇺🇸,107.3°W,Non-Planned,Late-Stage,Yes,Partial,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LM-RPS-107.3W&sel_satname=LM-RPS-107.3W&plan_id=
+CANSAT-67TTCA,Canada 🇨🇦,107.3°W,Non-Planned,Early-Stage,No,n/a,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CANSAT-67TTCA&sel_satname=CANSAT-67TTCA&plan_id=
+CANSAT-76,Canada 🇨🇦,107.3°W,Non-Planned,Early-Stage,No,n/a,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CANSAT-76&sel_satname=CANSAT-76&plan_id=
+CANSAT-67,Canada 🇨🇦,107.3°W,Non-Planned,Early-Stage,Yes,n/a,No,0.47°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CANSAT-67&sel_satname=CANSAT-67&plan_id=
+CANSAT-67-30B,Canada 🇨🇦,107.5°W,Planned,Early-Stage,No,n/a,No,0.67°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CANSAT-67-30B&sel_satname=CANSAT-67-30B&plan_id=plan
+CAN0EASTM,Canada 🇨🇦,107.5°W,Planned,Early-Stage,No,n/a,No,0.67°,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CAN0EASTM&sel_satname=CAN0EASTM&plan_id=plan

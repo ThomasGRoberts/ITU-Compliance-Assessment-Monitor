@@ -1,0 +1,17 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+INTELSAT8 342E,United States 🇺🇸,18.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT8+342E&sel_satname=INTELSAT8+342E&plan_id=
+YAHSAT-FSS-18W,United Arab Emirates 🇦🇪,18.0°W,Planned,Early-Stage,No,n/a,No,0.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=YAHSAT-FSS-18W&sel_satname=YAHSAT-FSS-18W&plan_id=plan
+INTELSAT7 342E,United States 🇺🇸,18.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT7+342E&sel_satname=INTELSAT7+342E&plan_id=
+INTELSAT9 342E,United States 🇺🇸,18.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT9+342E&sel_satname=INTELSAT9+342E&plan_id=
+USASAT-71Q,United States 🇺🇸,18.0°W,Non-Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-71Q&sel_satname=USASAT-71Q&plan_id=
+USASAT-101E,United States 🇺🇸,18.0°W,Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=USASAT-101E&sel_satname=USASAT-101E&plan_id=plan
+INMARSAT-7-18W,Switzerland 🇨🇭,18.0°W,Non-Planned,Early-Stage,No,n/a,No,0.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INMARSAT-7-18W&sel_satname=INMARSAT-7-18W&plan_id=
+SIGNSAT-18W,China 🇨🇳,18.0°W,Non-Planned,Early-Stage,No,n/a,No,0.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-18W&sel_satname=SIGNSAT-18W&plan_id=
+UKFSS-18W-A,United Kingdom 🇬🇧,18.0°W,Planned,Late-Stage,No,No,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=UKFSS-18W-A&sel_satname=UKFSS-18W-A&plan_id=plan
+UKNETSAT-18W,United Kingdom 🇬🇧,18.0°W,Non-Planned,Late-Stage,Yes,Full,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=UKNETSAT-18W&sel_satname=UKNETSAT-18W&plan_id=
+UKFSS-18W,United Kingdom 🇬🇧,18.0°W,Planned,Late-Stage,Yes,No,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=UKFSS-18W&sel_satname=UKFSS-18W&plan_id=plan
+SKYNET-5E,United Kingdom 🇬🇧,17.8°W,Non-Planned,Late-Stage,Yes,Partial,No,0.20°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SKYNET-5E&sel_satname=SKYNET-5E&plan_id=
+SKYNET-5E-KA3,United Kingdom 🇬🇧,17.8°W,Non-Planned,Early-Stage,No,n/a,No,0.20°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SKYNET-5E-KA3&sel_satname=SKYNET-5E-KA3&plan_id=
+YAHSAT-G6-17.5W,United Arab Emirates 🇦🇪,17.5°W,Non-Planned,Late-Stage,Yes,No,No,0.50°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=YAHSAT-G6-17.5W&sel_satname=YAHSAT-G6-17.5W&plan_id=
+DJI00000,Djibouti 🇩🇯,17.46°W,Planned,Early-Stage,No,n/a,No,0.54°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=DJI00000&sel_satname=DJI00000&plan_id=plan
+LIE00000,Liechtenstein 🇱🇮,17.1°W,Planned,Early-Stage,No,n/a,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=LIE00000&sel_satname=LIE00000&plan_id=plan

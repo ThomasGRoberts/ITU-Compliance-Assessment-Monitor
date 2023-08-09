@@ -1,0 +1,10 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+USGAE-15B,United States 🇺🇸,31.5°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USGAE-15B&sel_satname=USGAE-15B&plan_id=
+B-SAT-31.5W,Brazil 🇧🇷,31.5°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=B-SAT-31.5W&sel_satname=B-SAT-31.5W&plan_id=
+USASAT-60X,United States 🇺🇸,31.5°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-60X&sel_satname=USASAT-60X&plan_id=
+USASAT-60P,United States 🇺🇸,31.5°W,Non-Planned,Late-Stage,Yes,Full,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-60P&sel_satname=USASAT-60P&plan_id=
+INTELSAT8 328.5E,United States 🇺🇸,31.5°W,Non-Planned,Late-Stage,Yes,Partial,Partial,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT8+328.5E&sel_satname=INTELSAT8+328.5E&plan_id=
+INTELSAT9 328.5E,United States 🇺🇸,31.5°W,Non-Planned,Late-Stage,Yes,Partial,Partial,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT9+328.5E&sel_satname=INTELSAT9+328.5E&plan_id=
+CZE00000,Czech Republic 🇨🇿,31.9°W,Planned,Early-Stage,No,n/a,No,0.41°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CZE00000&sel_satname=CZE00000&plan_id=plan
+GNE00000,Equatorial Guinea 🇬🇶,32.3°W,Planned,Early-Stage,No,n/a,No,0.81°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=GNE00000&sel_satname=GNE00000&plan_id=plan
+BEN00000,Benin 🇧🇯,30.6°W,Planned,Early-Stage,No,n/a,No,0.89°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=BEN00000&sel_satname=BEN00000&plan_id=plan

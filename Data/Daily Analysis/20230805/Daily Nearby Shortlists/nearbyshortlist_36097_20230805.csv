@@ -1,0 +1,14 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+USASAT-25D,United States 🇺🇸,45.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-25D&sel_satname=USASAT-25D&plan_id=
+USASAT-13I,United States 🇺🇸,45.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-13I&sel_satname=USASAT-13I&plan_id=
+USASAT-60I,United States 🇺🇸,45.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-60I&sel_satname=USASAT-60I&plan_id=
+B-SAT-1A-2,Brazil 🇧🇷,45.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=B-SAT-1A-2&sel_satname=B-SAT-1A-2&plan_id=
+B-SAT-1A-3,Brazil 🇧🇷,45.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=B-SAT-1A-3&sel_satname=B-SAT-1A-3&plan_id=
+GANTS-2,United Kingdom 🇬🇧,45.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GANTS-2&sel_satname=GANTS-2&plan_id=
+USASAT-60T,United States 🇺🇸,45.0°W,Non-Planned,Late-Stage,Yes,Full,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-60T&sel_satname=USASAT-60T&plan_id=
+MADAR-45W-2,United Arab Emirates 🇦🇪,45.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-45W-2&sel_satname=MADAR-45W-2&plan_id=
+B-SAT-3A-2 TT&C,Brazil 🇧🇷,44.9°W,Non-Planned,Late-Stage,Yes,No,No,0.12°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=B-SAT-3A-2+TT&C&sel_satname=B-SAT-3A-2+TT&C&plan_id=
+AMS-A13-45.25W,Israel 🇮🇱,45.25°W,Non-Planned,Early-Stage,No,n/a,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AMS-A13-45.25W&sel_satname=AMS-A13-45.25W&plan_id=
+CHNNEWSAT-G1-44.5W,China 🇨🇳,44.5°W,Non-Planned,Early-Stage,No,n/a,No,0.52°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-44.5W&sel_satname=CHNNEWSAT-G1-44.5W&plan_id=
+CHNNEWSAT-G2-44.5W,China 🇨🇳,44.5°W,Non-Planned,Early-Stage,No,n/a,No,0.52°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G2-44.5W&sel_satname=CHNNEWSAT-G2-44.5W&plan_id=
+TDRS 46W,United States 🇺🇸,46.0°W,Non-Planned,Late-Stage,Yes,No,No,0.98°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TDRS+46W&sel_satname=TDRS+46W&plan_id=

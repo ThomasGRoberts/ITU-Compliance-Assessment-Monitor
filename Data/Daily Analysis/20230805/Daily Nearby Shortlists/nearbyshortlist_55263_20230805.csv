@@ -1,0 +1,9 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+USGOVSAT-13R,United States 🇺🇸,121.9°W,Non-Planned,Late-Stage,Yes,Partial,Total,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USGOVSAT-13R&sel_satname=USGOVSAT-13R&plan_id=
+USGOVSAT-13A,United States 🇺🇸,121.9°W,Non-Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USGOVSAT-13A&sel_satname=USGOVSAT-13A&plan_id=
+USGOVSAT-13B,United States 🇺🇸,121.9°W,Non-Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USGOVSAT-13B&sel_satname=USGOVSAT-13B&plan_id=
+DIMENSION-10,United Kingdom 🇬🇧,121.0°W,Planned,Early-Stage,No,n/a,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=DIMENSION-10&sel_satname=DIMENSION-10&plan_id=plan
+USASAT-23G,United States 🇺🇸,121.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-23G&sel_satname=USASAT-23G&plan_id=
+USASAT-31G,United States 🇺🇸,121.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-31G&sel_satname=USASAT-31G&plan_id=
+DIMENSION-10,United Kingdom 🇬🇧,121.0°W,Non-Planned,Early-Stage,No,n/a,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=DIMENSION-10&sel_satname=DIMENSION-10&plan_id=
+PACSTAR-L4,Papua New Guinea 🇵🇬,121.0°W,Non-Planned,Late-Stage,Yes,No,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=PACSTAR-L4&sel_satname=PACSTAR-L4&plan_id=

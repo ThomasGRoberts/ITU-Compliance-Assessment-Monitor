@@ -1,0 +1,16 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+YAMAL-E5-1,Russian Federation 🇷🇺,163.5°E,Non-Planned,Late-Stage,Yes,No,No,0.21°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=YAMAL-E5-1&sel_satname=YAMAL-E5-1&plan_id=
+F-SAT-N7-163.5E,France 🇫🇷,163.5°E,Non-Planned,Early-Stage,No,n/a,No,0.21°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-163.5E&sel_satname=F-SAT-N7-163.5E&plan_id=
+CHINASAT-163E,China 🇨🇳,163.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.29°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-163E&sel_satname=CHINASAT-163E&plan_id=
+CHINASAT-ROUTE15,China 🇨🇳,163.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.29°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-ROUTE15&sel_satname=CHINASAT-ROUTE15&plan_id=
+CHINASAT-CL11,China 🇨🇳,163.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.29°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-CL11&sel_satname=CHINASAT-CL11&plan_id=
+CHINASAT-F-163E,China 🇨🇳,163.0°E,Non-Planned,Early-Stage,No,n/a,No,0.29°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHINASAT-F-163E&sel_satname=CHINASAT-F-163E&plan_id=
+CHINASAT-D-163E,China 🇨🇳,163.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.29°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-D-163E&sel_satname=CHINASAT-D-163E&plan_id=
+CHINASAT-E-163E,China 🇨🇳,163.0°E,Non-Planned,Late-Stage,Yes,Full,No,0.29°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-E-163E&sel_satname=CHINASAT-E-163E&plan_id=
+CHINASAT-30B1-163E,China 🇨🇳,163.0°E,Planned,Early-Stage,No,n/a,No,0.29°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CHINASAT-30B1-163E&sel_satname=CHINASAT-30B1-163E&plan_id=plan
+SE-8-164E,Norway 🇳🇴,164.0°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SE-8-164E&sel_satname=SE-8-164E&plan_id=
+AUSSAT-H-164E,Australia 🇦🇺,164.0°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AUSSAT-H-164E&sel_satname=AUSSAT-H-164E&plan_id=
+CHINASAT-F-164E,China 🇨🇳,164.0°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHINASAT-F-164E&sel_satname=CHINASAT-F-164E&plan_id=
+TSAT-2,United Kingdom 🇬🇧,164.0°E,Non-Planned,Early-Stage,No,n/a,No,0.71°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=TSAT-2&sel_satname=TSAT-2&plan_id=
+F-SAT-N7-164.1E,France 🇫🇷,164.1°E,Non-Planned,Early-Stage,No,n/a,No,0.81°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-164.1E&sel_satname=F-SAT-N7-164.1E&plan_id=
+F-SAT-30B-164.1E,France 🇫🇷,164.1°E,Planned,Early-Stage,No,n/a,No,0.81°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-164.1E&sel_satname=F-SAT-30B-164.1E&plan_id=plan

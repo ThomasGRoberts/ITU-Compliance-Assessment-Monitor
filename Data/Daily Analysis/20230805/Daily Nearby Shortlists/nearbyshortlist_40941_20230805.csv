@@ -1,0 +1,13 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+YAHSAT-FSS-81W,United Arab Emirates 🇦🇪,81.0°W,Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=YAHSAT-FSS-81W&sel_satname=YAHSAT-FSS-81W&plan_id=plan
+MADAR-81W-2,United Arab Emirates 🇦🇪,81.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-81W-2&sel_satname=MADAR-81W-2&plan_id=
+P-P-SAT-1,Argentina 🇦🇷,81.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=P-P-SAT-1&sel_satname=P-P-SAT-1&plan_id=
+ARSAT-M,Argentina 🇦🇷,81.0°W,Non-Planned,Late-Stage,Yes,Partial,Total,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=ARSAT-M&sel_satname=ARSAT-M&plan_id=
+ARSAT-D,Argentina 🇦🇷,81.0°W,Non-Planned,Late-Stage,Yes,Partial,Total,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=ARSAT-D&sel_satname=ARSAT-D&plan_id=
+ARSAT-N,Argentina 🇦🇷,81.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ARSAT-N&sel_satname=ARSAT-N&plan_id=
+CUB00000,Cuba 🇨🇺,80.6°W,Planned,Early-Stage,No,n/a,No,0.41°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CUB00000&sel_satname=CUB00000&plan_id=plan
+PRG00000,Paraguay 🇵🇾,81.5°W,Planned,Early-Stage,No,n/a,No,0.49°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=PRG00000&sel_satname=PRG00000&plan_id=plan
+CANSAT-31,Canada 🇨🇦,82.0°W,Non-Planned,Late-Stage,Yes,No,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CANSAT-31&sel_satname=CANSAT-31&plan_id=
+CAN-BSS1 TTAC,Canada 🇨🇦,82.0°W,Non-Planned,Late-Stage,Yes,No,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CAN-BSS1+TTAC&sel_satname=CAN-BSS1+TTAC&plan_id=
+MADAR-82W,United Arab Emirates 🇦🇪,82.0°W,Non-Planned,Early-Stage,No,n/a,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-82W&sel_satname=MADAR-82W&plan_id=
+MADAR-82W-2,United Arab Emirates 🇦🇪,82.0°W,Non-Planned,Early-Stage,No,n/a,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-82W-2&sel_satname=MADAR-82W-2&plan_id=

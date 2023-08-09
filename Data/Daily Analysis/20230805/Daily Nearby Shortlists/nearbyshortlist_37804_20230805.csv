@@ -1,0 +1,14 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+USGAE-15B,United States 🇺🇸,31.5°W,Non-Planned,Early-Stage,No,n/a,No,0.31°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USGAE-15B&sel_satname=USGAE-15B&plan_id=
+B-SAT-31.5W,Brazil 🇧🇷,31.5°W,Non-Planned,Early-Stage,No,n/a,No,0.31°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=B-SAT-31.5W&sel_satname=B-SAT-31.5W&plan_id=
+USASAT-60X,United States 🇺🇸,31.5°W,Non-Planned,Early-Stage,No,n/a,No,0.31°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-60X&sel_satname=USASAT-60X&plan_id=
+USASAT-60P,United States 🇺🇸,31.5°W,Non-Planned,Late-Stage,Yes,No,No,0.31°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-60P&sel_satname=USASAT-60P&plan_id=
+INTELSAT8 328.5E,United States 🇺🇸,31.5°W,Non-Planned,Late-Stage,Yes,No,Partial,0.31°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT8+328.5E&sel_satname=INTELSAT8+328.5E&plan_id=
+INTELSAT9 328.5E,United States 🇺🇸,31.5°W,Non-Planned,Late-Stage,Yes,No,Partial,0.31°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT9+328.5E&sel_satname=INTELSAT9+328.5E&plan_id=
+BEN00000,Benin 🇧🇯,30.6°W,Planned,Early-Stage,No,n/a,No,0.59°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=BEN00000&sel_satname=BEN00000&plan_id=plan
+CZE00000,Czech Republic 🇨🇿,31.9°W,Planned,Early-Stage,No,n/a,No,0.71°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CZE00000&sel_satname=CZE00000&plan_id=plan
+P-197-6,United States 🇺🇸,30.4°W,Non-Planned,Late-Stage,Yes,No,No,0.79°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P-197-6&sel_satname=P-197-6&plan_id=
+USDKH2,United States 🇺🇸,30.4°W,Non-Planned,Late-Stage,Yes,No,No,0.79°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USDKH2&sel_satname=USDKH2&plan_id=
+P92-7A,United States 🇺🇸,30.4°W,Non-Planned,Late-Stage,Yes,No,No,0.79°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P92-7A&sel_satname=P92-7A&plan_id=
+P92-7,United States 🇺🇸,30.4°W,Non-Planned,Late-Stage,Yes,No,No,0.79°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=P92-7&sel_satname=P92-7&plan_id=
+USLL-ATL3,United States 🇺🇸,30.4°W,Non-Planned,Late-Stage,Yes,No,No,0.79°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USLL-ATL3&sel_satname=USLL-ATL3&plan_id=

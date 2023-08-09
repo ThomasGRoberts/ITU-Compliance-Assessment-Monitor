@@ -1,0 +1,22 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+COMPASS-30B-80E,China 🇨🇳,80.0°E,Planned,Late-Stage,No,No,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=COMPASS-30B-80E&sel_satname=COMPASS-30B-80E&plan_id=plan
+FOTON-2,Russian Federation 🇷🇺,80.0°E,Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=FOTON-2&sel_satname=FOTON-2&plan_id=plan
+FOTON-2,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=FOTON-2&sel_satname=FOTON-2&plan_id=
+CHINASAT-31,China 🇨🇳,80.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-31&sel_satname=CHINASAT-31&plan_id=
+EXPRESS-6B,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-6B&sel_satname=EXPRESS-6B&plan_id=
+POTOK-2,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=POTOK-2&sel_satname=POTOK-2&plan_id=
+GALS-M-4,Russian Federation 🇷🇺,80.0°E,Non-Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GALS-M-4&sel_satname=GALS-M-4&plan_id=
+CTDRS-2-80E,China 🇨🇳,80.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CTDRS-2-80E&sel_satname=CTDRS-2-80E&plan_id=
+COMPASS-80E,China 🇨🇳,80.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=COMPASS-80E&sel_satname=COMPASS-80E&plan_id=
+STATSIONAR-1,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=STATSIONAR-1&sel_satname=STATSIONAR-1&plan_id=
+EXPRESS-6KA,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-6KA&sel_satname=EXPRESS-6KA&plan_id=
+COMPASS-A-80E,China 🇨🇳,80.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=COMPASS-A-80E&sel_satname=COMPASS-A-80E&plan_id=
+VOLNA-8R,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=VOLNA-8R&sel_satname=VOLNA-8R&plan_id=
+PROGNOZ-4,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=PROGNOZ-4&sel_satname=PROGNOZ-4&plan_id=
+EXPRESS-6,Russian Federation 🇷🇺,80.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-6&sel_satname=EXPRESS-6&plan_id=
+CTDRS-1-80E,China 🇨🇳,80.0°E,Non-Planned,Late-Stage,Yes,No,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CTDRS-1-80E&sel_satname=CTDRS-1-80E&plan_id=
+COMPASS-80.3E,China 🇨🇳,80.3°E,Non-Planned,Late-Stage,Yes,No,No,0.28°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=COMPASS-80.3E&sel_satname=COMPASS-80.3E&plan_id=
+CHINASAT-34A,China 🇨🇳,79.6°E,Non-Planned,Late-Stage,Yes,No,No,0.42°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-34A&sel_satname=CHINASAT-34A&plan_id=
+F-SAT-30B-80.5E,France 🇫🇷,80.5°E,Planned,Early-Stage,No,n/a,No,0.48°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-80.5E&sel_satname=F-SAT-30B-80.5E&plan_id=plan
+F-SAT-N7-80.5E,France 🇫🇷,80.5°E,Non-Planned,Early-Stage,No,n/a,No,0.48°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-80.5E&sel_satname=F-SAT-N7-80.5E&plan_id=
+F-SAT-P-30B-80.5E-F,France 🇫🇷,80.5°E,Planned,Early-Stage,No,n/a,No,0.48°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-P-30B-80.5E-F&sel_satname=F-SAT-P-30B-80.5E-F&plan_id=plan

@@ -1,0 +1,24 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+HISPASAT-57A_1,Spain 🇪🇸,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-57A_1&sel_satname=HISPASAT-57A_1&plan_id=
+EG-SAT-22W,France 🇫🇷,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=EG-SAT-22W&sel_satname=EG-SAT-22W&plan_id=
+HISPASAT-1-22W,Spain 🇪🇸,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-1-22W&sel_satname=HISPASAT-1-22W&plan_id=
+NSS-16-1,Netherlands 🇳🇱,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=A&sat_name=NSS-16-1&sel_satname=NSS-16-1&plan_id=
+NSS-G11-14,Netherlands 🇳🇱,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-G11-14&sel_satname=NSS-G11-14&plan_id=
+DIMENSION-2,United Kingdom 🇬🇧,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=DIMENSION-2&sel_satname=DIMENSION-2&plan_id=
+HISPASAT-90A,Spain 🇪🇸,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-90A&sel_satname=HISPASAT-90A&plan_id=
+NSS-G2-11,Netherlands 🇳🇱,22.0°W,Non-Planned,Late-Stage,Yes,Full,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=NSS-G2-11&sel_satname=NSS-G2-11&plan_id=
+HISPASAT-57A,Spain 🇪🇸,22.0°W,Non-Planned,Early-Stage,No,n/a,No,0.02°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HISPASAT-57A&sel_satname=HISPASAT-57A&plan_id=
+NSS-16,Netherlands 🇳🇱,22.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=NSS-16&sel_satname=NSS-16&plan_id=
+NSS-FSS-G3 22W,Netherlands 🇳🇱,22.0°W,Planned,Early-Stage,No,n/a,No,0.02°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS-G3+22W&sel_satname=NSS-FSS-G3+22W&plan_id=plan
+IRL00000,Ireland 🇮🇪,21.8°W,Planned,Early-Stage,No,n/a,No,0.22°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=IRL00000&sel_satname=IRL00000&plan_id=plan
+MADAR-22.5W-2,United Arab Emirates 🇦🇪,22.5°W,Non-Planned,Early-Stage,No,n/a,No,0.48°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-22.5W-2&sel_satname=MADAR-22.5W-2&plan_id=
+FLTSATCOM-C E ATL-1,United States 🇺🇸,22.5°W,Non-Planned,Late-Stage,Yes,Partial,No,0.48°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=FLTSATCOM-C+E+ATL-1&sel_satname=FLTSATCOM-C+E+ATL-1&plan_id=
+MADAR-22.5W,United Arab Emirates 🇦🇪,22.5°W,Non-Planned,Early-Stage,No,n/a,No,0.48°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-22.5W&sel_satname=MADAR-22.5W&plan_id=
+IRIS-3B,United States 🇺🇸,22.5°W,Non-Planned,Early-Stage,No,n/a,No,0.48°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IRIS-3B&sel_satname=IRIS-3B&plan_id=
+KASATCOM-2,United States 🇺🇸,22.5°W,Non-Planned,Late-Stage,Yes,Partial,No,0.48°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=KASATCOM-2&sel_satname=KASATCOM-2&plan_id=
+AL-SAT-FSS-22.5W,France 🇫🇷,22.5°W,Planned,Early-Stage,No,n/a,No,0.48°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=AL-SAT-FSS-22.5W&sel_satname=AL-SAT-FSS-22.5W&plan_id=plan
+INTELSAT8 338.5E,Netherlands 🇳🇱,21.5°W,Non-Planned,Late-Stage,Yes,Partial,No,0.52°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT8+338.5E&sel_satname=INTELSAT8+338.5E&plan_id=
+USOBO-4C,United States 🇺🇸,21.2°W,Non-Planned,Early-Stage,No,n/a,No,0.82°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-4C&sel_satname=USOBO-4C&plan_id=
+USOBO-4B,United States 🇺🇸,21.2°W,Non-Planned,Early-Stage,No,n/a,No,0.82°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USOBO-4B&sel_satname=USOBO-4B&plan_id=
+MTN00000,Mauritania 🇲🇷,21.1°W,Planned,Early-Stage,No,n/a,No,0.92°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=MTN00000&sel_satname=MTN00000&plan_id=plan
+AMS-A13-23W,Israel 🇮🇱,23.0°W,Non-Planned,Early-Stage,No,n/a,No,0.98°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=AMS-A13-23W&sel_satname=AMS-A13-23W&plan_id=

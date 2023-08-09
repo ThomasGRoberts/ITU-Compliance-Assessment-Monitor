@@ -1,0 +1,24 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+BULSAT-30B-1.9E,Bulgaria 🇧🇬,1.9°E,Planned,Late-Stage,Yes,No,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=BULSAT-30B-1.9E&sel_satname=BULSAT-30B-1.9E&plan_id=plan
+BULSAT-1.9E,Bulgaria 🇧🇬,1.9°E,Non-Planned,Late-Stage,Yes,Full,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=BULSAT-1.9E&sel_satname=BULSAT-1.9E&plan_id=
+BULSAT-BSS-1.2W-W,Bulgaria 🇧🇬,1.9°E,Non-Planned,Late-Stage,Yes,No,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=BULSAT-BSS-1.2W-W&sel_satname=BULSAT-BSS-1.2W-W&plan_id=
+BUL-QV-1.9E,Bulgaria 🇧🇬,1.9°E,Non-Planned,Early-Stage,No,n/a,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=BUL-QV-1.9E&sel_satname=BUL-QV-1.9E&plan_id=
+MADAR-2E,United Arab Emirates 🇦🇪,2.0°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-2E&sel_satname=MADAR-2E&plan_id=
+MADAR-2E-2,United Arab Emirates 🇦🇪,2.0°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-2E-2&sel_satname=MADAR-2E-2&plan_id=
+USGOVSAT-22B,United States 🇺🇸,2.0°E,Non-Planned,Early-Stage,No,n/a,No,0.10°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USGOVSAT-22B&sel_satname=USGOVSAT-22B&plan_id=
+F-SAT-30B-1.6E,France 🇫🇷,1.6°E,Planned,Early-Stage,No,n/a,No,0.30°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-1.6E&sel_satname=F-SAT-30B-1.6E&plan_id=plan
+F-SAT-N7-1.6E,France 🇫🇷,1.6°E,Non-Planned,Early-Stage,No,n/a,No,0.30°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-1.6E&sel_satname=F-SAT-N7-1.6E&plan_id=
+INMARSAT-7-1E5,Switzerland 🇨🇭,1.5°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INMARSAT-7-1E5&sel_satname=INMARSAT-7-1E5&plan_id=
+PEKASAT-G2-1,Czech Republic 🇨🇿,1.5°E,Non-Planned,Early-Stage,No,n/a,No,0.40°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=PEKASAT-G2-1&sel_satname=PEKASAT-G2-1&plan_id=
+F-SAT-N7-2.7E,France 🇫🇷,2.7°E,Non-Planned,Early-Stage,No,n/a,No,0.80°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-2.7E&sel_satname=F-SAT-N7-2.7E&plan_id=
+OMANSAT-1.1E,Oman 🇴🇲,1.1°E,Non-Planned,Early-Stage,No,n/a,No,0.80°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=OMANSAT-1.1E&sel_satname=OMANSAT-1.1E&plan_id=
+VOLNA-21,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=VOLNA-21&sel_satname=VOLNA-21&plan_id=
+STATSIONAR-22,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=STATSIONAR-22&sel_satname=STATSIONAR-22&plan_id=
+NEWSAT-1A-1E,Italy 🇮🇹,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NEWSAT-1A-1E&sel_satname=NEWSAT-1A-1E&plan_id=
+ARABSAT-10G-1E,Saudi Arabia 🇸🇦,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ARABSAT-10G-1E&sel_satname=ARABSAT-10G-1E&plan_id=
+LUX-G12-1,Luxembourg 🇱🇺,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G12-1&sel_satname=LUX-G12-1&plan_id=
+ARABSAT-9L-1E,Saudi Arabia 🇸🇦,1.0°E,Non-Planned,Early-Stage,No,n/a,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ARABSAT-9L-1E&sel_satname=ARABSAT-9L-1E&plan_id=
+TOR-15M,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=TOR-15M&sel_satname=TOR-15M&plan_id=
+GALS-15,Russian Federation 🇷🇺,1.0°E,Non-Planned,Late-Stage,Yes,No,No,0.90°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GALS-15&sel_satname=GALS-15&plan_id=
+RASCOM-2F,Côte d'Ivoire 🇨🇮,2.9°E,Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=RASCOM-2F&sel_satname=RASCOM-2F&plan_id=plan
+RASCOM-1F,Côte d'Ivoire 🇨🇮,2.9°E,Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=RASCOM-1F&sel_satname=RASCOM-1F&plan_id=plan

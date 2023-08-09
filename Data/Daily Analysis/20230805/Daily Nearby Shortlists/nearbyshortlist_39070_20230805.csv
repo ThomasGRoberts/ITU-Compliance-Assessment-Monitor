@@ -1,0 +1,3 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+TDRS 174W,United States 🇺🇸,174.0°W,Non-Planned,Late-Stage,Yes,No,No,0.25°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TDRS+174W&sel_satname=TDRS+174W&plan_id=
+INMARSAT-8-175W,United Kingdom 🇬🇧,175.0°W,Non-Planned,Early-Stage,No,n/a,No,0.75°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INMARSAT-8-175W&sel_satname=INMARSAT-8-175W&plan_id=

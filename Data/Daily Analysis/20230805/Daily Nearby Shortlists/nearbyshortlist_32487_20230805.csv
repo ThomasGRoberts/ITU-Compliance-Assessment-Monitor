@@ -1,0 +1,24 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+BIFROST 2 FSS,Norway 🇳🇴,0.8°W,Planned,Late-Stage,Yes,No,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=BIFROST+2+FSS&sel_satname=BIFROST+2+FSS&plan_id=plan
+BIFROST-0.8W-2020,Norway 🇳🇴,0.8°W,Non-Planned,Early-Stage,No,n/a,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=BIFROST-0.8W-2020&sel_satname=BIFROST-0.8W-2020&plan_id=
+BIFROST-3-FSS,Norway 🇳🇴,0.8°W,Planned,Late-Stage,Yes,No,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=BIFROST-3-FSS&sel_satname=BIFROST-3-FSS&plan_id=plan
+BIFROST-5-FSS,Norway 🇳🇴,0.8°W,Planned,Late-Stage,Yes,No,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=BIFROST-5-FSS&sel_satname=BIFROST-5-FSS&plan_id=plan
+BIFROST-0.8W-2010-KA,Norway 🇳🇴,0.8°W,Non-Planned,Late-Stage,Yes,Partial,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=BIFROST-0.8W-2010-KA&sel_satname=BIFROST-0.8W-2010-KA&plan_id=
+NOR00000,Norway 🇳🇴,0.8°W,Planned,Early-Stage,No,n/a,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NOR00000&sel_satname=NOR00000&plan_id=plan
+BIFROST-0.8W-2010,Norway 🇳🇴,0.8°W,Non-Planned,Late-Stage,Yes,Partial,No,0.03°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=BIFROST-0.8W-2010&sel_satname=BIFROST-0.8W-2010&plan_id=
+INTELSAT10 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT10+359E&sel_satname=INTELSAT10+359E&plan_id=
+ODYSSEY-359E-1,Germany 🇩🇪,1.0°W,Non-Planned,Early-Stage,No,n/a,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=ODYSSEY-359E-1&sel_satname=ODYSSEY-359E-1&plan_id=
+ODYSSEY FSS-1W,Germany 🇩🇪,1.0°W,Planned,Early-Stage,No,n/a,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ODYSSEY+FSS-1W&sel_satname=ODYSSEY+FSS-1W&plan_id=plan
+SKYNET-4A,United Kingdom 🇬🇧,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SKYNET-4A&sel_satname=SKYNET-4A&plan_id=
+INTELSAT7 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT7+359E&sel_satname=INTELSAT7+359E&plan_id=
+INTELSAT8 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT8+359E&sel_satname=INTELSAT8+359E&plan_id=
+INTELSAT9 359E,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INTELSAT9+359E&sel_satname=INTELSAT9+359E&plan_id=
+SKYNET-4J,United Kingdom 🇬🇧,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SKYNET-4J&sel_satname=SKYNET-4J&plan_id=
+SKYNET-5B,United Kingdom 🇬🇧,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SKYNET-5B&sel_satname=SKYNET-5B&plan_id=
+USASAT-55J,United States 🇺🇸,1.0°W,Non-Planned,Late-Stage,Yes,No,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-55J&sel_satname=USASAT-55J&plan_id=
+SKYNET-5B-KA3,United Kingdom 🇬🇧,1.0°W,Non-Planned,Early-Stage,No,n/a,No,0.23°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SKYNET-5B-KA3&sel_satname=SKYNET-5B-KA3&plan_id=
+EG-SAT-FSS-0.4W,France 🇫🇷,0.4°W,Planned,Early-Stage,No,n/a,No,0.37°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=EG-SAT-FSS-0.4W&sel_satname=EG-SAT-FSS-0.4W&plan_id=plan
+MADAR-1.5W,United Arab Emirates 🇦🇪,1.5°W,Non-Planned,Early-Stage,No,n/a,No,0.73°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-1.5W&sel_satname=MADAR-1.5W&plan_id=
+MSG,France 🇫🇷,0.0°E,Non-Planned,Late-Stage,Yes,No,No,0.77°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=MSG&sel_satname=MSG&plan_id=
+MTG-EUM_0E,Germany 🇩🇪,0.0°E,Non-Planned,Early-Stage,No,n/a,No,0.77°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MTG-EUM_0E&sel_satname=MTG-EUM_0E&plan_id=
+USCSID-A1,United States 🇺🇸,0.0°E,Non-Planned,Late-Stage,Yes,No,No,0.77°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USCSID-A1&sel_satname=USCSID-A1&plan_id=

@@ -1,0 +1,11 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+GIBSAT-FSS-G14 129W,United Kingdom 🇬🇧,129.0°W,Planned,Late-Stage,No,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GIBSAT-FSS-G14+129W&sel_satname=GIBSAT-FSS-G14+129W&plan_id=plan
+LUX-G9-38,Luxembourg 🇱🇺,129.0°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=LUX-G9-38&sel_satname=LUX-G9-38&plan_id=
+LUX-G9-38-A,Luxembourg 🇱🇺,129.0°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=LUX-G9-38-A&sel_satname=LUX-G9-38-A&plan_id=
+DSAT-W129,Germany 🇩🇪,129.0°W,Non-Planned,Early-Stage,No,n/a,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=A&sat_name=DSAT-W129&sel_satname=DSAT-W129&plan_id=
+GIBSAT-129W-B,United Kingdom 🇬🇧,129.0°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GIBSAT-129W-B&sel_satname=GIBSAT-129W-B&plan_id=
+GIBSAT-129W,United Kingdom 🇬🇧,129.0°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=GIBSAT-129W&sel_satname=GIBSAT-129W&plan_id=
+CAN-BSS7 TTC,Canada 🇨🇦,129.0°W,Non-Planned,Late-Stage,Yes,No,No,0.05°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=CAN-BSS7+TTC&sel_satname=CAN-BSS7+TTC&plan_id=
+USASAT-24N,United States 🇺🇸,129.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.05°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-24N&sel_satname=USASAT-24N&plan_id=
+GOES-2-128W,United States 🇺🇸,128.0°W,Non-Planned,Early-Stage,No,n/a,No,0.95°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GOES-2-128W&sel_satname=GOES-2-128W&plan_id=
+TON00000,Tonga 🇹🇴,128.0°W,Planned,Early-Stage,No,n/a,No,0.95°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=TON00000&sel_satname=TON00000&plan_id=plan

@@ -1,0 +1,29 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+CHNNEWSAT-G1-40E,China 🇨🇳,40.0°E,Non-Planned,Early-Stage,No,n/a,No,0.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-40E&sel_satname=CHNNEWSAT-G1-40E&plan_id=
+EXPRESS-4B,Russian Federation 🇷🇺,40.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-4B&sel_satname=EXPRESS-4B&plan_id=
+EXPRESS-4,Russian Federation 🇷🇺,40.0°E,Non-Planned,Late-Stage,Yes,No,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-4&sel_satname=EXPRESS-4&plan_id=
+MADAR-40E,United Arab Emirates 🇦🇪,40.0°E,Non-Planned,Early-Stage,No,n/a,No,0.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=MADAR-40E&sel_satname=MADAR-40E&plan_id=
+VOLNA-4R,Russian Federation 🇷🇺,40.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=VOLNA-4R&sel_satname=VOLNA-4R&plan_id=
+GNB00000,Guinea-Bissau 🇬🇼,40.0°E,Planned,Early-Stage,No,n/a,No,0.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=GNB00000&sel_satname=GNB00000&plan_id=plan
+EXPRESS-4P,Russian Federation 🇷🇺,40.0°E,Planned,Late-Stage,Yes,No,No,0.00°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=EXPRESS-4P&sel_satname=EXPRESS-4P&plan_id=plan
+IK-40.2E,Russian Federation 🇷🇺,40.2°E,Non-Planned,Early-Stage,No,n/a,No,0.20°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IK-40.2E&sel_satname=IK-40.2E&plan_id=
+SIGNSAT-40E,China 🇨🇳,40.3°E,Non-Planned,Early-Stage,No,n/a,No,0.30°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-40E&sel_satname=SIGNSAT-40E&plan_id=
+ZMB00000,Zambia 🇿🇲,39.55°E,Planned,Early-Stage,No,n/a,No,0.45°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=ZMB00000&sel_satname=ZMB00000&plan_id=plan
+DJCF-1A,United Kingdom 🇬🇧,39.5°E,Non-Planned,Late-Stage,Yes,No,No,0.50°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=DJCF-1A&sel_satname=DJCF-1A&plan_id=
+QATARSAT-G5-39.5E,Qatar 🇶🇦,39.5°E,Non-Planned,Early-Stage,No,n/a,No,0.50°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=QATARSAT-G5-39.5E&sel_satname=QATARSAT-G5-39.5E&plan_id=
+IRANSAT-40.5E,Iran (Islamic Republic of) 🇮🇷,40.5°E,Non-Planned,Early-Stage,No,n/a,No,0.50°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IRANSAT-40.5E&sel_satname=IRANSAT-40.5E&plan_id=
+TIBASAT-40.5E,Egypt 🇪🇬,40.5°E,Non-Planned,Early-Stage,No,n/a,No,0.50°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=TIBASAT-40.5E&sel_satname=TIBASAT-40.5E&plan_id=
+GENESIS-20,Germany 🇩🇪,40.5°E,Non-Planned,Early-Stage,No,n/a,No,0.50°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=GENESIS-20&sel_satname=GENESIS-20&plan_id=
+KYPROS-SAT-C,Cyprus 🇨🇾,39.0°E,Non-Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=KYPROS-SAT-C&sel_satname=KYPROS-SAT-C&plan_id=
+KYPROS-SAT-L4,Cyprus 🇨🇾,39.0°E,Non-Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=KYPROS-SAT-L4&sel_satname=KYPROS-SAT-L4&plan_id=
+HELLAS-SAT-C,Greece 🇬🇷,39.0°E,Non-Planned,Early-Stage,No,n/a,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=HELLAS-SAT-C&sel_satname=HELLAS-SAT-C&plan_id=
+INMARSAT-S4-R,United Kingdom 🇬🇧,39.0°E,Non-Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=INMARSAT-S4-R&sel_satname=INMARSAT-S4-R&plan_id=
+KYPROS-SAT-7,Cyprus 🇨🇾,39.0°E,Non-Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=KYPROS-SAT-7&sel_satname=KYPROS-SAT-7&plan_id=
+HELLAS-SAT,Greece 🇬🇷,39.0°E,Non-Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=HELLAS-SAT&sel_satname=HELLAS-SAT&plan_id=
+HELLAS-SAT-2G,Greece 🇬🇷,39.0°E,Non-Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=HELLAS-SAT-2G&sel_satname=HELLAS-SAT-2G&plan_id=
+KYPROS-SAT-5,Cyprus 🇨🇾,39.0°E,Non-Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=KYPROS-SAT-5&sel_satname=KYPROS-SAT-5&plan_id=
+GAB00000,Gabon 🇬🇦,39.0°E,Planned,Early-Stage,No,n/a,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=GAB00000&sel_satname=GAB00000&plan_id=plan
+KYPROS-SAT-3,Cyprus 🇨🇾,39.0°E,Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=KYPROS-SAT-3&sel_satname=KYPROS-SAT-3&plan_id=plan
+KYPROS-SAT-6,Cyprus 🇨🇾,39.0°E,Planned,Early-Stage,No,n/a,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=KYPROS-SAT-6&sel_satname=KYPROS-SAT-6&plan_id=plan
+HELLAS-SAT-4G,Greece 🇬🇷,39.0°E,Planned,Early-Stage,No,n/a,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HELLAS-SAT-4G&sel_satname=HELLAS-SAT-4G&plan_id=plan
+HELLAS-SAT-3G,Greece 🇬🇷,39.0°E,Planned,Late-Stage,Yes,No,No,1.00°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=HELLAS-SAT-3G&sel_satname=HELLAS-SAT-3G&plan_id=plan

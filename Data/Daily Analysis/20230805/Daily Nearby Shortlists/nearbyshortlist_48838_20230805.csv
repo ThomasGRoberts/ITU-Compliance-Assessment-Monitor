@@ -1,0 +1,16 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+USASAT-28K,United States 🇺🇸,85.2°W,Non-Planned,Late-Stage,Yes,Partial,No,0.04°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-28K&sel_satname=USASAT-28K&plan_id=
+USASAT-28P,United States 🇺🇸,85.15°W,Non-Planned,Early-Stage,No,n/a,No,0.09°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USASAT-28P&sel_satname=USASAT-28P&plan_id=
+USASAT-28F,United States 🇺🇸,85.1°W,Non-Planned,Late-Stage,Yes,Partial,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-28F&sel_satname=USASAT-28F&plan_id=
+DOM00000,Dominican Rep. 🇩🇴,85.4°W,Planned,Early-Stage,No,n/a,No,0.16°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=DOM00000&sel_satname=DOM00000&plan_id=plan
+USASAT-24U,United States 🇺🇸,85.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.24°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-24U&sel_satname=USASAT-24U&plan_id=
+USASAT-31U,United States 🇺🇸,85.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.24°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-31U&sel_satname=USASAT-31U&plan_id=
+USASAT-35Q,United States 🇺🇸,85.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.24°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-35Q&sel_satname=USASAT-35Q&plan_id=
+USASAT-9C,United States 🇺🇸,85.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.24°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-9C&sel_satname=USASAT-9C&plan_id=
+CPV00000,Cabo Verde 🇨🇻,85.7°W,Planned,Early-Stage,No,n/a,No,0.46°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CPV00000&sel_satname=CPV00000&plan_id=plan
+F-SAT-N7-86W,France 🇫🇷,86.0°W,Non-Planned,Early-Stage,No,n/a,No,0.76°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-86W&sel_satname=F-SAT-N7-86W&plan_id=
+NICASAT-1L,Nicaragua 🇳🇮,84.4°W,Non-Planned,Early-Stage,No,n/a,No,0.84°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NICASAT-1L&sel_satname=NICASAT-1L&plan_id=
+NCG00000,Nicaragua 🇳🇮,84.4°W,Planned,Early-Stage,No,n/a,No,0.84°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NCG00000&sel_satname=NCG00000&plan_id=plan
+NICASAT-1B,Nicaragua 🇳🇮,84.4°W,Non-Planned,Early-Stage,No,n/a,No,0.84°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NICASAT-1B&sel_satname=NICASAT-1B&plan_id=
+URG00000,Uruguay 🇺🇾,86.1°W,Planned,Early-Stage,No,n/a,No,0.86°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=URG00000&sel_satname=URG00000&plan_id=plan
+USASAT-28O,United States 🇺🇸,86.15°W,Non-Planned,Late-Stage,Yes,Partial,No,0.91°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-28O&sel_satname=USASAT-28O&plan_id=

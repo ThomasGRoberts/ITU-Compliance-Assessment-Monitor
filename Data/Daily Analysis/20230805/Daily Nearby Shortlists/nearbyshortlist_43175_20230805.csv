@@ -1,0 +1,15 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+IK-47.5W-F,Russian Federation 🇷🇺,47.5°W,Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=IK-47.5W-F&sel_satname=IK-47.5W-F&plan_id=plan
+HISPASAT-89A,Spain 🇪🇸,47.5°W,Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=HISPASAT-89A&sel_satname=HISPASAT-89A&plan_id=plan
+NSS-G8-1,Netherlands 🇳🇱,47.5°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=NSS-G8-1&sel_satname=NSS-G8-1&plan_id=
+B-SAT-1W-2,Brazil 🇧🇷,47.5°W,Non-Planned,Late-Stage,Yes,No,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-1W-2&sel_satname=B-SAT-1W-2&plan_id=
+KYPROS-47.5W,Cyprus 🇨🇾,47.5°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-47.5W&sel_satname=KYPROS-47.5W&plan_id=
+IK-47.5W,Russian Federation 🇷🇺,47.5°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=IK-47.5W&sel_satname=IK-47.5W&plan_id=
+SECOMSAT-5-47W,Spain 🇪🇸,47.0°W,Non-Planned,Early-Stage,No,n/a,No,0.49°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-5-47W&sel_satname=SECOMSAT-5-47W&plan_id=
+SECOMSAT-6-47W,Spain 🇪🇸,47.0°W,Non-Planned,Early-Stage,No,n/a,No,0.49°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SECOMSAT-6-47W&sel_satname=SECOMSAT-6-47W&plan_id=
+OHO-30B-47W,Sweden 🇸🇪,47.0°W,Planned,Early-Stage,No,n/a,No,0.49°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=OHO-30B-47W&sel_satname=OHO-30B-47W&plan_id=plan
+SE-8-47W,Norway 🇳🇴,47.0°W,Non-Planned,Early-Stage,No,n/a,No,0.49°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SE-8-47W&sel_satname=SE-8-47W&plan_id=
+B-SAT-1W,Brazil 🇧🇷,48.0°W,Non-Planned,Late-Stage,Yes,No,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=B-SAT-1W&sel_satname=B-SAT-1W&plan_id=
+SISCOMIS-8A,Brazil 🇧🇷,48.0°W,Non-Planned,Early-Stage,No,n/a,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SISCOMIS-8A&sel_satname=SISCOMIS-8A&plan_id=
+CHNNEWSAT-G1-48W,China 🇨🇳,48.0°W,Non-Planned,Early-Stage,No,n/a,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHNNEWSAT-G1-48W&sel_satname=CHNNEWSAT-G1-48W&plan_id=
+SEN00000,Senegal 🇸🇳,48.4°W,Planned,Early-Stage,No,n/a,No,0.91°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=SEN00000&sel_satname=SEN00000&plan_id=plan

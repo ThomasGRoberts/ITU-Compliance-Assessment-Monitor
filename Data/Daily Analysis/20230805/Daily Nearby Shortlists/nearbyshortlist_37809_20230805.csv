@@ -1,0 +1,19 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+LUX-G7-43,Luxembourg 🇱🇺,87.0°W,Non-Planned,Late-Stage,Yes,Partial,Total,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=LUX-G7-43&sel_satname=LUX-G7-43&plan_id=
+LUX-G15-45,Luxembourg 🇱🇺,87.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G15-45&sel_satname=LUX-G15-45&plan_id=
+LUX-G12-45,Luxembourg 🇱🇺,87.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G12-45&sel_satname=LUX-G12-45&plan_id=
+INMARSAT-7-87W,Switzerland 🇨🇭,87.0°W,Non-Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=INMARSAT-7-87W&sel_satname=INMARSAT-7-87W&plan_id=
+USASAT-35P,United States 🇺🇸,87.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-35P&sel_satname=USASAT-35P&plan_id=
+USASAT-24T,United States 🇺🇸,87.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-24T&sel_satname=USASAT-24T&plan_id=
+IK-87W-F,Russian Federation 🇷🇺,87.0°W,Planned,Early-Stage,No,n/a,No,0.01°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=IK-87W-F&sel_satname=IK-87W-F&plan_id=plan
+NSS-FSS 87W,Netherlands 🇳🇱,87.0°W,Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=NSS-FSS+87W&sel_satname=NSS-FSS+87W&plan_id=plan
+TKSAT-3,Bolivia (Plurinational State of) 🇧🇴,87.2°W,Non-Planned,Early-Stage,No,n/a,No,0.19°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=TKSAT-3&sel_satname=TKSAT-3&plan_id=
+TUPAK KATARI-1,Bolivia (Plurinational State of) 🇧🇴,87.2°W,Non-Planned,Late-Stage,Yes,No,No,0.19°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=TUPAK+KATARI-1&sel_satname=TUPAK+KATARI-1&plan_id=
+USAEGIS-87.2W,United States 🇺🇸,87.2°W,Non-Planned,Early-Stage,No,n/a,No,0.19°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=USAEGIS-87.2W&sel_satname=USAEGIS-87.2W&plan_id=
+CAN-BSS61,Canada 🇨🇦,86.5°W,Non-Planned,Early-Stage,No,n/a,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CAN-BSS61&sel_satname=CAN-BSS61&plan_id=
+NSS-G4-9,Netherlands 🇳🇱,86.5°W,Non-Planned,Late-Stage,Yes,Partial,Total,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=NSS-G4-9&sel_satname=NSS-G4-9&plan_id=
+CAN-BSS9,Canada 🇨🇦,86.5°W,Non-Planned,Late-Stage,Yes,Full,No,0.51°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CAN-BSS9&sel_satname=CAN-BSS9&plan_id=
+USASAT-28O,United States 🇺🇸,86.15°W,Non-Planned,Late-Stage,Yes,Partial,No,0.86°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USASAT-28O&sel_satname=USASAT-28O&plan_id=
+URG00000,Uruguay 🇺🇾,86.1°W,Planned,Early-Stage,No,n/a,No,0.91°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=URG00000&sel_satname=URG00000&plan_id=plan
+F-SAT-30B-88W,France 🇫🇷,88.0°W,Planned,Early-Stage,No,n/a,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=F-SAT-30B-88W&sel_satname=F-SAT-30B-88W&plan_id=plan
+F-SAT-N7-88W,France 🇫🇷,88.0°W,Non-Planned,Early-Stage,No,n/a,No,0.99°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=F-SAT-N7-88W&sel_satname=F-SAT-N7-88W&plan_id=

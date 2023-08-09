@@ -1,0 +1,8 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+LUX-G8-47,Luxembourg 🇱🇺,67.0°W,Non-Planned,Late-Stage,Yes,Full,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=LUX-G8-47&sel_satname=LUX-G8-47&plan_id=
+LUX-G11-49-1,Luxembourg 🇱🇺,67.0°W,Non-Planned,Early-Stage,No,n/a,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=LUX-G11-49-1&sel_satname=LUX-G11-49-1&plan_id=
+SIMON BOLIVAR 2,Colombia 🇨🇴,67.0°W,Non-Planned,Late-Stage,Yes,No,No,0.08°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SIMON+BOLIVAR+2&sel_satname=SIMON+BOLIVAR+2&plan_id=
+LUX-G11-49,Luxembourg 🇱🇺,67.0°W,Non-Planned,Late-Stage,Yes,Partial,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=LUX-G11-49&sel_satname=LUX-G11-49&plan_id=
+LUX-30B-G5-67W,Luxembourg 🇱🇺,67.0°W,Planned,Late-Stage,Yes,No,No,0.08°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=LUX-30B-G5-67W&sel_satname=LUX-30B-G5-67W&plan_id=plan
+SIGNSAT-66W,China 🇨🇳,66.6°W,Non-Planned,Early-Stage,No,n/a,No,0.32°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=SIGNSAT-66W&sel_satname=SIGNSAT-66W&plan_id=
+KYPROS-66.25W,Cyprus 🇨🇾,66.25°W,Non-Planned,Early-Stage,No,n/a,No,0.67°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=KYPROS-66.25W&sel_satname=KYPROS-66.25W&plan_id=

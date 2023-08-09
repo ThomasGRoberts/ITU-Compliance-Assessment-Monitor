@@ -1,0 +1,33 @@
+Network,ITU Administration,Longitude,Network Type,Filing Maturity,Brought into Use,Due Diligence Match,Suspended,Longitudinal Distance,Eligible,Link
+BSAT-109.85,Japan 🇯🇵,109.85°E,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=BSAT-109.85&sel_satname=BSAT-109.85&plan_id=
+NBSAT-21BX_1,Japan 🇯🇵,109.85°E,Non-Planned,Early-Stage,No,n/a,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=NBSAT-21BX_1&sel_satname=NBSAT-21BX_1&plan_id=
+NBSAT-21BX,Japan 🇯🇵,109.85°E,Non-Planned,Late-Stage,Yes,Partial,No,0.01°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=NBSAT-21BX&sel_satname=NBSAT-21BX&plan_id=
+JMCS-2,Japan 🇯🇵,110.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=JMCS-2&sel_satname=JMCS-2&plan_id=
+N-SAT-110E,Japan 🇯🇵,110.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=N-SAT-110E&sel_satname=N-SAT-110E&plan_id=
+N-SAT-110,Japan 🇯🇵,110.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=N-SAT-110&sel_satname=N-SAT-110&plan_id=
+USGGR-11,United States 🇺🇸,110.0°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USGGR-11&sel_satname=USGGR-11&plan_id=
+BSAT-110,Japan 🇯🇵,110.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=BSAT-110&sel_satname=BSAT-110&plan_id=
+JMCS-D2-X,Japan 🇯🇵,110.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=JMCS-D2-X&sel_satname=JMCS-D2-X&plan_id=
+P92-9A,United States 🇺🇸,110.0°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P92-9A&sel_satname=P92-9A&plan_id=
+N-SAT-Y22-110E,Japan 🇯🇵,110.0°E,Non-Planned,Early-Stage,No,n/a,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=N-SAT-Y22-110E&sel_satname=N-SAT-Y22-110E&plan_id=
+USCSID-A6,United States 🇺🇸,110.0°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=USCSID-A6&sel_satname=USCSID-A6&plan_id=
+N-SAT-Y12-110E,Japan 🇯🇵,110.0°E,Non-Planned,Late-Stage,Yes,Partial,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=N-SAT-Y12-110E&sel_satname=N-SAT-Y12-110E&plan_id=
+P-197-8,United States 🇺🇸,110.0°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P-197-8&sel_satname=P-197-8&plan_id=
+P92-9,United States 🇺🇸,110.0°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=P92-9&sel_satname=P92-9&plan_id=
+JMCS-5D,Japan 🇯🇵,110.0°E,Non-Planned,Early-Stage,No,n/a,No,0.14°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=JMCS-5D&sel_satname=JMCS-5D&plan_id=
+USLL-PAC5,United States 🇺🇸,110.0°E,Non-Planned,Late-Stage,Yes,No,No,0.14°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=USLL-PAC5&sel_satname=USLL-PAC5&plan_id=
+OHO-30B-110E,Sweden 🇸🇪,110.0°E,Planned,Early-Stage,No,n/a,No,0.14°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=OHO-30B-110E&sel_satname=OHO-30B-110E&plan_id=plan
+TAIKI-109.65,Japan 🇯🇵,109.65°E,Non-Planned,Late-Stage,Yes,No,No,0.21°,Yes 🟢,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=TAIKI-109.65&sel_satname=TAIKI-109.65&plan_id=
+COMPASS-110.5E,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=COMPASS-110.5E&sel_satname=COMPASS-110.5E&plan_id=
+COMPASS-A-110.5E,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=N&sat_name=COMPASS-A-110.5E&sel_satname=COMPASS-A-110.5E&plan_id=
+SINOSAT-5,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=SINOSAT-5&sel_satname=SINOSAT-5&plan_id=
+DFH-3A-OB,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=DFH-3A-OB&sel_satname=DFH-3A-OB&plan_id=
+CHINASAT-2,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-2&sel_satname=CHINASAT-2&plan_id=
+COMPASS-30B-110.5E,China 🇨🇳,110.5°E,Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=COMPASS-30B-110.5E&sel_satname=COMPASS-30B-110.5E&plan_id=plan
+CHINASAT-33,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-33&sel_satname=CHINASAT-33&plan_id=
+CHINASAT-30B1-110.5E,China 🇨🇳,110.5°E,Planned,Early-Stage,No,n/a,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=CHINASAT-30B1-110.5E&sel_satname=CHINASAT-30B1-110.5E&plan_id=plan
+UZB00000,Uzbekistan 🇺🇿,110.5°E,Planned,Early-Stage,No,n/a,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=P&sat_name=UZB00000&sel_satname=UZB00000&plan_id=plan
+CHINASAT-DL4,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-DL4&sel_satname=CHINASAT-DL4&plan_id=
+CHINASAT-6,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-6&sel_satname=CHINASAT-6&plan_id=
+CHINASAT-F-110.5E,China 🇨🇳,110.5°E,Non-Planned,Early-Stage,No,n/a,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=C&sat_name=CHINASAT-F-110.5E&sel_satname=CHINASAT-F-110.5E&plan_id=
+CHINASAT-D-110.5E,China 🇨🇳,110.5°E,Non-Planned,Late-Stage,Yes,No,No,0.64°,No 🔴,https://www.itu.int/net/ITU-R/space/snl/bresult/radvance.asp?sat_type=U&sat_name=CHINASAT-D-110.5E&sel_satname=CHINASAT-D-110.5E&plan_id=
