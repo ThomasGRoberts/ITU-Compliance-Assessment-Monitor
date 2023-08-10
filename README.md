@@ -1,6 +1,6 @@
 # ITU Compliance Assessment Monitor
 
-**Author:** Thomas G. Roberts ([thomasgr@mit.edu](mailto:thomasgr@mit.edu) / [thomasgroberts.com](thomasgroberts.com))
+**Author:** Thomas G. Roberts ([thomasgr@mit.edu](mailto:thomasgr@mit.edu) / [thomasgroberts.com](https://thomasgroberts.com))
 
 **Last Updated:** August 9, 2023
 
