@@ -78,9 +78,9 @@ with open('../Data/SNL Downloads/' + assessmentdate + '/snl_namechange_' + asses
 
 ## Now let's organize the data into one easy-to-read file. 
 # Write lists that ranks the order of the various filing types that can be found in the unplanned and planned list by maturity. More mature filings types appear later in these lists.
-unplanned_types = ['A', 'U', 'C', 'N']
-planned_types = ['P/Plan/List', 'P', 'U', 'N']
-# Make a list of planned networks and their most-mature filing categories.
+unplanned_types = ['n/a', 'A', 'U', 'C', 'N']
+planned_types = ['n/a', 'P', 'U', 'P/Plan/List', 'N']
+# Make a list of unplanned networks and their most-mature filing categories.
 unplanned_license_names = []
 unplanned_license_types = []
 with open('../Data/SNL Downloads/' + assessmentdate + '/snl_unplanned_' + assessmentdate + '.csv') as f:
@@ -194,7 +194,7 @@ for i in np.arange(len(df_licenses)):
 					try:
 						notif_reason = ssnref_dict[ssn_ref]
 						if len(output_row[6].replace('\xa0', ' ').strip()) == 10:
-							if notif_reason in ['P', 'A', 'C', 'U']:
+							if notif_reason != 'N':
 								earlystage_dates.append(datetime.strptime(output_row[6].replace('\xa0', ' ').strip(), '%d.%m.%Y'))
 							else:
 								latestage_dates.append(datetime.strptime(output_row[6].replace('\xa0', ' ').strip(), '%d.%m.%Y'))
