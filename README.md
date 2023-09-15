@@ -10,6 +10,9 @@ After an international coordination process, ITU member states receive space net
 
 This work represents a component of the author's doctoral thesis at [MIT's Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/), "Assessing Compliance with Geosynchronous Orbital Allocations from the International Telecommunication Union," which offers a historical assessment of compliance to the physical component of ITU space networks for more than decade of recent GEO satellite operations.
 
+![RadialChart](https://github.com/ThomasGRoberts/ITU-Compliance-Assessment-Monitor/assets/28744930/ffdd8892-1f53-49c8-ab59-6d26595891f8)
+*Figure: ITU satellite networks in GEO by longitudinal position.*
+
 ## Getting Started
 
 To run a compliance assessment:
