@@ -2,7 +2,7 @@
 
 **Author:** Thomas G. Roberts ([thomasgr@mit.edu](mailto:thomasgr@mit.edu) / [thomasgroberts.com](https://thomasgroberts.com))
 
-**Last Updated:** August 9, 2023
+**Last Updated:** October 9, 2023
 
 This tool can be used to assess geosynchronous (GEO) satellite operators' compliance with orbital allocations from the International Telecommunications Union (ITU), a specialized agency of the United Nations.
 
