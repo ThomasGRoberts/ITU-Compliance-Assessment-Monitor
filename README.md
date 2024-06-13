@@ -10,7 +10,7 @@ After an international coordination process, ITU member states receive space net
 
 This work represents a component of the author's [doctoral thesis](https://thomasgroberts.com/thesis) at [MIT's Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/), "Measuring Compliance to the International Telecommunication Union’s Geosynchronous Orbital Assignments," which offers a historical assessment of compliance to the physical component of ITU space networks for more than decade of recent GEO satellite operations. Both broader context and a detailed description of the Monitor's encoded algorithm can be found [here]([https://www.researchgate.net/publication/374553290_A_Method_for_Assessing_Satellite_Operators%27_Compliance_with_Geosynchronous_Orbital_Assignments](https://doi.org/10.1016/j.actaastro.2024.05.030)). In October 2023, the Monitor was awarded the [🏆 MIT Prize for Open Data](https://libraries.mit.edu/opendata/open-data-mit-home/mit-prize/). In December 2023, it was awarded the [🏆 GCSP Prize for Innovation in Global Security](https://www.gcsp.ch/global-insights/innovation-security-unveiling-pioneering-projects-2023-gcsp-prize-innovation-global).
 
-![RadialChart](https://github.com/ThomasGRoberts/ITU-Compliance-Assessment-Monitor/assets/28744930/ffdd8892-1f53-49c8-ab59-6d26595891f8)
+![RadialChart](https://raw.githubusercontent.com/ThomasGRoberts/ITU-Compliance-Assessment-Monitor/main/Data/satellitenetworks.jpg)
 *Figure: ITU satellite networks in GEO by longitudinal position.*
 
 ## Getting Started
