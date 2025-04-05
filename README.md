@@ -96,7 +96,7 @@ The rows in this file should be ordered chronologically. The order of the non-da
 
 ### Step 4: Assess compliance
 
-Assess single- or multi-date compliance by running `./Code/compliance_daily.py` or `./Code/compliance_daily.py`, respectively. 
+Assess single- or multi-date compliance by running `./Code/compliance_daily.py` or `./Code/compliance_historical.py`, respectively. 
 
 For both single- and multi-date assessments, the algorithm produces two products: compliance results and shortlists of space networks with prescribed longitudinal positions near the assessed satellites (called *nearby neighbors*). These various types of output files are described below.
 
